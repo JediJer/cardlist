@@ -1,0 +1,42 @@
+<div class="container-fluid">
+
+ 	<div class="row-fluid">
+		<div class="span2">
+      <!--Sidebar content-->
+       	Search: <input ng-model="query">
+				Sort by:
+        <select ng-model="orderProp">
+          <option value="name">Alphabetical</option>
+          <option value="type">Type</option>
+        </select>
+        Set:
+        <span ng-controller="CardSetCtrl">
+        	<select ng-model="set" ng-options="set.age as set.set for set in sets"></select>
+        </span>
+    </div>
+
+    <div class="span4" ng-controller="CardListCtrlLS">
+      <p class="">Light Side</p>
+      <ul class="cards">
+				<li ng-repeat="card in cards | filter:query | orderBy:orderProp" class="thumbnail">
+					<a href="#/cards/{{card.id}}" class="thumb"><img ng-src="{{card.imageUrl}}"/></a>
+          <a href="#/cards/{{card.id}}">{{card.name}}</a>
+          <p>{{card.type}}</p>
+				</li>
+			</ul>
+		</div>
+
+    <div class="span4" ng-controller="CardListCtrlDS">
+      <p class="">Dark Side</p>
+      <ul class="cards">
+      	<li ng-repeat="card in cards | filter:query | orderBy:orderProp" class="thumbnail">
+					<a href="#/cards/{{card.id}}" class="thumb"><img ng-src="{{card.imageUrl}}"></a>
+          <a href="#/cards/{{card.id}}">{{card.name}}</a>
+          <p>{{card.type}}</p>
+				</li>
+			</ul>
+ 		</div>
+
+  </div>
+
+</div>
