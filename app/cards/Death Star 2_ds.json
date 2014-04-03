@@ -1,0 +1,639 @@
+﻿{
+	{
+	"name": "Accuser",
+	"id": "accuser",
+	"imageUrl": "img/DeathStarII-Dark/accuser.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Admiral Chiraneau",
+	"id": "admiralchiraneau",
+	"imageUrl": "img/DeathStarII-Dark/admiralchiraneau.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Admiral Piett",
+	"id": "admiralpiett",
+	"imageUrl": "img/DeathStarII-Dark/admiralpiett.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Baron Soontir Fel",
+	"id": "baronsoontirfel",
+	"imageUrl": "img/DeathStarII-Dark/baronsoontirfel.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Battle Deployment",
+	"id": "battledeployment",
+	"imageUrl": "img/DeathStarII-Dark/battledeployment.gif",
+	"type": "Admiral's Order",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Black 11",
+	"id": "black11",
+	"imageUrl": "img/DeathStarII-Dark/black11.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Bring Him Before Me / Take Your Father's Place",
+	"id": "bringhimbeforeme",
+	"imageUrl": "img/starwars/DeathStarII-Dark/bringhimbeforeme/takeyourfathersplace.gif",
+	"type": "Objective",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Captain Godherdt",
+	"id": "captaingodherdt",
+	"imageUrl": "img/DeathStarII-Dark/captaingodherdt.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Captain Jonus",
+	"id": "captainjonus",
+	"imageUrl": "img/DeathStarII-Dark/captainjonus.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Captain Sarkli",
+	"id": "captainsarkli",
+	"imageUrl": "img/DeathStarII-Dark/captainsarkli.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Captain Yorr",
+	"id": "captainyorr",
+	"imageUrl": "img/DeathStarII-Dark/captainyorr.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Chimaera",
+	"id": "chimaera",
+	"imageUrl": "img/DeathStarII-Dark/chimaera.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Colonel Davod Jon",
+	"id": "coloneldavodjon",
+	"imageUrl": "img/DeathStarII-Dark/coloneldavodjon.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Colonel Jendon",
+	"id": "coloneljendon",
+	"imageUrl": "img/DeathStarII-Dark/coloneljendon.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Combat Response",
+	"id": "combatresponse",
+	"imageUrl": "img/DeathStarII-Dark/combatresponse.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Commander Merrejk",
+	"id": "commandermerrejk",
+	"imageUrl": "img/DeathStarII-Dark/commandermerrejk.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Concussion Missiles",
+	"id": "concussionmissiles_(ds)",
+	"imageUrl": "img/DeathStarII-Dark/concussionmissiles.gif",
+	"type": "Weapon",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Darth Vader's Lightsaber",
+	"id": "darthvaderslightsaber",
+	"imageUrl": "img/DeathStarII-Dark/darthvaderslightsaber.gif",
+	"type": "Weapon",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Death Star II",
+	"id": "deathstarii",
+	"imageUrl": "img/DeathStarII-Dark/deathstarii.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Death Star II: Capacitors",
+	"id": "deathstariicapacitors",
+	"imageUrl": "img/DeathStarII-Dark/deathstariicapacitors.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Death Star II: Coolant Shaft",
+	"id": "deathstariicoolantshaft",
+	"imageUrl": "img/DeathStarII-Dark/deathstariicoolantshaft.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Death Star II: Docking Bay",
+	"id": "deathstariidockingbay",
+	"imageUrl": "img/DeathStarII-Dark/deathstariidockingbay.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Death Star II: Reactor Core",
+	"id": "deathstariireactorcore",
+	"imageUrl": "img/DeathStarII-Dark/deathstariireactorcore.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Death Star II: Throne Room",
+	"id": "deathstariithroneroom",
+	"imageUrl": "img/DeathStarII-Dark/deathstariithroneroom.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Desperate Counter",
+	"id": "desperatecounter",
+	"imageUrl": "img/DeathStarII-Dark/desperatecounter.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Dominator",
+	"id": "dominator",
+	"imageUrl": "img/DeathStarII-Dark/dominator.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "DS-181-3",
+	"id": "ds1813",
+	"imageUrl": "img/DeathStarII-Dark/ds1813.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "DS-181-4",
+	"id": "ds1814",
+	"imageUrl": "img/DeathStarII-Dark/ds1814.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Emperor Palpatine",
+	"id": "emperorpalpatine",
+	"imageUrl": "img/DeathStarII-Dark/emperorpalpatine.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Emperor's Personal Shuttle",
+	"id": "emperorspersonalshuttle",
+	"imageUrl": "img/DeathStarII-Dark/emperorspersonalshuttle.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Emperor's Power",
+	"id": "emperorspower",
+	"imageUrl": "img/DeathStarII-Dark/emperorspower.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Endor Shield",
+	"id": "endorshield",
+	"imageUrl": "img/DeathStarII-Dark/endorshield.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Fighter Cover",
+	"id": "fightercover",
+	"imageUrl": "img/DeathStarII-Dark/fightercover.gif",
+	"type": "Admiral's Order",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Fighters Coming In",
+	"id": "fighterscomingin",
+	"imageUrl": "img/DeathStarII-Dark/fighterscomingin.gif",
+	"type": "Admiral's Order",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Flagship Executor",
+	"id": "flagshipexecutor",
+	"imageUrl": "img/DeathStarII-Dark/flagshipexecutor.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Flagship Operations",
+	"id": "flagshipoperations",
+	"imageUrl": "img/DeathStarII-Dark/flagshipoperations.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Force Lightning",
+	"id": "forcelightning",
+	"imageUrl": "img/DeathStarII-Dark/forcelightning.gif",
+	"type": "Interrupt",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Force Pike",
+	"id": "forcepike",
+	"imageUrl": "img/DeathStarII-Dark/forcepike.gif",
+	"type": "Weapon",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Gall",
+	"id": "gall",
+	"imageUrl": "img/DeathStarII-Dark/gall.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Heavy Turbolaser Battery",
+	"id": "heavyturbolaserbattery_(ds)",
+	"imageUrl": "img/DeathStarII-Dark/heavyturbolaserbattery.gif",
+	"type": "Weapon",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Imperial Command",
+	"id": "imperialcommand",
+	"imageUrl": "img/DeathStarII-Dark/imperialcommand.gif",
+	"type": "Interrupt",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Inconsequential Losses",
+	"id": "inconsequentiallosses",
+	"imageUrl": "img/DeathStarII-Dark/inconsequentiallosses.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Insignificant Rebellion",
+	"id": "insignificantrebellion",
+	"imageUrl": "img/DeathStarII-Dark/insignificantrebellion.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Intensify The Forward Batteries",
+	"id": "intensifytheforwardbatteries",
+	"imageUrl": "img/DeathStarII-Dark/intensifytheforwardbatteries.gif",
+	"type": "Admiral's Order",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Janus Greejatus",
+	"id": "janusgreejatus",
+	"imageUrl": "img/DeathStarII-Dark/janusgreejatus.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Judicator",
+	"id": "judicator",
+	"imageUrl": "img/DeathStarII-Dark/judicator.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Leave Them To Me",
+	"id": "leavethemtome",
+	"imageUrl": "img/DeathStarII-Dark/leavethemtome.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Lieutenant Endicott",
+	"id": "lieutenantendicott",
+	"imageUrl": "img/DeathStarII-Dark/lieutenantendicott.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Lieutenant Hebsly",
+	"id": "lieutenanthebsly",
+	"imageUrl": "img/DeathStarII-Dark/lieutenanthebsly.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Lord Vader",
+	"id": "lordvader",
+	"imageUrl": "img/DeathStarII-Dark/lordvader.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Major Mianda",
+	"id": "majormianda",
+	"imageUrl": "img/DeathStarII-Dark/majormianda.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Major Rhymer",
+	"id": "majorrhymer",
+	"imageUrl": "img/DeathStarII-Dark/majorrhymer.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Major Turr Phennir",
+	"id": "majorturrphennir",
+	"imageUrl": "img/DeathStarII-Dark/majorturrphennir.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Mobilization Points",
+	"id": "mobilizationpoints",
+	"imageUrl": "img/DeathStarII-Dark/mobilizationpoints.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Moff Jerjerrod",
+	"id": "moffjerjerrod",
+	"imageUrl": "img/DeathStarII-Dark/moffjerjerrod.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Mon Calamari",
+	"id": "moncalamari_(ds)",
+	"imageUrl": "img/DeathStarII-Dark/moncalamari.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Myn Kyneugh",
+	"id": "mynkyneugh",
+	"imageUrl": "img/DeathStarII-Dark/mynkyneugh.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Obsidian 10",
+	"id": "obsidian10",
+	"imageUrl": "img/DeathStarII-Dark/obsidian10.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Onyx 1",
+	"id": "onyx1",
+	"imageUrl": "img/DeathStarII-Dark/onyx1.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Onyx 2",
+	"id": "onyx2",
+	"imageUrl": "img/DeathStarII-Dark/onyx2.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Operational As Planned",
+	"id": "operationalasplanned",
+	"imageUrl": "img/DeathStarII-Dark/operationalasplanned.gif",
+	"type": "Interrupt",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Overseeing It Personally",
+	"id": "overseeingitpersonally",
+	"imageUrl": "img/DeathStarII-Dark/overseeingitpersonally.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Prepared Defenses",
+	"id": "prepareddefenses",
+	"imageUrl": "img/DeathStarII-Dark/prepareddefenses.gif",
+	"type": "Interrupt",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Rise, My Friend",
+	"id": "risemyfriend",
+	"imageUrl": "img/DeathStarII-Dark/risemyfriend.gif",
+	"type": "Interrupt",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Royal Escort",
+	"id": "royalescort",
+	"imageUrl": "img/DeathStarII-Dark/royalescort.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Royal Guard",
+	"id": "royalguard",
+	"imageUrl": "img/DeathStarII-Dark/royalguard.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Saber 1",
+	"id": "saber1",
+	"imageUrl": "img/DeathStarII-Dark/saber1.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Saber 2",
+	"id": "saber2",
+	"imageUrl": "img/DeathStarII-Dark/saber2.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Saber 3",
+	"id": "saber3",
+	"imageUrl": "img/DeathStarII-Dark/saber3.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Saber 4",
+	"id": "saber4",
+	"imageUrl": "img/DeathStarII-Dark/saber4.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Scimitar 1",
+	"id": "scimitar1",
+	"imageUrl": "img/DeathStarII-Dark/scimitar1.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Scimitar 2",
+	"id": "scimitar2",
+	"imageUrl": "img/DeathStarII-Dark/scimitar2.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Scimitar Squadron TIE",
+	"id": "scimitarsquadrontie",
+	"imageUrl": "img/DeathStarII-Dark/scimitarsquadrontie.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Scythe 1",
+	"id": "scythe1",
+	"imageUrl": "img/DeathStarII-Dark/scythe1.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Scythe 3",
+	"id": "scythe3",
+	"imageUrl": "img/DeathStarII-Dark/scythe3.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Scythe Squadron TIE",
+	"id": "scythesquadrontie",
+	"imageUrl": "img/DeathStarII-Dark/scythesquadrontie.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "SFS L-s7.2 TIE Cannon",
+	"id": "sfsls72tiecannon",
+	"imageUrl": "img/DeathStarII-Dark/sfsls72tiecannon.gif",
+	"type": "Weapon",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Sim Aloo",
+	"id": "simaloo",
+	"imageUrl": "img/DeathStarII-Dark/simaloo.gif",
+	"type": "Character",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Something Special Planned For Them",
+	"id": "somethingspecialplannedforthem",
+	"imageUrl": "img/DeathStarII-Dark/somethingspecialplannedforthem.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Sullust",
+	"id": "sullust_(ds)",
+	"imageUrl": "img/DeathStarII-Dark/sullust.gif",
+	"type": "Location",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Superlaser Mark II",
+	"id": "superlasermarkii",
+	"imageUrl": "img/DeathStarII-Dark/superlasermarkii.gif",
+	"type": "Weapon",
+	"set": "Death Star II"
+	},
+	{
+	"name": "That Thing's Operational",
+	"id": "thatthingsoperational",
+	"imageUrl": "img/DeathStarII-Dark/thatthingsoperational.gif",
+	"type": "Epic Event",
+	"set": "Death Star II"
+	},
+	{
+	"name": "The Emperor's Shield",
+	"id": "theemperorsshield",
+	"imageUrl": "img/DeathStarII-Dark/theemperorsshield.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "The Emperor's Sword",
+	"id": "theemperorssword",
+	"imageUrl": "img/DeathStarII-Dark/theemperorssword.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Thunderflare",
+	"id": "thunderflare",
+	"imageUrl": "img/DeathStarII-Dark/thunderflare.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "TIE Interceptor",
+	"id": "tieinterceptor",
+	"imageUrl": "img/DeathStarII-Dark/tieinterceptor.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Visage",
+	"id": "visage",
+	"imageUrl": "img/DeathStarII-Dark/visage.gif",
+	"type": "Starship",
+	"set": "Death Star II"
+	},
+	{
+	"name": "We're In Attack Position Now",
+	"id": "wereinattackpositionnow",
+	"imageUrl": "img/DeathStarII-Dark/wereinattackpositionnow.gif",
+	"type": "Admiral's Order",
+	"set": "Death Star II"
+	},
+	{
+	"name": "You Cannot Hide Forever",
+	"id": "youcannothideforever",
+	"imageUrl": "img/DeathStarII-Dark/youcannothideforever.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Young Fool",
+	"id": "youngfool",
+	"imageUrl": "img/DeathStarII-Dark/youngfool.gif",
+	"type": "Interrupt",
+	"set": "Death Star II"
+	},
+	{
+	"name": "Your Destiny",
+	"id": "yourdestiny",
+	"imageUrl": "img/DeathStarII-Dark/yourdestiny.gif",
+	"type": "Effect",
+	"set": "Death Star II"
+	}
+}

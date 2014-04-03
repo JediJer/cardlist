@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "Accelerate",
+	"id": "accelerate",
+	"imageUrl": "img/Endor-Dark/accelerate.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Always Thinking With Your Stomach",
+	"id": "alwaysthinkingwithyourstomach",
+	"imageUrl": "img/Endor-Dark/alwaysthinkingwithyourstomach.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "An Entire Legion Of My Best Troops",
+	"id": "anentirelegionofmybesttroops",
+	"imageUrl": "img/Endor-Dark/anentirelegionofmybesttroops.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Aratech Corporation",
+	"id": "aratechcorporation",
+	"imageUrl": "img/Endor-Dark/aratechcorporation.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "AT-ST Dual Cannon",
+	"id": "atstdualcannon",
+	"imageUrl": "img/Endor-Dark/atstdualcannon.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "AT-ST Pilot",
+	"id": "atstpilot",
+	"imageUrl": "img/Endor-Dark/atstpilot.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Battle Order",
+	"id": "battleorder",
+	"imageUrl": "img/Endor-Dark/battleorder.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Biker Scout Gear",
+	"id": "bikerscoutgear",
+	"imageUrl": "img/Endor-Dark/bikerscoutgear.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Biker Scout Trooper",
+	"id": "bikerscouttrooper",
+	"imageUrl": "img/Endor-Dark/bikerscouttrooper.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Carida",
+	"id": "carida",
+	"imageUrl": "img/Endor-Dark/carida.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Closed Door",
+	"id": "closeddoor",
+	"imageUrl": "img/Endor-Dark/closeddoor.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Colonel Dyer",
+	"id": "coloneldyer",
+	"imageUrl": "img/Endor-Dark/coloneldyer.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Combat Readiness",
+	"id": "combatreadiness",
+	"imageUrl": "img/Endor-Dark/combatreadiness.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Commander Igar",
+	"id": "commanderigar",
+	"imageUrl": "img/Endor-Dark/commanderigar.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Compact Firepower",
+	"id": "compactfirepower",
+	"imageUrl": "img/Endor-Dark/compactfirepower.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Avarik",
+	"id": "corporalavarik",
+	"imageUrl": "img/Endor-Dark/corporalavarik.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Drazin",
+	"id": "corporaldrazin",
+	"imageUrl": "img/Endor-Dark/corporaldrazin.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Drelosyn",
+	"id": "corporaldrelosyn",
+	"imageUrl": "img/Endor-Dark/corporaldrelosyn.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Misik",
+	"id": "corporalmisik",
+	"imageUrl": "img/Endor-Dark/corporalmisik.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Oberk",
+	"id": "corporaloberk",
+	"imageUrl": "img/Endor-Dark/corporaloberk.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Counterattack",
+	"id": "counterattack",
+	"imageUrl": "img/Endor-Dark/counterattack.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Crossfire",
+	"id": "crossfire",
+	"imageUrl": "img/Endor-Dark/crossfire.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Dead Ewok",
+	"id": "deadewok",
+	"imageUrl": "img/Endor-Dark/deadewok.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Don't Move!",
+	"id": "dontmove",
+	"imageUrl": "img/Endor-Dark/dontmove.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Early Warning Network",
+	"id": "earlywarningnetwork",
+	"imageUrl": "img/Endor-Dark/earlywarningnetwork.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Eee Chu Wawa!",
+	"id": "eeechuwawa",
+	"imageUrl": "img/Endor-Dark/eeechuwawa.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Elite Squadron Stormtrooper",
+	"id": "elitesquadronstormtrooper",
+	"imageUrl": "img/Endor-Dark/elitesquadronstormtrooper.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Empire's New Order",
+	"id": "empiresneworder",
+	"imageUrl": "img/Endor-Dark/empiresneworder.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor",
+	"id": "endor_(ds)",
+	"imageUrl": "img/Endor-Dark/endor.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor Occupation",
+	"id": "endoroccupation",
+	"imageUrl": "img/Endor-Dark/endoroccupation.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor Operations / Imperial Outpost",
+	"id": "endoroperations",
+	"imageUrl": "img/starwars/Endor-Dark/endoroperations/imperialoutpost.gif",
+	"type": "Objective",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Ancient Forest",
+	"id": "endorancientforest",
+	"imageUrl": "img/Endor-Dark/endorancientforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Back Door",
+	"id": "endorbackdoor_(ds)",
+	"imageUrl": "img/Endor-Dark/endorbackdoor.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Bunker",
+	"id": "endorbunker_(ds)",
+	"imageUrl": "img/Endor-Dark/endorbunker.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Dark Forest",
+	"id": "endordarkforest",
+	"imageUrl": "img/Endor-Dark/endordarkforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Dense Forest",
+	"id": "endordenseforest_(ds)",
+	"imageUrl": "img/Endor-Dark/endordenseforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Ewok Village",
+	"id": "endorewokvillage_(ds)",
+	"imageUrl": "img/Endor-Dark/endorewokvillage.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Forest Clearing",
+	"id": "endorforestclearing",
+	"imageUrl": "img/Endor-Dark/endorforestclearing.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Great Forest",
+	"id": "endorgreatforest_(ds)",
+	"imageUrl": "img/Endor-Dark/endorgreatforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Landing Platform (Docking Bay)",
+	"id": "endorlandingplatformdockingbay_(ds)",
+	"imageUrl": "img/Endor-Dark/endorlandingplatformdockingbay.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Establish Secret Base",
+	"id": "establishsecretbase",
+	"imageUrl": "img/Endor-Dark/establishsecretbase.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Freeze!",
+	"id": "freeze",
+	"imageUrl": "img/Endor-Dark/freeze.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Go For Help!",
+	"id": "goforhelp",
+	"imageUrl": "img/Endor-Dark/goforhelp.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "High-speed Tactics",
+	"id": "highspeedtactics",
+	"imageUrl": "img/Endor-Dark/highspeedtactics.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Hot Pursuit",
+	"id": "hotpursuit",
+	"imageUrl": "img/Endor-Dark/hotpursuit.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Imperial Academy Training",
+	"id": "imperialacademytraining",
+	"imageUrl": "img/Endor-Dark/imperialacademytraining.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Imperial Arrest Order",
+	"id": "imperialarrestorder",
+	"imageUrl": "img/Endor-Dark/imperialarrestorder.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Imperial Tyranny",
+	"id": "imperialtyranny",
+	"imageUrl": "img/Endor-Dark/imperialtyranny.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "It's An Older Code",
+	"id": "itsanoldercode",
+	"imageUrl": "img/Endor-Dark/itsanoldercode.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Lambda-Class Shuttle",
+	"id": "lambdaclassshuttle",
+	"imageUrl": "img/Endor-Dark/lambdaclassshuttle.gif",
+	"type": "Starship",
+	"set": "Endor"
+	},
+	{
+	"name": "Lieutenant Arnet",
+	"id": "lieutenantarnet",
+	"imageUrl": "img/Endor-Dark/lieutenantarnet.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Lieutenant Grond",
+	"id": "lieutenantgrond",
+	"imageUrl": "img/Endor-Dark/lieutenantgrond.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Lieutenant Renz",
+	"id": "lieutenantrenz",
+	"imageUrl": "img/Endor-Dark/lieutenantrenz.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Lieutenant Watts",
+	"id": "lieutenantwatts",
+	"imageUrl": "img/Endor-Dark/lieutenantwatts.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Main Course",
+	"id": "maincourse",
+	"imageUrl": "img/Endor-Dark/maincourse.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Major Hewex",
+	"id": "majorhewex",
+	"imageUrl": "img/Endor-Dark/majorhewex.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Major Marquand",
+	"id": "majormarquand",
+	"imageUrl": "img/Endor-Dark/majormarquand.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Navy Trooper",
+	"id": "navytrooper",
+	"imageUrl": "img/Endor-Dark/navytrooper.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Navy Trooper Fenson",
+	"id": "navytrooperfenson",
+	"imageUrl": "img/Endor-Dark/navytrooperfenson.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Navy Trooper Shield Technician",
+	"id": "navytroopershieldtechnician",
+	"imageUrl": "img/Endor-Dark/navytroopershieldtechnician.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Navy Trooper Vesden",
+	"id": "navytroopervesden",
+	"imageUrl": "img/Endor-Dark/navytroopervesden.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Ominous Rumors",
+	"id": "ominousrumors",
+	"imageUrl": "img/Endor-Dark/ominousrumors.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Outflank",
+	"id": "outflank",
+	"imageUrl": "img/Endor-Dark/outflank.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Perimeter Patrol",
+	"id": "perimeterpatrol",
+	"imageUrl": "img/Endor-Dark/perimeterpatrol.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Pinned Down",
+	"id": "pinneddown",
+	"imageUrl": "img/Endor-Dark/pinneddown.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Pitiful Little Band",
+	"id": "pitifullittleband",
+	"imageUrl": "img/Endor-Dark/pitifullittleband.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Relentless Tracking",
+	"id": "relentlesstracking",
+	"imageUrl": "img/Endor-Dark/relentlesstracking.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Scout Blaster",
+	"id": "scoutblaster",
+	"imageUrl": "img/Endor-Dark/scoutblaster.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Scout Recon",
+	"id": "scoutrecon",
+	"imageUrl": "img/Endor-Dark/scoutrecon.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Search And Destroy",
+	"id": "searchanddestroy",
+	"imageUrl": "img/Endor-Dark/searchanddestroy.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Security Precautions",
+	"id": "securityprecautions",
+	"imageUrl": "img/Endor-Dark/securityprecautions.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Barich",
+	"id": "sergeantbarich",
+	"imageUrl": "img/Endor-Dark/sergeantbarich.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Elsek",
+	"id": "sergeantelsek",
+	"imageUrl": "img/Endor-Dark/sergeantelsek.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Irol",
+	"id": "sergeantirol",
+	"imageUrl": "img/Endor-Dark/sergeantirol.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Tarl",
+	"id": "sergeanttarl",
+	"imageUrl": "img/Endor-Dark/sergeanttarl.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Wallen",
+	"id": "sergeantwallen",
+	"imageUrl": "img/Endor-Dark/sergeantwallen.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sneak Attack",
+	"id": "sneakattack",
+	"imageUrl": "img/Endor-Dark/sneakattack.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Speeder Bike",
+	"id": "speederbike_(ds)",
+	"imageUrl": "img/Endor-Dark/speederbike.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Speeder Bike Cannon",
+	"id": "speederbikecannon",
+	"imageUrl": "img/Endor-Dark/speederbikecannon.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest 1",
+	"id": "tempest1",
+	"imageUrl": "img/Endor-Dark/tempest1.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout",
+	"id": "tempestscout",
+	"imageUrl": "img/Endor-Dark/tempestscout.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout 1",
+	"id": "tempestscout1",
+	"imageUrl": "img/Endor-Dark/tempestscout1.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout 2",
+	"id": "tempestscout2",
+	"imageUrl": "img/Endor-Dark/tempestscout2.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout 3",
+	"id": "tempestscout3",
+	"imageUrl": "img/Endor-Dark/tempestscout3.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout 4",
+	"id": "tempestscout4",
+	"imageUrl": "img/Endor-Dark/tempestscout4.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout 5",
+	"id": "tempestscout5",
+	"imageUrl": "img/Endor-Dark/tempestscout5.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Tempest Scout 6",
+	"id": "tempestscout6",
+	"imageUrl": "img/Endor-Dark/tempestscout6.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Well-earned Command",
+	"id": "wellearnedcommand",
+	"imageUrl": "img/Endor-Dark/wellearnedcommand.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Wounded Warrior",
+	"id": "woundedwarrior",
+	"imageUrl": "img/Endor-Dark/woundedwarrior.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "You Rebel Scum",
+	"id": "yourebelscum",
+	"imageUrl": "img/Endor-Dark/yourebelscum.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	}
+}

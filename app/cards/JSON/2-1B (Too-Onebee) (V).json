@@ -1,0 +1,22 @@
+﻿[
+{
+	"name": "2-1B (Too-Onebee) (V)",
+	"id": "21b21btooonebeev",
+	"side": "LS",
+	"type": "Character",
+	"subtype": "Droid",
+	"card_set": "Virtual Block 2",
+	"icons": "Hoth",
+	"lore": "Made by Genetech. Unusually independent for a droid. Forced to serve a Moff on Firro, but was liberated by Tiree. Now dedicated to serving the Alliance.",
+	"rarity": "R1",
+	"text": "Once per turn, may place your non-droid character just lost at same or related site in Used Pile instead of Lost Pile. X on Bacta Tank is -2.",
+	"destiny": "1",
+	"power": "0",
+	"ability": "0",
+	"deploy": "2",
+	"forfeit": "5",
+	"path": "/starwars/Virtual2-Light/21btooonebee.gif",
+	"uniqueness": "•",
+	"modeltype": "Medical"
+}
+]

@@ -1,0 +1,401 @@
+﻿{
+	{
+	"name": "A Jedi's Patience (V)",
+	"id": "ajedispatience-v",
+	"imageUrl": "img/Virtual3-Light/ajedispatience.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "A280 Sharpshooter Rifle (V)",
+	"id": "a280sharpshooterrifle-v",
+	"imageUrl": "img/Virtual3-Light/a280sharpshooterrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Admiral Ackbar (V)",
+	"id": "admiralackbar-v",
+	"imageUrl": "img/Virtual3-Light/admiralackbar.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Attark (V)",
+	"id": "attark-v",
+	"imageUrl": "img/Virtual3-Light/attark.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Aved Luun (V)",
+	"id": "avedluun-v",
+	"imageUrl": "img/Virtual3-Light/avedluun.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Bargaining Table (V)",
+	"id": "bargainingtable-v",
+	"imageUrl": "img/Virtual3-Light/bargainingtable.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "BG-J38 (V)",
+	"id": "bgj38-v",
+	"imageUrl": "img/Virtual3-Light/bgj38.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Chewie's AT-ST (V)",
+	"id": "chewiesatst-v",
+	"imageUrl": "img/Virtual3-Light/chewiesatst.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Chief Chirpa (V)",
+	"id": "chiefchirpa-v",
+	"imageUrl": "img/Virtual3-Light/chiefchirpa.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Commando Training (V)",
+	"id": "commandotraining-v",
+	"imageUrl": "img/Virtual3-Light/commandotraining.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Corellian Retort (V)",
+	"id": "corellianretort-v",
+	"imageUrl": "img/Virtual3-Light/corellianretort.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Count Me In (V)",
+	"id": "countmein-v",
+	"imageUrl": "img/Virtual3-Light/countmein.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Covert Landing (V)",
+	"id": "covertlanding-v",
+	"imageUrl": "img/Virtual3-Light/covertlanding.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Diversionary Tactics (V)",
+	"id": "diversionarytactics-v",
+	"imageUrl": "img/Virtual3-Light/diversionarytactics.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Don't Forget The Droids (V)",
+	"id": "dontforgetthedroids-v",
+	"imageUrl": "img/Virtual3-Light/dontforgetthedroids.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Endor Celebration (V)",
+	"id": "endorcelebration-v",
+	"imageUrl": "img/Virtual3-Light/endorcelebration.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Endor: Ewok Village (V)",
+	"id": "endorewokvillage-v",
+	"imageUrl": "img/Virtual3-Light/endorewokvillage.gif",
+	"type": "Location",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Enhanced Proton Torpedoes (V)",
+	"id": "enhancedprotontorpedoes-v",
+	"imageUrl": "img/Virtual3-Light/enhancedprotontorpedoes.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "General Solo (V)",
+	"id": "generalsolo-v",
+	"imageUrl": "img/Virtual3-Light/generalsolo.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "General Walex Blissex (V)",
+	"id": "generalwalexblissex-v",
+	"imageUrl": "img/Virtual3-Light/generalwalexblissex.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Green Squadron 1 (V)",
+	"id": "greensquadron1-v",
+	"imageUrl": "img/Virtual3-Light/greensquadron1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Han (V)",
+	"id": "han-v",
+	"imageUrl": "img/Virtual3-Light/han.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "I Must Be Allowed To Speak (V)",
+	"id": "imustbeallowedtospeak-v",
+	"imageUrl": "img/Virtual3-Light/imustbeallowedtospeak.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "I Wonder Who They Found (V)",
+	"id": "iwonderwhotheyfound-v",
+	"imageUrl": "img/Virtual3-Light/iwonderwhotheyfound.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "I'm With You Too (V)",
+	"id": "imwithyoutoo-v",
+	"imageUrl": "img/Virtual3-Light/imwithyoutoo.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Kalit (V)",
+	"id": "kalit-v",
+	"imageUrl": "img/Virtual3-Light/kalit.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Ke Chu Ke Kukuta? (V)",
+	"id": "kechukekukuta-v",
+	"imageUrl": "img/Virtual3-Light/kechukekukuta.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Laudica (V)",
+	"id": "laudica-v",
+	"imageUrl": "img/Virtual3-Light/laudica.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Leslomy Tacema (V)",
+	"id": "leslomytacema-v",
+	"imageUrl": "img/Virtual3-Light/leslomytacema.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Let's Keep A Little Optimism Here (V)",
+	"id": "letskeepalittleoptimismhere-v",
+	"imageUrl": "img/Virtual3-Light/letskeepalittleoptimismhere.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Lieutenant Blount (V)",
+	"id": "lieutenantblount-v",
+	"imageUrl": "img/Virtual3-Light/lieutenantblount.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Luke Skywalker, Rebel Scout (V)",
+	"id": "lukeskywalkerrebelscout-v",
+	"imageUrl": "img/Virtual3-Light/lukeskywalkerrebelscout.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Luke's Ultimatum",
+	"id": "lukesultimatum",
+	"imageUrl": "img/Virtual3-Light/lukesultimatum.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Mandalorian Mishap (V)",
+	"id": "mandalorianmishap-v",
+	"imageUrl": "img/Virtual3-Light/mandalorianmishap.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Master Luke (V)",
+	"id": "masterluke-v",
+	"imageUrl": "img/Virtual3-Light/masterluke.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Mon Calamari Star Cruiser (V)",
+	"id": "moncalamaristarcruiser-v",
+	"imageUrl": "img/Virtual3-Light/moncalamaristarcruiser.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Orrimaarko (V)",
+	"id": "orrimaarko-v",
+	"imageUrl": "img/Virtual3-Light/orrimaarko.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Our Only Hope (V)",
+	"id": "ouronlyhope-v",
+	"imageUrl": "img/Virtual3-Light/ouronlyhope.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Princess Leia Organa (V)",
+	"id": "princessleiaorgana-v",
+	"imageUrl": "img/Virtual3-Light/princessleiaorgana.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Rapid Deployment (V)",
+	"id": "rapiddeployment-v",
+	"imageUrl": "img/Virtual3-Light/rapiddeployment.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Rebel Leadership (V)",
+	"id": "rebelleadership-v",
+	"imageUrl": "img/Virtual3-Light/rebelleadership.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Red Squadron 7 (V)",
+	"id": "redsquadron7-v",
+	"imageUrl": "img/Virtual3-Light/redsquadron7.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Seeking An Audience (V)",
+	"id": "seekinganaudience-v",
+	"imageUrl": "img/Virtual3-Light/seekinganaudience.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "See-Threepio (V)",
+	"id": "seethreepio-v",
+	"imageUrl": "img/Virtual3-Light/seethreepio.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Strikeforce (V)",
+	"id": "strikeforce-v",
+	"imageUrl": "img/Virtual3-Light/strikeforce.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Superficial Damage (V)",
+	"id": "superficialdamage-v",
+	"imageUrl": "img/Virtual3-Light/superficialdamage.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Taking Them With Us (V)",
+	"id": "takingthemwithus-v",
+	"imageUrl": "img/Virtual3-Light/takingthemwithus.gif",
+	"type": "Admiral's Order",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Tamtel Skreej (V)",
+	"id": "tamtelskreej-v",
+	"imageUrl": "img/Virtual3-Light/tamtelskreej.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Tanus Spijek (V)",
+	"id": "tanusspijek-v",
+	"imageUrl": "img/Virtual3-Light/tanusspijek.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Tawss Khaa (V)",
+	"id": "tawsskhaa-v",
+	"imageUrl": "img/Virtual3-Light/tawsskhaa.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "That's One (V)",
+	"id": "thatsone-v",
+	"imageUrl": "img/Virtual3-Light/thatsone.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "The Signal (V)",
+	"id": "thesignal-v",
+	"imageUrl": "img/Virtual3-Light/thesignal.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "The Time For Our Attack Has Come (V)",
+	"id": "thetimeforourattackhascome-v",
+	"imageUrl": "img/Virtual3-Light/thetimeforourattackhascome.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Tydirium (V)",
+	"id": "tydirium-v",
+	"imageUrl": "img/Virtual3-Light/tydirium.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Uh-oh! (V)",
+	"id": "uhoh-v",
+	"imageUrl": "img/Virtual3-Light/uhoh.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Wicket (V)",
+	"id": "wicket-v",
+	"imageUrl": "img/Virtual3-Light/wicket.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Yarna d'al' Gargan (V)",
+	"id": "yarnadalgargan-v",
+	"imageUrl": "img/Virtual3-Light/yarnadalgargan.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	}
+}

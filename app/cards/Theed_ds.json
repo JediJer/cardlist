@@ -1,0 +1,443 @@
+﻿{
+	{
+	"name": "3B3-10",
+	"id": "3b310",
+	"imageUrl": "img/TheedPalace-Dark/3b310.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "3B3-1204",
+	"id": "3b31204",
+	"imageUrl": "img/TheedPalace-Dark/3b31204.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "3B3-21",
+	"id": "3b321",
+	"imageUrl": "img/TheedPalace-Dark/3b321.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "3B3-888",
+	"id": "3b3888",
+	"imageUrl": "img/TheedPalace-Dark/3b3888.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "AAT Assault Leader",
+	"id": "aatassaultleader",
+	"imageUrl": "img/TheedPalace-Dark/aatassaultleader.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "AAT Laser Cannon",
+	"id": "aatlasercannon",
+	"imageUrl": "img/TheedPalace-Dark/aatlasercannon.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Activate The Droids",
+	"id": "activatethedroids",
+	"imageUrl": "img/TheedPalace-Dark/activatethedroids.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "After Her!",
+	"id": "afterher",
+	"imageUrl": "img/TheedPalace-Dark/afterher.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Armored Attack Tank",
+	"id": "armoredattacktank",
+	"imageUrl": "img/TheedPalace-Dark/armoredattacktank.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "At Last We Are Getting Results",
+	"id": "atlastwearegettingresults",
+	"imageUrl": "img/TheedPalace-Dark/atlastwearegettingresults.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Battle Droid Officer",
+	"id": "battledroidofficer",
+	"imageUrl": "img/TheedPalace-Dark/battledroidofficer.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Battle Droid Pilot",
+	"id": "battledroidpilot",
+	"imageUrl": "img/TheedPalace-Dark/battledroidpilot.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Blockade Flagship",
+	"id": "blockadeflagship",
+	"imageUrl": "img/TheedPalace-Dark/blockadeflagship.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Blockade Flagship: Docking Bay",
+	"id": "blockadeflagshipdockingbay_(ds)",
+	"imageUrl": "img/TheedPalace-Dark/blockadeflagshipdockingbay.gif",
+	"type": "Location",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bok Askol",
+	"id": "bokaskol",
+	"imageUrl": "img/TheedPalace-Dark/bokaskol.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Captain Daultay Dofine",
+	"id": "captaindaultaydofine",
+	"imageUrl": "img/TheedPalace-Dark/captaindaultaydofine.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Cease Fire!",
+	"id": "ceasefire",
+	"imageUrl": "img/TheedPalace-Dark/ceasefire.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Darth Maul With Lightsaber",
+	"id": "darthmaulwithlightsaber",
+	"imageUrl": "img/TheedPalace-Dark/darthmaulwithlightsaber.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Darth Sidious",
+	"id": "darthsidious",
+	"imageUrl": "img/TheedPalace-Dark/darthsidious.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Darth Sidious (AI)",
+	"id": "darthsidiousai",
+	"imageUrl": "img/TheedPalace-Dark/darthsidiousai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "DFS Squadron Starfighter",
+	"id": "dfssquadronstarfighter",
+	"imageUrl": "img/TheedPalace-Dark/dfssquadronstarfighter.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "DFS-1015",
+	"id": "dfs1015",
+	"imageUrl": "img/TheedPalace-Dark/dfs1015.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "DFS-1308",
+	"id": "dfs1308",
+	"imageUrl": "img/TheedPalace-Dark/dfs1308.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "DFS-327",
+	"id": "dfs327",
+	"imageUrl": "img/TheedPalace-Dark/dfs327.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Droid Racks",
+	"id": "droidracks",
+	"imageUrl": "img/TheedPalace-Dark/droidracks.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Droid Starfighter Laser Cannons",
+	"id": "droidstarfighterlasercannons",
+	"imageUrl": "img/TheedPalace-Dark/droidstarfighterlasercannons.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Drop Your Weapons",
+	"id": "dropyourweapons",
+	"imageUrl": "img/TheedPalace-Dark/dropyourweapons.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Energy Shell Launchers",
+	"id": "energyshelllaunchers",
+	"imageUrl": "img/TheedPalace-Dark/energyshelllaunchers.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Fighters Straight Ahead",
+	"id": "fightersstraightahead",
+	"imageUrl": "img/TheedPalace-Dark/fightersstraightahead.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Halt!",
+	"id": "halt",
+	"imageUrl": "img/TheedPalace-Dark/halt.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Infantry Battle Droid",
+	"id": "infantrybattledroid",
+	"imageUrl": "img/TheedPalace-Dark/infantrybattledroid.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Invasion / In Complete Control",
+	"id": "invasion",
+	"imageUrl": "img/starwars/TheedPalace-Dark/invasion/incompletecontrol.gif",
+	"type": "Objective",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Master, Destroyers!",
+	"id": "masterdestroyers",
+	"imageUrl": "img/TheedPalace-Dark/masterdestroyers.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Multi Troop Transport",
+	"id": "multitrooptransport",
+	"imageUrl": "img/TheedPalace-Dark/multitrooptransport.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Naboo Occupation",
+	"id": "naboooccupation",
+	"imageUrl": "img/TheedPalace-Dark/naboooccupation.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Naboo: Theed Palace Hallway",
+	"id": "nabootheedpalacehallway_(ds)",
+	"imageUrl": "img/TheedPalace-Dark/nabootheedpalacehallway.gif",
+	"type": "Location",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Nothing Can Get Through Our Shield",
+	"id": "nothingcangetthroughourshield",
+	"imageUrl": "img/TheedPalace-Dark/nothingcangetthroughourshield.gif",
+	"type": "Admiral's Order",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Nute Gunray, Neimoidian Viceroy",
+	"id": "nutegunrayneimoidianviceroy",
+	"imageUrl": "img/TheedPalace-Dark/nutegunrayneimoidianviceroy.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Nute Gunray, Neimoidian Viceroy (AI)",
+	"id": "nutegunrayneimoidianviceroyai",
+	"imageUrl": "img/TheedPalace-Dark/nutegunrayneimoidianviceroyai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "OOM-9",
+	"id": "oom9",
+	"imageUrl": "img/TheedPalace-Dark/oom9.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Open Fire!",
+	"id": "openfire",
+	"imageUrl": "img/TheedPalace-Dark/openfire.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "OWO-1 With Backup",
+	"id": "owo1withbackup",
+	"imageUrl": "img/TheedPalace-Dark/owo1withbackup.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Rayno Vaca",
+	"id": "raynovaca",
+	"imageUrl": "img/TheedPalace-Dark/raynovaca.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Rolling, Rolling, Rolling",
+	"id": "rollingrollingrolling",
+	"imageUrl": "img/TheedPalace-Dark/rollingrollingrolling.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Rune Haako, Legal Counsel",
+	"id": "runehaakolegalcounsel",
+	"imageUrl": "img/TheedPalace-Dark/runehaakolegalcounsel.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Rune Haako, Legal Counsel (AI)",
+	"id": "runehaakolegalcounselai",
+	"imageUrl": "img/TheedPalace-Dark/runehaakolegalcounselai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Senate Hovercam",
+	"id": "senatehovercam_(ds)",
+	"imageUrl": "img/TheedPalace-Dark/senatehovercam.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Sil Unch",
+	"id": "silunch",
+	"imageUrl": "img/TheedPalace-Dark/silunch.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Single Trooper Aerial Platform",
+	"id": "singletrooperaerialplatform",
+	"imageUrl": "img/TheedPalace-Dark/singletrooperaerialplatform.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "SSA-1015",
+	"id": "ssa1015",
+	"imageUrl": "img/TheedPalace-Dark/ssa1015.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "SSA-306",
+	"id": "ssa306",
+	"imageUrl": "img/TheedPalace-Dark/ssa306.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "SSA-719",
+	"id": "ssa719",
+	"imageUrl": "img/TheedPalace-Dark/ssa719.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "STAP Blaster Cannons",
+	"id": "stapblastercannons",
+	"imageUrl": "img/TheedPalace-Dark/stapblastercannons.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Take Them Away",
+	"id": "takethemaway",
+	"imageUrl": "img/TheedPalace-Dark/takethemaway.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Tank Commander",
+	"id": "tankcommander",
+	"imageUrl": "img/TheedPalace-Dark/tankcommander.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "The Deflector Shield Is Too Strong",
+	"id": "thedeflectorshieldistoostrong",
+	"imageUrl": "img/TheedPalace-Dark/thedeflectorshieldistoostrong.gif",
+	"type": "Admiral's Order",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "There They Are!",
+	"id": "theretheyare",
+	"imageUrl": "img/TheedPalace-Dark/theretheyare.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "This Is Not Good",
+	"id": "thisisnotgood",
+	"imageUrl": "img/TheedPalace-Dark/thisisnotgood.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Trade Federation Landing Craft",
+	"id": "tradefederationlandingcraft",
+	"imageUrl": "img/TheedPalace-Dark/tradefederationlandingcraft.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Trade Federation Tactics",
+	"id": "tradefederationtactics",
+	"imageUrl": "img/TheedPalace-Dark/tradefederationtactics.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "TT-6",
+	"id": "tt6",
+	"imageUrl": "img/TheedPalace-Dark/tt6.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "TT-9",
+	"id": "tt9",
+	"imageUrl": "img/TheedPalace-Dark/tt9.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "We're Hit, Artoo",
+	"id": "werehitartoo",
+	"imageUrl": "img/TheedPalace-Dark/werehitartoo.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	}
+}

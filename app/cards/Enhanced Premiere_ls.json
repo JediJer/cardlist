@@ -1,0 +1,30 @@
+﻿{
+	{
+	"name": "Han With Heavy Blaster Pistol",
+	"id": "hanwithheavyblasterpistol",
+	"imageUrl": "img/EnhancedPremiere-Light/hanwithheavyblasterpistol.gif",
+	"type": "Character",
+	"set": "Enhanced Premiere"
+	},
+	{
+	"name": "Leia With Blaster Rifle",
+	"id": "leiawithblasterrifle",
+	"imageUrl": "img/EnhancedPremiere-Light/leiawithblasterrifle.gif",
+	"type": "Character",
+	"set": "Enhanced Premiere"
+	},
+	{
+	"name": "Luke With Lightsaber",
+	"id": "lukewithlightsaber",
+	"imageUrl": "img/EnhancedPremiere-Light/lukewithlightsaber.gif",
+	"type": "Character",
+	"set": "Enhanced Premiere"
+	},
+	{
+	"name": "Obi-Wan With Lightsaber",
+	"id": "obiwanwithlightsaber",
+	"imageUrl": "img/EnhancedPremiere-Light/obiwanwithlightsaber.gif",
+	"type": "Character",
+	"set": "Enhanced Premiere"
+	}
+}

@@ -1,0 +1,16 @@
+﻿{
+	{
+	"name": "Boba Fett With Blaster Rifle",
+	"id": "bobafettwithblasterrifle",
+	"imageUrl": "img/EnhancedPremiere-Dark/bobafettwithblasterrifle.gif",
+	"type": "Character",
+	"set": "Enhanced Premiere"
+	},
+	{
+	"name": "Darth Vader With Lightsaber",
+	"id": "darthvaderwithlightsaber",
+	"imageUrl": "img/EnhancedPremiere-Dark/darthvaderwithlightsaber.gif",
+	"type": "Character",
+	"set": "Enhanced Premiere"
+	}
+}

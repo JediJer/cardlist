@@ -1,0 +1,569 @@
+﻿{
+	{
+	"name": "A Dark Time For The Rebellion",
+	"id": "adarktimefortherebellion",
+	"imageUrl": "img/Hoth-Dark/adarktimefortherebellion.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Admiral Ozzel",
+	"id": "admiralozzel",
+	"imageUrl": "img/Hoth-Dark/admiralozzel.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "AT-AT Cannon",
+	"id": "atatcannon",
+	"imageUrl": "img/Hoth-Dark/atatcannon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "AT-AT Driver",
+	"id": "atatdriver",
+	"imageUrl": "img/Hoth-Dark/atatdriver.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Blizzard 1",
+	"id": "blizzard1",
+	"imageUrl": "img/Hoth-Dark/blizzard1.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Blizzard 2",
+	"id": "blizzard2",
+	"imageUrl": "img/Hoth-Dark/blizzard2.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Blizzard Scout 1",
+	"id": "blizzardscout1",
+	"imageUrl": "img/Hoth-Dark/blizzardscout1.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Blizzard Walker",
+	"id": "blizzardwalker",
+	"imageUrl": "img/Hoth-Dark/blizzardwalker.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Breached Defenses",
+	"id": "breacheddefenses",
+	"imageUrl": "img/Hoth-Dark/breacheddefenses.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Captain Lennox",
+	"id": "captainlennox",
+	"imageUrl": "img/Hoth-Dark/captainlennox.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Captain Piett",
+	"id": "captainpiett",
+	"imageUrl": "img/Hoth-Dark/captainpiett.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Cold Feet",
+	"id": "coldfeet",
+	"imageUrl": "img/Hoth-Dark/coldfeet.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Collapsing Corridor",
+	"id": "collapsingcorridor",
+	"imageUrl": "img/Hoth-Dark/collapsingcorridor.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "ComScan Detection",
+	"id": "comscandetection",
+	"imageUrl": "img/Hoth-Dark/comscandetection.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Crash Landing",
+	"id": "crashlanding",
+	"imageUrl": "img/Hoth-Dark/crashlanding.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Death Mark",
+	"id": "deathmark",
+	"imageUrl": "img/Hoth-Dark/deathmark.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Death Squadron",
+	"id": "deathsquadron",
+	"imageUrl": "img/Hoth-Dark/deathsquadron.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Debris Zone",
+	"id": "debriszone",
+	"imageUrl": "img/Hoth-Dark/debriszone.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Deflector Shield Generators",
+	"id": "deflectorshieldgenerators",
+	"imageUrl": "img/Hoth-Dark/deflectorshieldgenerators.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "Direct Hit",
+	"id": "directhit",
+	"imageUrl": "img/Hoth-Dark/directhit.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Electro-Rangefinder",
+	"id": "electrorangefinder",
+	"imageUrl": "img/Hoth-Dark/electrorangefinder.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "E-web Blaster",
+	"id": "ewebblaster",
+	"imageUrl": "img/Hoth-Dark/ewebblaster.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Exhaustion",
+	"id": "exhaustion",
+	"imageUrl": "img/Hoth-Dark/exhaustion.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Exposure",
+	"id": "exposure",
+	"imageUrl": "img/Hoth-Dark/exposure.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Frostbite",
+	"id": "frostbite_(ds)",
+	"imageUrl": "img/Hoth-Dark/frostbite.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Frozen Dinner",
+	"id": "frozendinner",
+	"imageUrl": "img/Hoth-Dark/frozendinner.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Furry Fury",
+	"id": "furryfury",
+	"imageUrl": "img/Hoth-Dark/furryfury.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "FX-10 (Effex-ten)",
+	"id": "fx10effexten",
+	"imageUrl": "img/Hoth-Dark/fx10effexten.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "General Veers",
+	"id": "generalveers",
+	"imageUrl": "img/Hoth-Dark/generalveers.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "He Hasn't Come Back Yet",
+	"id": "hehasntcomebackyet",
+	"imageUrl": "img/Hoth-Dark/hehasntcomebackyet.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "High Anxiety",
+	"id": "highanxiety",
+	"imageUrl": "img/Hoth-Dark/highanxiety.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth",
+	"id": "hoth_(ds)",
+	"imageUrl": "img/Hoth-Dark/hoth.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Defensive Perimeter (3rd Marker)",
+	"id": "hothdefensiveperimeter_(ds)",
+	"imageUrl": "img/Hoth-Dark/hothdefensiveperimeter.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Command Center (War Room)",
+	"id": "hothechocommandcenterwarroom_(ds)",
+	"imageUrl": "img/Hoth-Dark/hothechocommandcenterwarroom.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Corridor",
+	"id": "hothechocorridor_(ds)",
+	"imageUrl": "img/Hoth-Dark/hothechocorridor.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Docking Bay",
+	"id": "hothechodockingbay_(ds)",
+	"imageUrl": "img/Hoth-Dark/hothechodockingbay.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Ice Plains (5th Marker)",
+	"id": "hothiceplains",
+	"imageUrl": "img/Hoth-Dark/hothiceplains.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: North Ridge (4th Marker)",
+	"id": "hothnorthridge_(ds)",
+	"imageUrl": "img/Hoth-Dark/hothnorthridge.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Wampa Cave (7th Marker)",
+	"id": "hothwampacave",
+	"imageUrl": "img/Hoth-Dark/hothwampacave.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Ice Storm",
+	"id": "icestorm_(ds)",
+	"imageUrl": "img/Hoth-Dark/icestorm.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "I'd Just As Soon Kiss A Wookiee",
+	"id": "idjustassoonkissawookiee",
+	"imageUrl": "img/Hoth-Dark/idjustassoonkissawookiee.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Image Of The Dark Lord",
+	"id": "imageofthedarklord",
+	"imageUrl": "img/Hoth-Dark/imageofthedarklord.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Imperial Domination",
+	"id": "imperialdomination",
+	"imageUrl": "img/Hoth-Dark/imperialdomination.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Imperial Gunner",
+	"id": "imperialgunner",
+	"imageUrl": "img/Hoth-Dark/imperialgunner.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Imperial Supply",
+	"id": "imperialsupply",
+	"imageUrl": "img/Hoth-Dark/imperialsupply.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Infantry Mine",
+	"id": "infantrymine_(ds)",
+	"imageUrl": "img/Hoth-Dark/infantrymine.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Lieutenant Cabbel",
+	"id": "lieutenantcabbel",
+	"imageUrl": "img/Hoth-Dark/lieutenantcabbel.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Lightsaber Deficiency",
+	"id": "lightsaberdeficiency",
+	"imageUrl": "img/Hoth-Dark/lightsaberdeficiency.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Meteor Impact?",
+	"id": "meteorimpact",
+	"imageUrl": "img/Hoth-Dark/meteorimpact.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Mournful Roar",
+	"id": "mournfulroar",
+	"imageUrl": "img/Hoth-Dark/mournfulroar.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Oh, Switch Off",
+	"id": "ohswitchoff",
+	"imageUrl": "img/Hoth-Dark/ohswitchoff.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Ord Mantell",
+	"id": "ordmantell_(ds)",
+	"imageUrl": "img/Hoth-Dark/ordmantell.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Our First Catch Of The Day",
+	"id": "ourfirstcatchoftheday",
+	"imageUrl": "img/Hoth-Dark/ourfirstcatchoftheday.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Portable Fusion Generator",
+	"id": "portablefusiongenerator_(ds)",
+	"imageUrl": "img/Hoth-Dark/portablefusiongenerator.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "Probe Antennae",
+	"id": "probeantennae",
+	"imageUrl": "img/Hoth-Dark/probeantennae.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "Probe Droid",
+	"id": "probedroid",
+	"imageUrl": "img/Hoth-Dark/probedroid.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Probe Droid Laser",
+	"id": "probedroidlaser",
+	"imageUrl": "img/Hoth-Dark/probedroidlaser.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Probe Telemetry",
+	"id": "probetelemetry",
+	"imageUrl": "img/Hoth-Dark/probetelemetry.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Responsibility Of Command",
+	"id": "responsibilityofcommand",
+	"imageUrl": "img/Hoth-Dark/responsibilityofcommand.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Scruffy-Looking Nerf Herder",
+	"id": "scruffylookingnerfherder",
+	"imageUrl": "img/Hoth-Dark/scruffylookingnerfherder.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Self-Destruct Mechanism",
+	"id": "selfdestructmechanism",
+	"imageUrl": "img/Hoth-Dark/selfdestructmechanism.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Silence Is Golden",
+	"id": "silenceisgolden",
+	"imageUrl": "img/Hoth-Dark/silenceisgolden.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Snowtrooper",
+	"id": "snowtrooper",
+	"imageUrl": "img/Hoth-Dark/snowtrooper.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Snowtrooper Officer",
+	"id": "snowtrooperofficer",
+	"imageUrl": "img/Hoth-Dark/snowtrooperofficer.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Stalker",
+	"id": "stalker",
+	"imageUrl": "img/Hoth-Dark/stalker.gif",
+	"type": "Starship",
+	"set": "Hoth"
+	},
+	{
+	"name": "Stop Motion",
+	"id": "stopmotion",
+	"imageUrl": "img/Hoth-Dark/stopmotion.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tactical Support",
+	"id": "tacticalsupport",
+	"imageUrl": "img/Hoth-Dark/tacticalsupport.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Target The Main Generator",
+	"id": "targetthemaingenerator",
+	"imageUrl": "img/Hoth-Dark/targetthemaingenerator.gif",
+	"type": "Epic Event",
+	"set": "Hoth"
+	},
+	{
+	"name": "That's It, The Rebels Are There!",
+	"id": "thatsittherebelsarethere",
+	"imageUrl": "img/Hoth-Dark/thatsittherebelsarethere.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "The Shield Doors Must Be Closed",
+	"id": "theshielddoorsmustbeclosed",
+	"imageUrl": "img/Hoth-Dark/theshielddoorsmustbeclosed.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "This Is Just Wrong",
+	"id": "thisisjustwrong",
+	"imageUrl": "img/Hoth-Dark/thisisjustwrong.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Too Cold For Speeders",
+	"id": "toocoldforspeeders",
+	"imageUrl": "img/Hoth-Dark/toocoldforspeeders.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Trample",
+	"id": "trample",
+	"imageUrl": "img/Hoth-Dark/trample.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Turn It Off! Turn It Off!",
+	"id": "turnitoffturnitoff",
+	"imageUrl": "img/Hoth-Dark/turnitoffturnitoff.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tyrant",
+	"id": "tyrant",
+	"imageUrl": "img/Hoth-Dark/tyrant.gif",
+	"type": "Starship",
+	"set": "Hoth"
+	},
+	{
+	"name": "Vehicle Mine",
+	"id": "vehiclemine_(ds)",
+	"imageUrl": "img/Hoth-Dark/vehiclemine.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Walker Barrage",
+	"id": "walkerbarrage",
+	"imageUrl": "img/Hoth-Dark/walkerbarrage.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Wall Of Fire",
+	"id": "walloffire",
+	"imageUrl": "img/Hoth-Dark/walloffire.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Wampa",
+	"id": "wampa",
+	"imageUrl": "img/Hoth-Dark/wampa.gif",
+	"type": "Creature",
+	"set": "Hoth"
+	},
+	{
+	"name": "Weapon Malfunction",
+	"id": "weaponmalfunction",
+	"imageUrl": "img/Hoth-Dark/weaponmalfunction.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Yaggle Gakkle",
+	"id": "yagglegakkle",
+	"imageUrl": "img/Hoth-Dark/yagglegakkle.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	}
+}

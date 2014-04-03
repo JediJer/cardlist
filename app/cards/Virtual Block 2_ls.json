@@ -1,0 +1,590 @@
+﻿{
+	{
+	"name": "2-1B (Too-Onebee) (V)",
+	"id": "21btooonebee-v",
+	"imageUrl": "img/Virtual2-Light/21btooonebee.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Access Denied (V)",
+	"id": "accessdenied-v",
+	"imageUrl": "img/Virtual2-Light/accessdenied.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Advantage (V)",
+	"id": "advantage-v",
+	"imageUrl": "img/Virtual2-Light/advantage.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "All My Urchins (V)",
+	"id": "allmyurchins-v",
+	"imageUrl": "img/Virtual2-Light/allmyurchins.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Anakin's Lightsaber (V)",
+	"id": "anakinslightsaber-v",
+	"imageUrl": "img/Virtual2-Light/anakinslightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Artillery Remote (V)",
+	"id": "artilleryremote-v",
+	"imageUrl": "img/Virtual2-Light/artilleryremote.gif",
+	"type": "Device",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Asteroids Do Not Concern Me (V)",
+	"id": "asteroidsdonotconcernme-v",
+	"imageUrl": "img/Virtual2-Light/asteroidsdonotconcernme.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Attack Pattern Delta (V)",
+	"id": "attackpatterndelta-v",
+	"imageUrl": "img/Virtual2-Light/attackpatterndelta.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Away Put Your Weapon (V)",
+	"id": "awayputyourweapon-v",
+	"imageUrl": "img/Virtual2-Light/awayputyourweapon.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Beldon's Eye (V)",
+	"id": "beldonseye-v",
+	"imageUrl": "img/Virtual2-Light/beldonseye.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Bright Hope (V)",
+	"id": "brighthope-v",
+	"imageUrl": "img/Virtual2-Light/brighthope.gif",
+	"type": "Starship",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Chewie (V)",
+	"id": "chewie-v",
+	"imageUrl": "img/Virtual2-Light/chewie.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Civil Disorder (V)",
+	"id": "civildisorder-v",
+	"imageUrl": "img/Virtual2-Light/civildisorder.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Commander Luke Skywalker (V)",
+	"id": "commanderlukeskywalker-v",
+	"imageUrl": "img/Virtual2-Light/commanderlukeskywalker.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Computer Interface (V)",
+	"id": "computerinterface-v",
+	"imageUrl": "img/Virtual2-Light/computerinterface.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Courage Of A Skywalker (V)",
+	"id": "courageofaskywalker-v",
+	"imageUrl": "img/Virtual2-Light/courageofaskywalker.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Dark Dissension (V)",
+	"id": "darkdissension-v",
+	"imageUrl": "img/Virtual2-Light/darkdissension.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Descent Into The Dark (V)",
+	"id": "descentintothedark-v",
+	"imageUrl": "img/Virtual2-Light/descentintothedark.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Dismantle On Sight (V)",
+	"id": "dismantleonsight-v",
+	"imageUrl": "img/Virtual2-Light/dismantleonsight.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Dual Laser Cannon (V)",
+	"id": "duallasercannon-v",
+	"imageUrl": "img/Virtual2-Light/duallasercannon.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Echo Base Trooper Officer (V)",
+	"id": "echobasetrooperofficer-v",
+	"imageUrl": "img/Virtual2-Light/echobasetrooperofficer.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Encampment (V)",
+	"id": "encampment-v",
+	"imageUrl": "img/Virtual2-Light/encampment.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Entrenchment (V)",
+	"id": "entrenchment-v",
+	"imageUrl": "img/Virtual2-Light/entrenchment.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Evacuation Control (V)",
+	"id": "evacuationcontrol-v",
+	"imageUrl": "img/Virtual2-Light/evacuationcontrol.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Flash Of Insight (V)",
+	"id": "flashofinsight-v",
+	"imageUrl": "img/Virtual2-Light/flashofinsight.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Found Someone You Have (V)",
+	"id": "foundsomeoneyouhave-v",
+	"imageUrl": "img/Virtual2-Light/foundsomeoneyouhave.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Frostbite (V)",
+	"id": "frostbite-v",
+	"imageUrl": "img/Virtual2-Light/frostbite.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Gambler's Luck (V)",
+	"id": "gamblersluck-v",
+	"imageUrl": "img/Virtual2-Light/gamblersluck.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "General Carlist Rieekan (V)",
+	"id": "generalcarlistrieekan-v",
+	"imageUrl": "img/Virtual2-Light/generalcarlistrieekan.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Han's Toolkit (V)",
+	"id": "hanstoolkit-v",
+	"imageUrl": "img/Virtual2-Light/hanstoolkit.gif",
+	"type": "Device",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Harc Seff (V)",
+	"id": "harcseff-v",
+	"imageUrl": "img/Virtual2-Light/harcseff.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Hiding In The Garbage (V)",
+	"id": "hidinginthegarbage-v",
+	"imageUrl": "img/Virtual2-Light/hidinginthegarbage.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Hopping Mad (V)",
+	"id": "hoppingmad-v",
+	"imageUrl": "img/Virtual2-Light/hoppingmad.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Hoth: Echo Med Lab (V)",
+	"id": "hothechomedlab-v",
+	"imageUrl": "img/Virtual2-Light/hothechomedlab.gif",
+	"type": "Location",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Impressive, Most Impressive (V)",
+	"id": "impressivemostimpressive-v",
+	"imageUrl": "img/Virtual2-Light/impressivemostimpressive.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Ineffective Maneuver (V)",
+	"id": "ineffectivemaneuver-v",
+	"imageUrl": "img/Virtual2-Light/ineffectivemaneuver.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "It Is The Future You See (V)",
+	"id": "itisthefutureyousee-v",
+	"imageUrl": "img/Virtual2-Light/itisthefutureyousee.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Jedi Levitation (V)",
+	"id": "jedilevitation-v",
+	"imageUrl": "img/Virtual2-Light/jedilevitation.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Jeroen Webb (V)",
+	"id": "jeroenwebb-v",
+	"imageUrl": "img/Virtual2-Light/jeroenwebb.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Kebyc (V)",
+	"id": "kebyc-v",
+	"imageUrl": "img/Virtual2-Light/kebyc.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Keep Your Eyes Open (V)",
+	"id": "keepyoureyesopen-v",
+	"imageUrl": "img/Virtual2-Light/keepyoureyesopen.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Lando Calrissian (V)",
+	"id": "landocalrissian_(ls)-v",
+	"imageUrl": "img/Virtual2-Light/landocalrissian.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Leia Of Alderaan (V)",
+	"id": "leiaofalderaan-v",
+	"imageUrl": "img/Virtual2-Light/leiaofalderaan.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Levitation (V)",
+	"id": "levitation-v",
+	"imageUrl": "img/Virtual2-Light/levitation.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Lobot (V)",
+	"id": "lobot-v",
+	"imageUrl": "img/Virtual2-Light/lobot.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Local Uprising / Liberation (V)",
+	"id": "localuprising-v",
+	"imageUrl": "img/starwars/Virtual2-Light/localuprising/liberation.gif",
+	"type": "Objective",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Luke's Bionic Hand",
+	"id": "lukesbionichand",
+	"imageUrl": "img/Virtual2-Light/lukesbionichand.gif",
+	"type": "Device",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Luke's Blaster Pistol (V)",
+	"id": "lukesblasterpistol-v",
+	"imageUrl": "img/Virtual2-Light/lukesblasterpistol.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Maneuvering Flaps (V)",
+	"id": "maneuveringflaps-v",
+	"imageUrl": "img/Virtual2-Light/maneuveringflaps.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Neb Dulo (V)",
+	"id": "nebdulo-v",
+	"imageUrl": "img/Virtual2-Light/nebdulo.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Nice Of You Guys To Drop By (V)",
+	"id": "niceofyouguystodropby-v",
+	"imageUrl": "img/Virtual2-Light/niceofyouguystodropby.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Nick Of Time (V)",
+	"id": "nickoftime-v",
+	"imageUrl": "img/Virtual2-Light/nickoftime.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "No Disintegrations! (V)",
+	"id": "nodisintegrations-v",
+	"imageUrl": "img/Virtual2-Light/nodisintegrations.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "NOOOOOOOOOOOO! (V)",
+	"id": "noooooooooooo-v",
+	"imageUrl": "img/Virtual2-Light/noooooooooooo.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Obi-Wan's Apparition (V)",
+	"id": "obiwansapparition-v",
+	"imageUrl": "img/Virtual2-Light/obiwansapparition.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Perimeter Scan (V)",
+	"id": "perimeterscan-v",
+	"imageUrl": "img/Virtual2-Light/perimeterscan.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Polarized Negative Power Coupling (V)",
+	"id": "polarizednegativepowercoupling-v",
+	"imageUrl": "img/Virtual2-Light/polarizednegativepowercoupling.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Princess Leia (V)",
+	"id": "princessleia-v",
+	"imageUrl": "img/Virtual2-Light/princessleia.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Put That Down (V)",
+	"id": "putthatdown-v",
+	"imageUrl": "img/Virtual2-Light/putthatdown.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "R5-M2 (Arfive-Emmtoo) (V)",
+	"id": "r5m2arfiveemmtoo-v",
+	"imageUrl": "img/Virtual2-Light/r5m2arfiveemmtoo.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Rebel Infantry",
+	"id": "rebelinfantry",
+	"imageUrl": "img/Virtual2-Light/rebelinfantry.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Rebel Scout (V)",
+	"id": "rebelscout-v",
+	"imageUrl": "img/Virtual2-Light/rebelscout.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Redemption (V)",
+	"id": "redemption-v",
+	"imageUrl": "img/Virtual2-Light/redemption.gif",
+	"type": "Starship",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Redemption: Command Post",
+	"id": "redemptioncommandpost",
+	"imageUrl": "img/Virtual2-Light/redemptioncommandpost.gif",
+	"type": "Location",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Romas 'Lock' Navander (V)",
+	"id": "romaslocknavander-v",
+	"imageUrl": "img/Virtual2-Light/romaslocknavander.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Shocking Information (V)",
+	"id": "shockinginformation-v",
+	"imageUrl": "img/Virtual2-Light/shockinginformation.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Smuggler's Blues (V)",
+	"id": "smugglersblues-v",
+	"imageUrl": "img/Virtual2-Light/smugglersblues.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Son Of Skywalker (V)",
+	"id": "sonofskywalker-v",
+	"imageUrl": "img/Virtual2-Light/sonofskywalker.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Starship Levitation (V)",
+	"id": "starshiplevitation-v",
+	"imageUrl": "img/Virtual2-Light/starshiplevitation.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Surreptitious Glance (V)",
+	"id": "surreptitiousglance-v",
+	"imageUrl": "img/Virtual2-Light/surreptitiousglance.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Tamizander Rey (V)",
+	"id": "tamizanderrey-v",
+	"imageUrl": "img/Virtual2-Light/tamizanderrey.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Tauntaun Handler (V)",
+	"id": "tauntaunhandler-v",
+	"imageUrl": "img/Virtual2-Light/tauntaunhandler.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Through The Force Things You Will See (V)",
+	"id": "throughtheforcethingsyouwillsee-v",
+	"imageUrl": "img/Virtual2-Light/throughtheforcethingsyouwillsee.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Tigran Jamiro (V)",
+	"id": "tigranjamiro-v",
+	"imageUrl": "img/Virtual2-Light/tigranjamiro.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Toryn Farr (V)",
+	"id": "torynfarr-v",
+	"imageUrl": "img/Virtual2-Light/torynfarr.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Visored Vision (V)",
+	"id": "visoredvision-v",
+	"imageUrl": "img/Virtual2-Light/visoredvision.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Walker Sighting (V)",
+	"id": "walkersighting-v",
+	"imageUrl": "img/Virtual2-Light/walkersighting.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Wars Not Make One Great (V)",
+	"id": "warsnotmakeonegreat-v",
+	"imageUrl": "img/Virtual2-Light/warsnotmakeonegreat.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Weather Vane (V)",
+	"id": "weathervane_(ls)-v",
+	"imageUrl": "img/Virtual2-Light/weathervane.gif",
+	"type": "Effect",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "We'll Find Han (V)",
+	"id": "wellfindhan-v",
+	"imageUrl": "img/Virtual2-Light/wellfindhan.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Wookiee Strangle (V)",
+	"id": "wookieestrangle-v",
+	"imageUrl": "img/Virtual2-Light/wookieestrangle.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Wyron Serper (V)",
+	"id": "wyronserper-v",
+	"imageUrl": "img/Virtual2-Light/wyronserper.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "Yoda (V)",
+	"id": "yoda-v",
+	"imageUrl": "img/Virtual2-Light/yoda.gif",
+	"type": "Character",
+	"set": "Virtual Block 2"
+	},
+	{
+	"name": "You Will Go To The Dagobah System (V)",
+	"id": "youwillgotothedagobahsystem-v",
+	"imageUrl": "img/Virtual2-Light/youwillgotothedagobahsystem.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 2"
+	}
+}

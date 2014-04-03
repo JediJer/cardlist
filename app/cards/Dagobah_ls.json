@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "A Jedi's Strength",
+	"id": "ajedisstrength",
+	"imageUrl": "img/Dagobah-Light/ajedisstrength.gif",
+	"type": "Jedi Test",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Anger, Fear, Aggression",
+	"id": "angerfearaggression",
+	"imageUrl": "img/Dagobah-Light/angerfearaggression.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Anoat",
+	"id": "anoat_(ls)",
+	"imageUrl": "img/Dagobah-Light/anoat.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Asteroid Field",
+	"id": "asteroidfield_(ls)",
+	"imageUrl": "img/Dagobah-Light/asteroidfield.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Asteroid Sanctuary",
+	"id": "asteroidsanctuary",
+	"imageUrl": "img/Dagobah-Light/asteroidsanctuary.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Asteroids Do Not Concern Me",
+	"id": "asteroidsdonotconcernme",
+	"imageUrl": "img/Dagobah-Light/asteroidsdonotconcernme.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Astromech Translator",
+	"id": "astromechtranslator",
+	"imageUrl": "img/Dagobah-Light/astromechtranslator.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "At Peace",
+	"id": "atpeace",
+	"imageUrl": "img/Dagobah-Light/atpeace.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Away Put Your Weapon",
+	"id": "awayputyourweapon",
+	"imageUrl": "img/Dagobah-Light/awayputyourweapon.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Big One",
+	"id": "bigone_(ls)",
+	"imageUrl": "img/Dagobah-Light/bigone.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Big One: Asteroid Cave Or Space Slug Belly",
+	"id": "bigoneasteroidcaveorspaceslugbelly_(ls)",
+	"imageUrl": "img/Dagobah-Light/bigoneasteroidcaveorspaceslugbelly.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Blasted Varmints",
+	"id": "blastedvarmints",
+	"imageUrl": "img/Dagobah-Light/blastedvarmints.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Bog-wing",
+	"id": "bogwing_(ls)",
+	"imageUrl": "img/Dagobah-Light/bogwing.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Closer?!",
+	"id": "closer",
+	"imageUrl": "img/Dagobah-Light/closer.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Control",
+	"id": "control_(ls)_(dagobah)",
+	"imageUrl": "img/Dagobah-Light/control.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah",
+	"id": "dagobah_(ls)",
+	"imageUrl": "img/Dagobah-Light/dagobah.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah: Bog Clearing",
+	"id": "dagobahbogclearing",
+	"imageUrl": "img/Dagobah-Light/dagobahbogclearing.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah: Jungle",
+	"id": "dagobahjungle",
+	"imageUrl": "img/Dagobah-Light/dagobahjungle.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah: Swamp",
+	"id": "dagobahswamp",
+	"imageUrl": "img/Dagobah-Light/dagobahswamp.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah: Training Area",
+	"id": "dagobahtrainingarea",
+	"imageUrl": "img/Dagobah-Light/dagobahtrainingarea.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah: Yoda's Hut",
+	"id": "dagobahyodashut",
+	"imageUrl": "img/Dagobah-Light/dagobahyodashut.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Descent Into The Dark",
+	"id": "descentintothedark",
+	"imageUrl": "img/Dagobah-Light/descentintothedark.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Do, Or Do Not",
+	"id": "doordonot",
+	"imageUrl": "img/Dagobah-Light/doordonot.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Domain Of Evil",
+	"id": "domainofevil",
+	"imageUrl": "img/Dagobah-Light/domainofevil.gif",
+	"type": "Jedi Test",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Droid Sensorscope",
+	"id": "droidsensorscope",
+	"imageUrl": "img/Dagobah-Light/droidsensorscope.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Effective Repairs",
+	"id": "effectiverepairs",
+	"imageUrl": "img/Dagobah-Light/effectiverepairs.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Egregious Pilot Error",
+	"id": "egregiouspiloterror",
+	"imageUrl": "img/Dagobah-Light/egregiouspiloterror.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Encampment",
+	"id": "encampment",
+	"imageUrl": "img/Dagobah-Light/encampment.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Flash Of Insight",
+	"id": "flashofinsight",
+	"imageUrl": "img/Dagobah-Light/flashofinsight.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Found Someone You Have",
+	"id": "foundsomeoneyouhave",
+	"imageUrl": "img/Dagobah-Light/foundsomeoneyouhave.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Great Warrior",
+	"id": "greatwarrior",
+	"imageUrl": "img/Dagobah-Light/greatwarrior.gif",
+	"type": "Jedi Test",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Grounded Starfighter",
+	"id": "groundedstarfighter",
+	"imageUrl": "img/Dagobah-Light/groundedstarfighter.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Han's Toolkit",
+	"id": "hanstoolkit",
+	"imageUrl": "img/Dagobah-Light/hanstoolkit.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Hiding In The Garbage",
+	"id": "hidinginthegarbage",
+	"imageUrl": "img/Dagobah-Light/hidinginthegarbage.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "I Have A Bad Feeling About This",
+	"id": "ihaveabadfeelingaboutthis",
+	"imageUrl": "img/Dagobah-Light/ihaveabadfeelingaboutthis.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Ineffective Maneuver",
+	"id": "ineffectivemaneuver",
+	"imageUrl": "img/Dagobah-Light/ineffectivemaneuver.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "It Is The Future You See",
+	"id": "itisthefutureyousee",
+	"imageUrl": "img/Dagobah-Light/itisthefutureyousee.gif",
+	"type": "Jedi Test",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Jedi Levitation",
+	"id": "jedilevitation",
+	"imageUrl": "img/Dagobah-Light/jedilevitation.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Landing Claw",
+	"id": "landingclaw",
+	"imageUrl": "img/Dagobah-Light/landingclaw.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Levitation",
+	"id": "levitation",
+	"imageUrl": "img/Dagobah-Light/levitation.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Light Maneuvers",
+	"id": "lightmaneuvers",
+	"imageUrl": "img/Dagobah-Light/lightmaneuvers.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Lost Relay",
+	"id": "lostrelay",
+	"imageUrl": "img/Dagobah-Light/lostrelay.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Luke's Backpack",
+	"id": "lukesbackpack",
+	"imageUrl": "img/Dagobah-Light/lukesbackpack.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Moving To Attack Position",
+	"id": "movingtoattackposition",
+	"imageUrl": "img/Dagobah-Light/movingtoattackposition.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Mynock",
+	"id": "mynock_(ls)",
+	"imageUrl": "img/Dagobah-Light/mynock.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Never Tell Me The Odds",
+	"id": "nevertellmetheodds",
+	"imageUrl": "img/Dagobah-Light/nevertellmetheodds.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "No Disintegrations!",
+	"id": "nodisintegrations",
+	"imageUrl": "img/Dagobah-Light/nodisintegrations.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Nudj",
+	"id": "nudj",
+	"imageUrl": "img/Dagobah-Light/nudj.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Obi-Wan's Apparition",
+	"id": "obiwansapparition",
+	"imageUrl": "img/Dagobah-Light/obiwansapparition.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Order To Engage",
+	"id": "ordertoengage",
+	"imageUrl": "img/Dagobah-Light/ordertoengage.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Polarized Negative Power Coupling",
+	"id": "polarizednegativepowercoupling",
+	"imageUrl": "img/Dagobah-Light/polarizednegativepowercoupling.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Portable Fusion Generator",
+	"id": "portablefusiongenerator_(ls)",
+	"imageUrl": "img/Dagobah-Light/portablefusiongenerator.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Quick Draw",
+	"id": "quickdraw",
+	"imageUrl": "img/Dagobah-Light/quickdraw.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Raithal",
+	"id": "raithal_(ls)",
+	"imageUrl": "img/Dagobah-Light/raithal.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Rebel Flight Suit",
+	"id": "rebelflightsuit",
+	"imageUrl": "img/Dagobah-Light/rebelflightsuit.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Recoil In Fear",
+	"id": "recoilinfear",
+	"imageUrl": "img/Dagobah-Light/recoilinfear.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Reflection",
+	"id": "reflection",
+	"imageUrl": "img/Dagobah-Light/reflection.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Report To Lord Vader",
+	"id": "reporttolordvader",
+	"imageUrl": "img/Dagobah-Light/reporttolordvader.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Retractable Arm",
+	"id": "retractablearm",
+	"imageUrl": "img/Dagobah-Light/retractablearm.gif",
+	"type": "Device",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Rogue Asteroid",
+	"id": "rogueasteroid_(ls)",
+	"imageUrl": "img/Dagobah-Light/rogueasteroid.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Rycar's Run",
+	"id": "rycarsrun",
+	"imageUrl": "img/Dagobah-Light/rycarsrun.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Scramble",
+	"id": "scramble",
+	"imageUrl": "img/Dagobah-Light/scramble.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Shoo! Shoo!",
+	"id": "shooshoo",
+	"imageUrl": "img/Dagobah-Light/shooshoo.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Size Matters Not",
+	"id": "sizemattersnot",
+	"imageUrl": "img/Dagobah-Light/sizemattersnot.gif",
+	"type": "Jedi Test",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Smuggler's Blues",
+	"id": "smugglersblues",
+	"imageUrl": "img/Dagobah-Light/smugglersblues.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Son Of Skywalker",
+	"id": "sonofskywalker",
+	"imageUrl": "img/Dagobah-Light/sonofskywalker.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Space Slug",
+	"id": "spaceslug_(ls)",
+	"imageUrl": "img/Dagobah-Light/spaceslug.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Starship Levitation",
+	"id": "starshiplevitation",
+	"imageUrl": "img/Dagobah-Light/starshiplevitation.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Stone Pile",
+	"id": "stonepile",
+	"imageUrl": "img/Dagobah-Light/stonepile.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "The Professor",
+	"id": "theprofessor",
+	"imageUrl": "img/Dagobah-Light/theprofessor.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "They'd Be Crazy To Follow Us",
+	"id": "theydbecrazytofollowus",
+	"imageUrl": "img/Dagobah-Light/theydbecrazytofollowus.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "This Is More Like It",
+	"id": "thisismorelikeit",
+	"imageUrl": "img/Dagobah-Light/thisismorelikeit.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "This Is No Cave",
+	"id": "thisisnocave",
+	"imageUrl": "img/Dagobah-Light/thisisnocave.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Through The Force Things You Will See",
+	"id": "throughtheforcethingsyouwillsee",
+	"imageUrl": "img/Dagobah-Light/throughtheforcethingsyouwillsee.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Tight Squeeze",
+	"id": "tightsqueeze",
+	"imageUrl": "img/Dagobah-Light/tightsqueeze.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Transmission Terminated",
+	"id": "transmissionterminated",
+	"imageUrl": "img/Dagobah-Light/transmissionterminated.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Tunnel Vision",
+	"id": "tunnelvision",
+	"imageUrl": "img/Dagobah-Light/tunnelvision.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Vine Snake",
+	"id": "vinesnake_(ls)",
+	"imageUrl": "img/Dagobah-Light/vinesnake.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Visored Vision",
+	"id": "visoredvision",
+	"imageUrl": "img/Dagobah-Light/visoredvision.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Wars Not Make One Great",
+	"id": "warsnotmakeonegreat",
+	"imageUrl": "img/Dagobah-Light/warsnotmakeonegreat.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "We Can Still Outmaneuver Them",
+	"id": "wecanstilloutmaneuverthem",
+	"imageUrl": "img/Dagobah-Light/wecanstilloutmaneuverthem.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "We Don't Need Their Scum",
+	"id": "wedontneedtheirscum",
+	"imageUrl": "img/Dagobah-Light/wedontneedtheirscum.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "WHAAAAAAAAAOOOOW!",
+	"id": "whaaaaaaaaaoooow",
+	"imageUrl": "img/Dagobah-Light/whaaaaaaaaaoooow.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "What Is Thy Bidding, My Master?",
+	"id": "whatisthybiddingmymaster",
+	"imageUrl": "img/Dagobah-Light/whatisthybiddingmymaster.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Yoda",
+	"id": "yoda",
+	"imageUrl": "img/Dagobah-Light/yoda.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Yoda Stew",
+	"id": "yodastew",
+	"imageUrl": "img/Dagobah-Light/yodastew.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Yoda, You Seek Yoda",
+	"id": "yodayouseekyoda",
+	"imageUrl": "img/Dagobah-Light/yodayouseekyoda.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Yoda's Gimer Stick",
+	"id": "yodasgimerstick",
+	"imageUrl": "img/Dagobah-Light/yodasgimerstick.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Yoda's Hope",
+	"id": "yodashope",
+	"imageUrl": "img/Dagobah-Light/yodashope.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "You Do Have Your Moments",
+	"id": "youdohaveyourmoments",
+	"imageUrl": "img/Dagobah-Light/youdohaveyourmoments.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	}
+}

@@ -1,0 +1,653 @@
+﻿{
+	{
+	"name": "3B3-10 (V)",
+	"id": "3b310-v",
+	"imageUrl": "img/Virtual6-Dark/3b310.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "4-LOM With Concussion Rifle (V)",
+	"id": "4lomwithconcussionrifle-v",
+	"imageUrl": "img/Virtual6-Dark/4lomwithconcussionrifle.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Admiral Motti, Battlestation Coordinator (V)",
+	"id": "admiralmottibattlestationcoordinator-v",
+	"imageUrl": "img/Virtual6-Dark/admiralmottibattlestationcoordinator.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Admiral Piett (V)",
+	"id": "admiralpiett-v",
+	"imageUrl": "img/Virtual6-Dark/admiralpiett.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Altering The Deal",
+	"id": "alteringthedeal",
+	"imageUrl": "img/Virtual6-Dark/alteringthedeal.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "AT-AT Driver (V)",
+	"id": "atatdriver-v",
+	"imageUrl": "img/Virtual6-Dark/atatdriver.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Black 1",
+	"id": "black1",
+	"imageUrl": "img/Virtual6-Dark/black1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Blaster Rifle (V)",
+	"id": "blasterrifle_(ds)-v",
+	"imageUrl": "img/Virtual6-Dark/blasterrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Blizzard 4 (V)",
+	"id": "blizzard4-v",
+	"imageUrl": "img/Virtual6-Dark/blizzard4.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Blockade Support Ship",
+	"id": "blockadesupportship",
+	"imageUrl": "img/Virtual6-Dark/blockadesupportship.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Boba Fett In Slave I (V)",
+	"id": "bobafettinslavei-v",
+	"imageUrl": "img/Virtual6-Dark/bobafettinslavei.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Boba Fett, Bounty Hunter (V)",
+	"id": "bobafettbountyhunter-v",
+	"imageUrl": "img/Virtual6-Dark/bobafettbountyhunter.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Boba Fett, Relentless Bounty Hunter",
+	"id": "bobafettrelentlessbountyhunter",
+	"imageUrl": "img/Virtual6-Dark/bobafettrelentlessbountyhunter.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Bossk In Hound's Tooth (V)",
+	"id": "bosskinhoundstooth-v",
+	"imageUrl": "img/Virtual6-Dark/bosskinhoundstooth.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Brangus Glee (V)",
+	"id": "brangusglee-v",
+	"imageUrl": "img/Virtual6-Dark/brangusglee.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Breached Defenses & Molator",
+	"id": "breacheddefenses&molator",
+	"imageUrl": "img/Virtual6-Dark/breacheddefenses&molator.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Broken Concentration (V)",
+	"id": "brokenconcentration-v",
+	"imageUrl": "img/Virtual6-Dark/brokenconcentration.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Cad Bane",
+	"id": "cadbane",
+	"imageUrl": "img/Virtual6-Dark/cadbane.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Captain Mod Terrik",
+	"id": "captainmodterrik",
+	"imageUrl": "img/Virtual6-Dark/captainmodterrik.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Carnor Jax, Royal Guard",
+	"id": "carnorjaxroyalguard",
+	"imageUrl": "img/Virtual6-Dark/carnorjaxroyalguard.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Cloud City: Dining Room (V)",
+	"id": "cloudcitydiningroom-v",
+	"imageUrl": "img/Virtual6-Dark/cloudcitydiningroom.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Colonel Jendon in Onyx 1",
+	"id": "coloneljendoninonyx1",
+	"imageUrl": "img/Virtual6-Dark/coloneljendoninonyx1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Comlink (V)",
+	"id": "comlink-v",
+	"imageUrl": "img/Virtual6-Dark/comlink.gif",
+	"type": "Device",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Commander Daine Jir",
+	"id": "commanderdainejir",
+	"imageUrl": "img/Virtual6-Dark/commanderdainejir.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Cyclone Walker",
+	"id": "cyclonewalker",
+	"imageUrl": "img/Virtual6-Dark/cyclonewalker.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Dark Waters & Krayt Dragon Bones",
+	"id": "darkwaters&kraytdragonbones",
+	"imageUrl": "img/Virtual6-Dark/darkwaters&kraytdragonbones.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Darth Maul With Lightsaber (V)",
+	"id": "darthmaulwithlightsaber-v",
+	"imageUrl": "img/Virtual6-Dark/darthmaulwithlightsaber.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Darth Vader, Betrayer Of The Jedi",
+	"id": "darthvaderbetrayerofthejedi",
+	"imageUrl": "img/Virtual6-Dark/darthvaderbetrayerofthejedi.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Dathomir Witch",
+	"id": "dathomirwitch",
+	"imageUrl": "img/Virtual6-Dark/dathomirwitch.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Deployment Orders",
+	"id": "deploymentorders",
+	"imageUrl": "img/Virtual6-Dark/deploymentorders.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Dianoga (V)",
+	"id": "dianoga-v",
+	"imageUrl": "img/Virtual6-Dark/dianoga.gif",
+	"type": "Creature",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Droid Racks (V)",
+	"id": "droidracks-v",
+	"imageUrl": "img/Virtual6-Dark/droidracks.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Droid Walker",
+	"id": "droidwalker",
+	"imageUrl": "img/Virtual6-Dark/droidwalker.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Drop! (V)",
+	"id": "drop-v",
+	"imageUrl": "img/Virtual6-Dark/drop.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "DS-61-11 In Black 11",
+	"id": "ds6111inblack11",
+	"imageUrl": "img/Virtual6-Dark/ds6111inblack11.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Epic Duel (V)",
+	"id": "epicduel-v",
+	"imageUrl": "img/Virtual6-Dark/epicduel.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Fett's Blaster Rifle",
+	"id": "fettsblasterrifle",
+	"imageUrl": "img/Virtual6-Dark/fettsblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Fleet Security Protocols",
+	"id": "fleetsecurityprotocols",
+	"imageUrl": "img/Virtual6-Dark/fleetsecurityprotocols.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Force Field (V)",
+	"id": "forcefield-v",
+	"imageUrl": "img/Virtual6-Dark/forcefield.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Galen's Lightsaber, Vader's Gift",
+	"id": "galenslightsabervadersgift",
+	"imageUrl": "img/Virtual6-Dark/galenslightsabervadersgift.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Grotto Werribee (V)",
+	"id": "grottowerribee-v",
+	"imageUrl": "img/Virtual6-Dark/grottowerribee.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Guild of Assassins",
+	"id": "guildofassassins",
+	"imageUrl": "img/Virtual6-Dark/guildofassassins.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "He's No Jedi",
+	"id": "hesnojedi",
+	"imageUrl": "img/Virtual6-Dark/hesnojedi.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Hoth: Ice Plains (5th Marker) (V)",
+	"id": "hothiceplains-v",
+	"imageUrl": "img/Virtual6-Dark/hothiceplains.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Hutt Influence (V)",
+	"id": "huttinfluence-v",
+	"imageUrl": "img/Virtual6-Dark/huttinfluence.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "IG-88, Renegade Droid",
+	"id": "ig88renegadedroid",
+	"imageUrl": "img/Virtual6-Dark/ig88renegadedroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Imbalance & Kintan Strider",
+	"id": "imbalance&kintanstrider",
+	"imageUrl": "img/Virtual6-Dark/imbalance&kintanstrider.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "ISB Blaster Pistol",
+	"id": "isbblasterpistol",
+	"imageUrl": "img/Virtual6-Dark/isbblasterpistol.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Jodo Kast (V)",
+	"id": "jodokast-v",
+	"imageUrl": "img/Virtual6-Dark/jodokast.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Justifier",
+	"id": "justifier",
+	"imageUrl": "img/Virtual6-Dark/justifier.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Kashyyyk: Wookiee Slaving Camp",
+	"id": "kashyyykwookieeslavingcamp",
+	"imageUrl": "img/Virtual6-Dark/kashyyykwookieeslavingcamp.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Kir Kanos With Force Pike",
+	"id": "kirkanoswithforcepike",
+	"imageUrl": "img/Virtual6-Dark/kirkanoswithforcepike.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Lana Dobreed & Sacrifice",
+	"id": "lanadobreed&sacrifice",
+	"imageUrl": "img/Virtual6-Dark/lanadobreed&sacrifice.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Lieutenant Cecius (V)",
+	"id": "lieutenantcecius-v",
+	"imageUrl": "img/Virtual6-Dark/lieutenantcecius.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Lightsaber Deficiency (V)",
+	"id": "lightsaberdeficiency-v",
+	"imageUrl": "img/Virtual6-Dark/lightsaberdeficiency.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Lone Pilot (V)",
+	"id": "lonepilot-v",
+	"imageUrl": "img/Virtual6-Dark/lonepilot.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Maarek Stele, The Emperor's Reach",
+	"id": "maareksteletheemperorsreach",
+	"imageUrl": "img/Virtual6-Dark/maareksteletheemperorsreach.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Marquand In Blizzard 6",
+	"id": "marquandinblizzard6",
+	"imageUrl": "img/Virtual6-Dark/marquandinblizzard6.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Massassi Warrior",
+	"id": "massassiwarrior",
+	"imageUrl": "img/Virtual6-Dark/massassiwarrior.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Mercenary Shadow Pirate",
+	"id": "mercenaryshadowpirate",
+	"imageUrl": "img/Virtual6-Dark/mercenaryshadowpirate.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Moff Tarkin, Death Star Commandant",
+	"id": "mofftarkindeathstarcommandant",
+	"imageUrl": "img/Virtual6-Dark/mofftarkindeathstarcommandant.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Ni Chuba Na?? (V)",
+	"id": "nichubana-v",
+	"imageUrl": "img/Virtual6-Dark/nichubana.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "One Beautiful Thing",
+	"id": "onebeautifulthing",
+	"imageUrl": "img/Virtual6-Dark/onebeautifulthing.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "One Bright Spot",
+	"id": "onebrightspot",
+	"imageUrl": "img/Virtual6-Dark/onebrightspot.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Operational As Planned (V)",
+	"id": "operationalasplanned-v",
+	"imageUrl": "img/Virtual6-Dark/operationalasplanned.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "P-13 & P-14",
+	"id": "p13&p14",
+	"imageUrl": "img/Virtual6-Dark/p13&p14.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Ponda Baba (V)",
+	"id": "pondababa-v",
+	"imageUrl": "img/Virtual6-Dark/pondababa.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Power Of The Sith",
+	"id": "powerofthesith",
+	"imageUrl": "img/Virtual6-Dark/powerofthesith.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Probot",
+	"id": "probot",
+	"imageUrl": "img/Virtual6-Dark/probot.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Program Trap (V)",
+	"id": "programtrap-v",
+	"imageUrl": "img/Virtual6-Dark/programtrap.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Protocol Failure",
+	"id": "protocolfailure",
+	"imageUrl": "img/Virtual6-Dark/protocolfailure.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Ralltiir: Spaceport Financial District",
+	"id": "ralltiirspaceportfinancialdistrict",
+	"imageUrl": "img/Virtual6-Dark/ralltiirspaceportfinancialdistrict.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Rancor Mount",
+	"id": "rancormount",
+	"imageUrl": "img/Virtual6-Dark/rancormount.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Remote Depot",
+	"id": "remotedepot",
+	"imageUrl": "img/Virtual6-Dark/remotedepot.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Revenge Of The Sith",
+	"id": "revengeofthesith",
+	"imageUrl": "img/Virtual6-Dark/revengeofthesith.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Royal Escort (V)",
+	"id": "royalescort-v",
+	"imageUrl": "img/Virtual6-Dark/royalescort.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Security Battle Droid (V)",
+	"id": "securitybattledroid-v",
+	"imageUrl": "img/Virtual6-Dark/securitybattledroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "So Be It, Jedi",
+	"id": "sobeitjedi",
+	"imageUrl": "img/Virtual6-Dark/sobeitjedi.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Star Destroyer: Command Station",
+	"id": "stardestroyercommandstation",
+	"imageUrl": "img/Virtual6-Dark/stardestroyercommandstation.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Storm Clouds",
+	"id": "stormclouds",
+	"imageUrl": "img/Virtual6-Dark/stormclouds.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Tarkin's Bounty (V)",
+	"id": "tarkinsbounty-v",
+	"imageUrl": "img/Virtual6-Dark/tarkinsbounty.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Tarkin's Orders (V)",
+	"id": "tarkinsorders-v",
+	"imageUrl": "img/Virtual6-Dark/tarkinsorders.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Tatooine: Mos Espa (V)",
+	"id": "tatooinemosespa-v",
+	"imageUrl": "img/Virtual6-Dark/tatooinemosespa.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "T'doshok Hunting Vow",
+	"id": "tdoshokhuntingvow",
+	"imageUrl": "img/Virtual6-Dark/tdoshokhuntingvow.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "The Emperor Is Coming Here?",
+	"id": "theemperoriscominghere",
+	"imageUrl": "img/Virtual6-Dark/theemperoriscominghere.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Thok & Thug (V)",
+	"id": "thok&thug-v",
+	"imageUrl": "img/Virtual6-Dark/thok&thug.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "TIE Avenger (V)",
+	"id": "tieavenger-v",
+	"imageUrl": "img/Virtual6-Dark/tieavenger.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "TIE Sentry Ships (V)",
+	"id": "tiesentryships-v",
+	"imageUrl": "img/Virtual6-Dark/tiesentryships.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Walker Garrison (V)",
+	"id": "walkergarrison-v",
+	"imageUrl": "img/Virtual6-Dark/walkergarrison.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "We Have A Prisoner & I Can't Shake Him!",
+	"id": "wehaveaprisoner&icantshakehim",
+	"imageUrl": "img/Virtual6-Dark/wehaveaprisoner&icantshakehim.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Weapon Levitation & The Empire's Back",
+	"id": "weaponlevitation&theempiresback",
+	"imageUrl": "img/Virtual6-Dark/weaponlevitation&theempiresback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Why Didn't You Tell Me? (V)",
+	"id": "whydidntyoutellme-v",
+	"imageUrl": "img/Virtual6-Dark/whydidntyoutellme.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "You Overestimate Their Chances (V)",
+	"id": "youoverestimatetheirchances-v",
+	"imageUrl": "img/Virtual6-Dark/youoverestimatetheirchances.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	}
+}

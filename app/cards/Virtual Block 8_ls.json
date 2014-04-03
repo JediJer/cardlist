@@ -1,0 +1,415 @@
+﻿{
+	{
+	"name": "A Good Blaster At Your Side",
+	"id": "agoodblasteratyourside",
+	"imageUrl": "img/Virtual8-Light/agoodblasteratyourside.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "A Remote Planet (V)",
+	"id": "aremoteplanet-v",
+	"imageUrl": "img/Virtual8-Light/aremoteplanet.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Aayla Secura",
+	"id": "aaylasecura",
+	"imageUrl": "img/Virtual8-Light/aaylasecura.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "All My Urchins & Cloud City Celebration",
+	"id": "allmyurchinsandcloudcitycelebration",
+	"imageUrl": "img/Virtual8-Light/allmyurchinsandcloudcitycelebration.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Anakin Solo",
+	"id": "anakinsolo",
+	"imageUrl": "img/Virtual8-Light/anakinsolo.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Black Market Blaster",
+	"id": "blackmarketblaster",
+	"imageUrl": "img/Virtual8-Light/blackmarketblaster.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Captain Verrack (V)",
+	"id": "captainverrack-v",
+	"imageUrl": "img/Virtual8-Light/captainverrack.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Chewbacca, Walking Carpet",
+	"id": "chewbaccawalkingcarpet",
+	"imageUrl": "img/Virtual8-Light/chewbaccawalkingcarpet.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Cloud City Blaster (V)",
+	"id": "cloudcityblaster-v",
+	"imageUrl": "img/Virtual8-Light/cloudcityblaster.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Corellian Slip (V)",
+	"id": "corellianslip-v",
+	"imageUrl": "img/Virtual8-Light/corellianslip.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Either Way, You Win (V)",
+	"id": "eitherwayyouwin-v",
+	"imageUrl": "img/Virtual8-Light/eitherwayyouwin.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Errant Venture",
+	"id": "errantventure",
+	"imageUrl": "img/Virtual8-Light/errantventure.gif",
+	"type": "Starship",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Errant Venture (AI)",
+	"id": "errantventureai",
+	"imageUrl": "img/Virtual8-Light/errantventureai.gif",
+	"type": "Starship",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Found Someone You Have & Higher Ground",
+	"id": "foundsomeoneyouhave&higherground",
+	"imageUrl": "img/Virtual8-Light/foundsomeoneyouhave&higherground.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Guardian's Lightsaber",
+	"id": "guardianslightsaber",
+	"imageUrl": "img/Virtual8-Light/guardianslightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Han Solo, Innocent Scoundrel",
+	"id": "hansoloinnocentscoundrel",
+	"imageUrl": "img/Virtual8-Light/Hansoloinnocentscoundrel.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Han's Blaster, So Uncivilized",
+	"id": "hansblastersouncivilized",
+	"imageUrl": "img/Virtual8-Light/hansblastersouncivilized.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Het Nkik (V)",
+	"id": "hetnkik-v",
+	"imageUrl": "img/Virtual8-Light/hetnkik.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Hoth: Echo Corridor (V)",
+	"id": "hothechocorridor-v",
+	"imageUrl": "img/Virtual8-Light/hothechocorridor.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "I Know That Laugh",
+	"id": "iknowthatlaugh",
+	"imageUrl": "img/Virtual8-Light/iknowthatlaugh.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Imperial Navigation Charts",
+	"id": "imperialnavigationcharts",
+	"imageUrl": "img/Virtual8-Light/imperialnavigationcharts.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Infiltration / Unlikely Allies",
+	"id": "infiltration",
+	"imageUrl": "img/starwars/Virtual8-Light/infiltration/unlikelyallies.gif",
+	"type": "Objective",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Jawa Ion Gun (V)",
+	"id": "jawaiongun-v",
+	"imageUrl": "img/Virtual8-Light/jawaiongun.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Kessel Run (V)",
+	"id": "kesselrun-v",
+	"imageUrl": "img/Virtual8-Light/kesselrun.gif",
+	"type": "Mission",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Kyle Katarn",
+	"id": "kylekatarn",
+	"imageUrl": "img/Virtual8-Light/kylekatarn.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Kyle Katarn (AI)",
+	"id": "kylekatarnai",
+	"imageUrl": "img/Virtual8-Light/kylekatarnai.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Kyle Katarn's Blaster Rifle",
+	"id": "kylekatarnsblasterrifle",
+	"imageUrl": "img/Virtual8-Light/kylekatarnsblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Lady Luck",
+	"id": "ladyluck",
+	"imageUrl": "img/Virtual8-Light/ladyluck.gif",
+	"type": "Starship",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Lando Calrissian, Unlikely Hero",
+	"id": "landocalrissianunlikelyhero",
+	"imageUrl": "img/Virtual8-Light/landocalrissianunlikelyhero.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Leesub Sirln (V)",
+	"id": "leesubsirln-v",
+	"imageUrl": "img/Virtual8-Light/leesubsirln.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Loje Nella (V)",
+	"id": "lojenella-v",
+	"imageUrl": "img/Virtual8-Light/lojenella.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Nar Shaddaa",
+	"id": "narshaddaa",
+	"imageUrl": "img/Virtual8-Light/narshaddaa.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Nar Shaddaa: Scoundrel's Rest",
+	"id": "narshaddaascoundrelsrest",
+	"imageUrl": "img/Virtual8-Light/narshaddaascoundrelsrest.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Nar Shaddaa: Undercity",
+	"id": "narshaddaaundercity",
+	"imageUrl": "img/Virtual8-Light/narshaddaaundercity.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Nar Shaddaa: Undercity Street",
+	"id": "narshaddaaundercitystreet",
+	"imageUrl": "img/Virtual8-Light/narshaddaaundercitystreet.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Out of Nowhere (V)",
+	"id": "outofnowhere-v",
+	"imageUrl": "img/Virtual8-Light/outofnowhere.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Palace Raider (V)",
+	"id": "palaceraider-v",
+	"imageUrl": "img/Virtual8-Light/palaceraider.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "R-3PO (Ar-Threepio) (V)",
+	"id": "r3poarthreepio-v",
+	"imageUrl": "img/Virtual8-Light/r3poarthreepio.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Rebel Cell - Refugee Quarter",
+	"id": "rebelcellrefugeequarter",
+	"imageUrl": "img/Virtual8-Light/rebelcellrefugeequarter.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Redeemed Apprentice",
+	"id": "redeemedapprentice",
+	"imageUrl": "img/Virtual8-Light/redeemedapprentice.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Rennek (V)",
+	"id": "rennek-v",
+	"imageUrl": "img/Virtual8-Light/rennek.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Rug Hug (V)",
+	"id": "rughug-v",
+	"imageUrl": "img/Virtual8-Light/rughug.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Scoundrel's Bravado",
+	"id": "scoundrelsbravado",
+	"imageUrl": "img/Virtual8-Light/scoundrelsbravado.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Scoundrel's Charm",
+	"id": "scoundrelscharm",
+	"imageUrl": "img/Virtual8-Light/scoundrelscharm.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Scoundrel's Ingenuity",
+	"id": "scoundrelsingenuity",
+	"imageUrl": "img/Virtual8-Light/scoundrelsingenuity.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Scoundrel's Luck",
+	"id": "scoundrelsluck",
+	"imageUrl": "img/Virtual8-Light/scoundrelsluck.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Sergeant Edian (V)",
+	"id": "sergeantedian-v",
+	"imageUrl": "img/Virtual8-Light/sergeantedian.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Supreme Chancellor Valorum (AI) (V)",
+	"id": "supremechancellorvalorumai-v",
+	"imageUrl": "img/Virtual8-Light/supremechancellorvalorumai.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Supreme Chancellor Valorum (V)",
+	"id": "supremechancellorvalorum-v",
+	"imageUrl": "img/Virtual8-Light/supremechancellorvalorum.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Tatooine: Cantina (V)",
+	"id": "tatooinecantina-v",
+	"imageUrl": "img/Virtual8-Light/tatooinecantina.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Tatooine: Jawa Camp (V)",
+	"id": "tatooinejawacamp-v",
+	"imageUrl": "img/Virtual8-Light/tatooinejawacamp.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "There is Another",
+	"id": "thereisanother",
+	"imageUrl": "img/Virtual8-Light/thereisanother.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Trooper Utris M'toc (V)",
+	"id": "trooperutrismtoc-v",
+	"imageUrl": "img/Virtual8-Light/trooperutrismtoc.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Under Jabba's Protection",
+	"id": "underjabbasprotection",
+	"imageUrl": "img/Virtual8-Light/underjabbasprotection.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Underworld Contacts & Uncharted Settlements",
+	"id": "underworldcontactsandunchartedsettlements",
+	"imageUrl": "img/Virtual8-Light/underworldcontactsandunchartedsettlements.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Uutkik (V)",
+	"id": "uutkik-v",
+	"imageUrl": "img/Virtual8-Light/uutkik.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Vilmarh 'Villie' Grahrk",
+	"id": "vilmarhvilliegrahrk",
+	"imageUrl": "img/Virtual8-Light/vilmarhvilliegrahrk.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Yavin 4: Massassi War Room (V)",
+	"id": "yavin4massassiwarroom-v",
+	"imageUrl": "img/Virtual8-Light/yavin4massassiwarroom.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "You Will Take Me To Jabba Now (V)",
+	"id": "youwilltakemetojabbanow-v",
+	"imageUrl": "img/Virtual8-Light/youwilltakemetojabbanow.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	}
+}

@@ -1,0 +1,1136 @@
+﻿{
+	{
+	"name": "Air-2 Racing Swoop",
+	"id": "air2racingswoop",
+	"imageUrl": "img/SpecialEdition-Light/air2racingswoop.gif",
+	"type": "Vehicle",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Alderaan Operative",
+	"id": "alderaanoperative",
+	"imageUrl": "img/SpecialEdition-Light/alderaanoperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "All Wings Report In",
+	"id": "allwingsreportin",
+	"imageUrl": "img/SpecialEdition-Light/allwingsreportin.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Anoat Operative",
+	"id": "anoatoperative_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/anoatoperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Antilles Maneuver",
+	"id": "antillesmaneuver",
+	"imageUrl": "img/SpecialEdition-Light/antillesmaneuver.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "ASP-707 (Ayesspee)",
+	"id": "asp707",
+	"imageUrl": "img/SpecialEdition-Light/asp707.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Balanced Attack",
+	"id": "balancedattack",
+	"imageUrl": "img/SpecialEdition-Light/balancedattack.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Ben Kenobi",
+	"id": "benkenobi",
+	"imageUrl": "img/SpecialEdition-Light/benkenobi.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Bothan Spy",
+	"id": "bothanspy",
+	"imageUrl": "img/SpecialEdition-Light/bothanspy.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Bothawui",
+	"id": "bothawui",
+	"imageUrl": "img/SpecialEdition-Light/bothawui.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Bothawui Operative",
+	"id": "bothawuioperative",
+	"imageUrl": "img/SpecialEdition-Light/bothawuioperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Bren Quersey",
+	"id": "brenquersey",
+	"imageUrl": "img/SpecialEdition-Light/brenquersey.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Bron Burs",
+	"id": "bronburs",
+	"imageUrl": "img/SpecialEdition-Light/bronburs.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "B-wing Attack Fighter",
+	"id": "bwingattackfighter",
+	"imageUrl": "img/SpecialEdition-Light/bwingattackfighter.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Camie",
+	"id": "camie",
+	"imageUrl": "img/SpecialEdition-Light/camie.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Clak'dor VII Operative",
+	"id": "clakdorviioperative",
+	"imageUrl": "img/SpecialEdition-Light/clakdorviioperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Cloud City Celebration",
+	"id": "cloudcitycelebration",
+	"imageUrl": "img/SpecialEdition-Light/cloudcitycelebration.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Cloud City: Casino",
+	"id": "cloudcitycasino_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/cloudcitycasino.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Cloud City: Core Tunnel",
+	"id": "cloudcitycoretunnel",
+	"imageUrl": "img/SpecialEdition-Light/cloudcitycoretunnel.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Cloud City: Downtown Plaza",
+	"id": "cloudcitydowntownplaza_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/cloudcitydowntownplaza.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Cloud City: North Corridor",
+	"id": "cloudcitynorthcorridor",
+	"imageUrl": "img/SpecialEdition-Light/cloudcitynorthcorridor.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Cloud City: West Gallery",
+	"id": "cloudcitywestgallery_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/cloudcitywestgallery.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Colonel Feyn Gospic",
+	"id": "colonelfeyngospic",
+	"imageUrl": "img/SpecialEdition-Light/colonelfeyngospic.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Commander Wedge Antilles",
+	"id": "commanderwedgeantilles",
+	"imageUrl": "img/SpecialEdition-Light/commanderwedgeantilles.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Corellia Operative",
+	"id": "corelliaoperative",
+	"imageUrl": "img/SpecialEdition-Light/corelliaoperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Corellian Engineering Corporation",
+	"id": "corellianengineeringcorporation",
+	"imageUrl": "img/SpecialEdition-Light/corellianengineeringcorporation.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Coruscant",
+	"id": "coruscant_(ls)_(special edition)",
+	"imageUrl": "img/SpecialEdition-Light/coruscant.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Coruscant Celebration",
+	"id": "coruscantcelebration",
+	"imageUrl": "img/SpecialEdition-Light/coruscantcelebration.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Dantooine Base Operations / More Dangerous Than You Realize",
+	"id": "dantooinebaseoperations",
+	"imageUrl": "img/starwars/SpecialEdition-Light/dantooinebaseoperations/moredangerousthanyourealize.gif",
+	"type": "Objective",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Darklighter Spin",
+	"id": "darklighterspin",
+	"imageUrl": "img/SpecialEdition-Light/darklighterspin.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Death Star",
+	"id": "deathstar_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/deathstar.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Death Star: Detention Block Corridor",
+	"id": "deathstardetentionblockcorridor_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/deathstardetentionblockcorridor.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Debnoli",
+	"id": "debnoli",
+	"imageUrl": "img/SpecialEdition-Light/debnoli.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Desert",
+	"id": "desert_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/desert.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Desperate Tactics",
+	"id": "desperatetactics",
+	"imageUrl": "img/SpecialEdition-Light/desperatetactics.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Direct Assault",
+	"id": "directassault",
+	"imageUrl": "img/SpecialEdition-Light/directassault.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Disruptor Pistol",
+	"id": "disruptorpistol_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/disruptorpistol.gif",
+	"type": "Weapon",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Docking And Repair Facilities",
+	"id": "dockingandrepairfacilities",
+	"imageUrl": "img/SpecialEdition-Light/dockingandrepairfacilities.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Don't Tread On Me",
+	"id": "donttreadonme",
+	"imageUrl": "img/SpecialEdition-Light/donttreadonme.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Down With The Emperor!",
+	"id": "downwiththeemperor",
+	"imageUrl": "img/SpecialEdition-Light/downwiththeemperor.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Draw Their Fire",
+	"id": "drawtheirfire",
+	"imageUrl": "img/SpecialEdition-Light/drawtheirfire.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Droid Merchant",
+	"id": "droidmerchant",
+	"imageUrl": "img/SpecialEdition-Light/droidmerchant.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Echo Base Trooper Rifle",
+	"id": "echobasetrooperrifle",
+	"imageUrl": "img/SpecialEdition-Light/echobasetrooperrifle.gif",
+	"type": "Weapon",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Elyhek Rue",
+	"id": "elyhekrue",
+	"imageUrl": "img/SpecialEdition-Light/elyhekrue.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Entrenchment",
+	"id": "entrenchment",
+	"imageUrl": "img/SpecialEdition-Light/entrenchment.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Farm",
+	"id": "farm",
+	"imageUrl": "img/SpecialEdition-Light/farm.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Firin Morett",
+	"id": "firinmorett",
+	"imageUrl": "img/SpecialEdition-Light/firinmorett.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "First Aid",
+	"id": "firstaid",
+	"imageUrl": "img/SpecialEdition-Light/firstaid.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Forest",
+	"id": "forest_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/forest.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "General McQuarrie",
+	"id": "generalmcquarrie",
+	"imageUrl": "img/SpecialEdition-Light/generalmcquarrie.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Gold 3",
+	"id": "gold3",
+	"imageUrl": "img/SpecialEdition-Light/gold3.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Gold 4",
+	"id": "gold4",
+	"imageUrl": "img/SpecialEdition-Light/gold4.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Gold 6",
+	"id": "gold6",
+	"imageUrl": "img/SpecialEdition-Light/gold6.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Goo Nee Tay",
+	"id": "gooneetay",
+	"imageUrl": "img/SpecialEdition-Light/gooneetay.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Grondorn Muse",
+	"id": "grondornmuse",
+	"imageUrl": "img/SpecialEdition-Light/grondornmuse.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Harc Seff",
+	"id": "harcseff",
+	"imageUrl": "img/SpecialEdition-Light/harcseff.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Harvest",
+	"id": "harvest",
+	"imageUrl": "img/SpecialEdition-Light/harvest.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Heroes Of Yavin",
+	"id": "heroesofyavin",
+	"imageUrl": "img/SpecialEdition-Light/heroesofyavin.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Heroic Sacrifice",
+	"id": "heroicsacrifice",
+	"imageUrl": "img/SpecialEdition-Light/heroicsacrifice.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Hidden Base / Systems Will Slip Through Your Fingers",
+	"id": "hiddenbase",
+	"imageUrl": "img/starwars/SpecialEdition-Light/hiddenbase/systemswillslipthroughyourfingers.gif",
+	"type": "Objective",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Hit And Run",
+	"id": "hitandrun",
+	"imageUrl": "img/SpecialEdition-Light/hitandrun.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Hol Okand",
+	"id": "holokand",
+	"imageUrl": "img/SpecialEdition-Light/holokand.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Hoth Sentry",
+	"id": "hothsentry",
+	"imageUrl": "img/SpecialEdition-Light/hothsentry.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Imperial Atrocity",
+	"id": "imperialatrocity",
+	"imageUrl": "img/SpecialEdition-Light/imperialatrocity.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Incom Corporation",
+	"id": "incomcorporation",
+	"imageUrl": "img/SpecialEdition-Light/incomcorporation.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Incom Engineer",
+	"id": "incomengineer",
+	"imageUrl": "img/SpecialEdition-Light/incomengineer.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Intruder Missile",
+	"id": "intrudermissile_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/intrudermissile.gif",
+	"type": "Weapon",
+	"set": "Special Edition"
+	},
+	{
+	"name": "It's Not My Fault!",
+	"id": "itsnotmyfault",
+	"imageUrl": "img/SpecialEdition-Light/itsnotmyfault.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Joh Yowza",
+	"id": "johyowza",
+	"imageUrl": "img/SpecialEdition-Light/johyowza.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Jungle",
+	"id": "jungle_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/jungle.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Kalit's Sandcrawler",
+	"id": "kalitssandcrawler",
+	"imageUrl": "img/SpecialEdition-Light/kalitssandcrawler.gif",
+	"type": "Vehicle",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Kashyyyk Operative",
+	"id": "kashyyykoperative_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/kashyyykoperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Ketwol",
+	"id": "ketwol",
+	"imageUrl": "img/SpecialEdition-Light/ketwol.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Kiffex Operative",
+	"id": "kiffexoperative_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/kiffexoperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Kirdo III Operative",
+	"id": "kirdoiiioperative",
+	"imageUrl": "img/SpecialEdition-Light/kirdoiiioperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Koensayr Manufacturing",
+	"id": "koensayrmanufacturing",
+	"imageUrl": "img/SpecialEdition-Light/koensayrmanufacturing.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Lando's Blaster Rifle",
+	"id": "landosblasterrifle",
+	"imageUrl": "img/SpecialEdition-Light/landosblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Legendary Starfighter",
+	"id": "legendarystarfighter",
+	"imageUrl": "img/SpecialEdition-Light/legendarystarfighter.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Leia's Blaster Rifle",
+	"id": "leiasblasterrifle",
+	"imageUrl": "img/SpecialEdition-Light/leiasblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Lieutenant Lepira",
+	"id": "lieutenantlepira",
+	"imageUrl": "img/SpecialEdition-Light/lieutenantlepira.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Lieutenant Naytaan",
+	"id": "lieutenantnaytaan",
+	"imageUrl": "img/SpecialEdition-Light/lieutenantnaytaan.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Lieutenant Tarn Mison",
+	"id": "lieutenanttarnmison",
+	"imageUrl": "img/SpecialEdition-Light/lieutenanttarnmison.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Local Defense",
+	"id": "localdefense",
+	"imageUrl": "img/SpecialEdition-Light/localdefense.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Local Uprising / Liberation",
+	"id": "localuprising",
+	"imageUrl": "img/starwars/SpecialEdition-Light/localuprising/liberation.gif",
+	"type": "Objective",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Major Palo Torshan",
+	"id": "majorpalotorshan",
+	"imageUrl": "img/SpecialEdition-Light/majorpalotorshan.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Maneuvering Flaps",
+	"id": "maneuveringflaps",
+	"imageUrl": "img/SpecialEdition-Light/maneuveringflaps.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Mechanical Failure",
+	"id": "mechanicalfailure",
+	"imageUrl": "img/SpecialEdition-Light/mechanicalfailure.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Meditation",
+	"id": "meditation",
+	"imageUrl": "img/SpecialEdition-Light/meditation.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Medium Bulk Freighter",
+	"id": "mediumbulkfreighter",
+	"imageUrl": "img/SpecialEdition-Light/mediumbulkfreighter.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Melas",
+	"id": "melas",
+	"imageUrl": "img/SpecialEdition-Light/melas.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Mind What You Have Learned / Save You It Can",
+	"id": "mindwhatyouhavelearned",
+	"imageUrl": "img/starwars/SpecialEdition-Light/mindwhatyouhavelearned/saveyouitcan.gif",
+	"type": "Objective",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Moisture Farmer",
+	"id": "moisturefarmer",
+	"imageUrl": "img/SpecialEdition-Light/moisturefarmer.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Neb Dulo",
+	"id": "nebdulo",
+	"imageUrl": "img/SpecialEdition-Light/nebdulo.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Nick Of Time",
+	"id": "nickoftime",
+	"imageUrl": "img/SpecialEdition-Light/nickoftime.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Old Times",
+	"id": "oldtimes",
+	"imageUrl": "img/SpecialEdition-Light/oldtimes.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "On Target",
+	"id": "ontarget",
+	"imageUrl": "img/SpecialEdition-Light/ontarget.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Organized Attack",
+	"id": "organizedattack",
+	"imageUrl": "img/SpecialEdition-Light/organizedattack.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Patrol Craft",
+	"id": "patrolcraft_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/patrolcraft.gif",
+	"type": "Vehicle",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Portable Scanner",
+	"id": "portablescanner",
+	"imageUrl": "img/SpecialEdition-Light/portablescanner.gif",
+	"type": "Device",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Power Pivot",
+	"id": "powerpivot",
+	"imageUrl": "img/SpecialEdition-Light/powerpivot.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Precise Hit",
+	"id": "precisehit",
+	"imageUrl": "img/SpecialEdition-Light/precisehit.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Princess Organa",
+	"id": "princessorgana",
+	"imageUrl": "img/SpecialEdition-Light/princessorgana.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "R3-A2 (Arthree-Aytoo)",
+	"id": "r3a2",
+	"imageUrl": "img/SpecialEdition-Light/r3a2.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "R3-T2 (Arthree-Teetoo)",
+	"id": "r3t2",
+	"imageUrl": "img/SpecialEdition-Light/r3t2.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Ralltiir Freighter Captain",
+	"id": "ralltiirfreightercaptain",
+	"imageUrl": "img/SpecialEdition-Light/ralltiirfreightercaptain.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Ralltiir Operative",
+	"id": "ralltiiroperative",
+	"imageUrl": "img/SpecialEdition-Light/ralltiiroperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Rapid Fire",
+	"id": "rapidfire",
+	"imageUrl": "img/SpecialEdition-Light/rapidfire.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Rebel Ambush",
+	"id": "rebelambush",
+	"imageUrl": "img/SpecialEdition-Light/rebelambush.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Rebel Fleet",
+	"id": "rebelfleet",
+	"imageUrl": "img/SpecialEdition-Light/rebelfleet.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Red 10",
+	"id": "red10",
+	"imageUrl": "img/SpecialEdition-Light/red10.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Red 7",
+	"id": "red7",
+	"imageUrl": "img/SpecialEdition-Light/red7.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Red 8",
+	"id": "red8",
+	"imageUrl": "img/SpecialEdition-Light/red8.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Red 9",
+	"id": "red9",
+	"imageUrl": "img/SpecialEdition-Light/red9.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Rendezvous Point",
+	"id": "rendezvouspoint",
+	"imageUrl": "img/SpecialEdition-Light/rendezvouspoint.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Rescue The Princess / Sometimes I Amaze Even Myself",
+	"id": "rescuetheprincess",
+	"imageUrl": "img/starwars/SpecialEdition-Light/rescuetheprincess/sometimesiamazeevenmyself.gif",
+	"type": "Objective",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Roche",
+	"id": "roche",
+	"imageUrl": "img/SpecialEdition-Light/roche.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Rogue 4",
+	"id": "rogue4",
+	"imageUrl": "img/SpecialEdition-Light/rogue4.gif",
+	"type": "Vehicle",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Ronto",
+	"id": "ronto_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/ronto.gif",
+	"type": "Vehicle",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Ryle Torsyn",
+	"id": "ryletorsyn",
+	"imageUrl": "img/SpecialEdition-Light/ryletorsyn.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Sandspeeder",
+	"id": "sandspeeder",
+	"imageUrl": "img/SpecialEdition-Light/sandspeeder.gif",
+	"type": "Vehicle",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Scrambled Transmission",
+	"id": "scrambledtransmission",
+	"imageUrl": "img/SpecialEdition-Light/scrambledtransmission.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Scurrier",
+	"id": "scurrier",
+	"imageUrl": "img/SpecialEdition-Light/scurrier.gif",
+	"type": "Creature",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Sergeant Edian",
+	"id": "sergeantedian",
+	"imageUrl": "img/SpecialEdition-Light/sergeantedian.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Sergeant Hollis",
+	"id": "sergeanthollis",
+	"imageUrl": "img/SpecialEdition-Light/sergeanthollis.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "S-foils",
+	"id": "sfoils",
+	"imageUrl": "img/SpecialEdition-Light/sfoils.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Slayn & Korpil Facilities",
+	"id": "slaynkorpilfacilities",
+	"imageUrl": "img/SpecialEdition-Light/slaynkorpilfacilities.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Slight Weapons Malfunction",
+	"id": "slightweaponsmalfunction",
+	"imageUrl": "img/SpecialEdition-Light/slightweaponsmalfunction.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Soth Petikkin",
+	"id": "sothpetikkin",
+	"imageUrl": "img/SpecialEdition-Light/sothpetikkin.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Spaceport City",
+	"id": "spaceportcity_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/spaceportcity.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Spaceport Docking Bay",
+	"id": "spaceportdockingbay_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/spaceportdockingbay.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Spaceport Street",
+	"id": "spaceportstreet_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/spaceportstreet.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Spiral",
+	"id": "spiral",
+	"imageUrl": "img/SpecialEdition-Light/spiral.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Star Destroyer!",
+	"id": "stardestroyer",
+	"imageUrl": "img/SpecialEdition-Light/stardestroyer.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Stay Sharp!",
+	"id": "staysharp",
+	"imageUrl": "img/SpecialEdition-Light/staysharp.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Steady Aim",
+	"id": "steadyaim",
+	"imageUrl": "img/SpecialEdition-Light/steadyaim.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Suppressive Fire",
+	"id": "suppressivefire",
+	"imageUrl": "img/SpecialEdition-Light/suppressivefire.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Swamp",
+	"id": "swamp_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/swamp.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "T-47 Battle Formation",
+	"id": "t47battleformation",
+	"imageUrl": "img/SpecialEdition-Light/t47battleformation.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tatooine Celebration",
+	"id": "tatooinecelebration",
+	"imageUrl": "img/SpecialEdition-Light/tatooinecelebration.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tatooine: Anchorhead",
+	"id": "tatooineanchorhead",
+	"imageUrl": "img/SpecialEdition-Light/tatooineanchorhead.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tatooine: Beggar's Canyon",
+	"id": "tatooinebeggarscanyon",
+	"imageUrl": "img/SpecialEdition-Light/tatooinebeggarscanyon.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tatooine: Jabba's Palace",
+	"id": "tatooinejabbaspalace_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/tatooinejabbaspalace.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tatooine: Jawa Canyon",
+	"id": "tatooinejawacanyon_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/tatooinejawacanyon.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tatooine: Tosche Station",
+	"id": "tatooinetoschestation",
+	"imageUrl": "img/SpecialEdition-Light/tatooinetoschestation.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tawss Khaa",
+	"id": "tawsskhaa",
+	"imageUrl": "img/SpecialEdition-Light/tawsskhaa.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "The Planet That It's Farthest From",
+	"id": "theplanetthatitsfarthestfrom",
+	"imageUrl": "img/SpecialEdition-Light/theplanetthatitsfarthestfrom.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Thedit",
+	"id": "thedit",
+	"imageUrl": "img/SpecialEdition-Light/thedit.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Theron Nett",
+	"id": "theronnett",
+	"imageUrl": "img/SpecialEdition-Light/theronnett.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "They're Tracking Us",
+	"id": "theyretrackingus",
+	"imageUrl": "img/SpecialEdition-Light/theyretrackingus.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Tibrin Operative",
+	"id": "tibrinoperative",
+	"imageUrl": "img/SpecialEdition-Light/tibrinoperative.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "TK-422",
+	"id": "tk422",
+	"imageUrl": "img/SpecialEdition-Light/tk422.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Trooper Sabacc",
+	"id": "troopersabacc_(ls)",
+	"imageUrl": "img/SpecialEdition-Light/troopersabacc.gif",
+	"type": "Interrupt",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Uh-oh!",
+	"id": "uhoh",
+	"imageUrl": "img/SpecialEdition-Light/uhoh.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Uutkik",
+	"id": "uutkik",
+	"imageUrl": "img/SpecialEdition-Light/uutkik.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Weapons Display",
+	"id": "weaponsdisplay",
+	"imageUrl": "img/SpecialEdition-Light/weaponsdisplay.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Wise Advice",
+	"id": "wiseadvice",
+	"imageUrl": "img/SpecialEdition-Light/wiseadvice.gif",
+	"type": "Effect",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Wookiee",
+	"id": "wookiee",
+	"imageUrl": "img/SpecialEdition-Light/wookiee.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Wrist Comlink",
+	"id": "wristcomlink",
+	"imageUrl": "img/SpecialEdition-Light/wristcomlink.gif",
+	"type": "Device",
+	"set": "Special Edition"
+	},
+	{
+	"name": "X-wing Assault Squadron",
+	"id": "xwingassaultsquadron",
+	"imageUrl": "img/SpecialEdition-Light/xwingassaultsquadron.gif",
+	"type": "Starship",
+	"set": "Special Edition"
+	},
+	{
+	"name": "X-wing Laser Cannon",
+	"id": "xwinglasercannon",
+	"imageUrl": "img/SpecialEdition-Light/xwinglasercannon.gif",
+	"type": "Weapon",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Yavin 4 Trooper",
+	"id": "yavin4trooper",
+	"imageUrl": "img/SpecialEdition-Light/yavin4trooper.gif",
+	"type": "Character",
+	"set": "Special Edition"
+	},
+	{
+	"name": "Yavin 4: Massassi Headquarters",
+	"id": "yavin4massassiheadquarters",
+	"imageUrl": "img/SpecialEdition-Light/yavin4massassiheadquarters.gif",
+	"type": "Location",
+	"set": "Special Edition"
+	}
+}

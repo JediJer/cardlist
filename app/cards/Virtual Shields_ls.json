@@ -1,0 +1,121 @@
+﻿{
+	{
+	"name": "Affect Mind (V)",
+	"id": "affectmind-v",
+	"imageUrl": "img/VirtualDS-Light/affectmind.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Chasm (V)",
+	"id": "chasm-v",
+	"imageUrl": "img/VirtualDS-Light/chasm.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Don't Do That Again (Tatooine) (V)",
+	"id": "dontdothatagaintatooine-v",
+	"imageUrl": "img/VirtualDS-Light/dontdothatagaintatooine.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Don't Do That Again (V)",
+	"id": "dontdothatagain-v",
+	"imageUrl": "img/VirtualDS-Light/dontdothatagain.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "He Can Go About His Business (V)",
+	"id": "hecangoabouthisbusiness-v",
+	"imageUrl": "img/VirtualDS-Light/hecangoabouthisbusiness.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Let's Keep A Little Optimism Here (Death Star II) (V)",
+	"id": "letskeepalittleoptimismherev-v",
+	"imageUrl": "img/VirtualDS-Light/letskeepalittleoptimismherev.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Let's Keep A Little Optimism Here (V)",
+	"id": "letskeepalittleoptimismhere-shield-v",
+	"imageUrl": "img/VirtualDS-Light/letskeepalittleoptimismhere.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Ounee Ta (Premium) (V)",
+	"id": "ouneetav-v",
+	"imageUrl": "img/VirtualDS-Light/ouneetav.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Ounee Ta (V)",
+	"id": "ouneeta-v",
+	"imageUrl": "img/VirtualDS-Light/ouneeta.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Planetary Defenses (V)",
+	"id": "planetarydefenses-v",
+	"imageUrl": "img/VirtualDS-Light/planetarydefenses.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Simple Tricks And Nonsense",
+	"id": "simpletricksandnonsense",
+	"imageUrl": "img/VirtualDS-Light/simpletricksandnonsense.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "The Professor (V)",
+	"id": "theprofessor-v",
+	"imageUrl": "img/VirtualDS-Light/theprofessor.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Traffic Control (V)",
+	"id": "trafficcontrol-v",
+	"imageUrl": "img/VirtualDS-Light/trafficcontrol.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Weapons Display (V)",
+	"id": "weaponsdisplay-v",
+	"imageUrl": "img/VirtualDS-Light/weaponsdisplay.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Yavin Sentry (V)",
+	"id": "yavinsentry-v",
+	"imageUrl": "img/VirtualDS-Light/yavinsentry.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Your Insight Serves You Well (Death Star II) (V)",
+	"id": "yourinsightservesyouwellv-v",
+	"imageUrl": "img/VirtualDS-Light/yourinsightservesyouwellv.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Your Insight Serves You Well (V)",
+	"id": "yourinsightservesyouwell-v",
+	"imageUrl": "img/VirtualDS-Light/yourinsightservesyouwell.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	}
+}

@@ -1,0 +1,352 @@
+﻿{
+	{
+	"name": "A Jedi's Concentration",
+	"id": "ajedisconcentration",
+	"imageUrl": "img/Tatooine-Light/ajedisconcentration.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "A Jedi's Focus",
+	"id": "ajedisfocus",
+	"imageUrl": "img/Tatooine-Light/ajedisfocus.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "A Jedi's Patience",
+	"id": "ajedispatience",
+	"imageUrl": "img/Tatooine-Light/ajedispatience.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "A Jedi's Resilience",
+	"id": "ajedisresilience",
+	"imageUrl": "img/Tatooine-Light/ajedisresilience.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "A Step Backward",
+	"id": "astepbackward",
+	"imageUrl": "img/Tatooine-Light/astepbackward.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Anakin's Podracer",
+	"id": "anakinspodracer",
+	"imageUrl": "img/Tatooine-Light/anakinspodracer.gif",
+	"type": "Podracer",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Boonta Eve Podrace",
+	"id": "boontaevepodrace_(ls)",
+	"imageUrl": "img/Tatooine-Light/boontaevepodrace.gif",
+	"type": "Epic Event",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Brisky Morning Munchen",
+	"id": "briskymorningmunchen",
+	"imageUrl": "img/Tatooine-Light/briskymorningmunchen.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Caldera Righim",
+	"id": "calderarighim",
+	"imageUrl": "img/Tatooine-Light/calderarighim.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Changing The Odds",
+	"id": "changingtheodds",
+	"imageUrl": "img/Tatooine-Light/changingtheodds.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Deneb Both",
+	"id": "denebboth",
+	"imageUrl": "img/Tatooine-Light/denebboth.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Don't Do That Again",
+	"id": "dontdothatagain",
+	"imageUrl": "img/Tatooine-Light/dontdothatagain.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Either Way, You Win",
+	"id": "eitherwayyouwin",
+	"imageUrl": "img/Tatooine-Light/eitherwayyouwin.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "End Of A Reign",
+	"id": "endofareign",
+	"imageUrl": "img/Tatooine-Light/endofareign.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Entering The Arena",
+	"id": "enteringthearena",
+	"imageUrl": "img/Tatooine-Light/enteringthearena.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Eopie",
+	"id": "eopie",
+	"imageUrl": "img/Tatooine-Light/eopie.gif",
+	"type": "Vehicle",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Eventually You'll Lose",
+	"id": "eventuallyyoulllose",
+	"imageUrl": "img/Tatooine-Light/eventuallyyoulllose.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Great Shot, Kid!",
+	"id": "greatshotkid",
+	"imageUrl": "img/Tatooine-Light/greatshotkid.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Grugnak",
+	"id": "grugnak",
+	"imageUrl": "img/Tatooine-Light/grugnak.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "I Can't Believe He's Gone",
+	"id": "icantbelievehesgone",
+	"imageUrl": "img/Tatooine-Light/icantbelievehesgone.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "I Did It!",
+	"id": "ididit",
+	"imageUrl": "img/Tatooine-Light/ididit.gif",
+	"type": "Epic Event",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Jar Jar Binks",
+	"id": "jarjarbinks",
+	"imageUrl": "img/Tatooine-Light/jarjarbinks.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Jedi Escape",
+	"id": "jediescape",
+	"imageUrl": "img/Tatooine-Light/jediescape.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Keeping The Empire Out Forever",
+	"id": "keepingtheempireoutforever",
+	"imageUrl": "img/Tatooine-Light/keepingtheempireoutforever.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Loci Rosen",
+	"id": "locirosen",
+	"imageUrl": "img/Tatooine-Light/locirosen.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Losing Track",
+	"id": "losingtrack",
+	"imageUrl": "img/Tatooine-Light/losingtrack.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Neck And Neck",
+	"id": "neckandneck",
+	"imageUrl": "img/Tatooine-Light/neckandneck.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Obi-wan Kenobi, Padawan Learner",
+	"id": "obiwankenobipadawanlearner",
+	"imageUrl": "img/Tatooine-Light/obiwankenobipadawanlearner.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Obi-wan Kenobi, Padawan Learner (AI)",
+	"id": "obiwankenobipadawanlearnerai",
+	"imageUrl": "img/Tatooine-Light/obiwankenobipadawanlearnerai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Padme Naberrie",
+	"id": "padmenaberrie",
+	"imageUrl": "img/Tatooine-Light/padmenaberrie.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Padme Naberrie (AI)",
+	"id": "padmenaberrieai",
+	"imageUrl": "img/Tatooine-Light/padmenaberrieai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Podrace Prep",
+	"id": "podraceprep",
+	"imageUrl": "img/Tatooine-Light/podraceprep.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Qui-Gon Jinn",
+	"id": "quigonjinn",
+	"imageUrl": "img/Tatooine-Light/quigonjinn.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Qui-Gon Jinn (AI)",
+	"id": "quigonjinnai",
+	"imageUrl": "img/Tatooine-Light/quigonjinnai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Qui-Gon Jinn's Lightsaber",
+	"id": "quigonjinnslightsaber",
+	"imageUrl": "img/Tatooine-Light/quigonjinnslightsaber.gif",
+	"type": "Weapon",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Qui-Gon Jinn's Lightsaber (AI)",
+	"id": "quigonjinnslightsaberai",
+	"imageUrl": "img/Tatooine-Light/quigonjinnslightsaberai.gif",
+	"type": "Weapon",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Shmi Skywalker",
+	"id": "shmiskywalker",
+	"imageUrl": "img/Tatooine-Light/shmiskywalker.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: City Outskirts",
+	"id": "tatooinecityoutskirts",
+	"imageUrl": "img/Tatooine-Light/tatooinecityoutskirts.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Mos Espa",
+	"id": "tatooinemosespa_(ls)",
+	"imageUrl": "img/Tatooine-Light/tatooinemosespa.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Podrace Arena",
+	"id": "tatooinepodracearena_(ls)",
+	"imageUrl": "img/Tatooine-Light/tatooinepodracearena.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Podracer Bay",
+	"id": "tatooinepodracerbay",
+	"imageUrl": "img/Tatooine-Light/tatooinepodracerbay.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Slave Quarters",
+	"id": "tatooineslavequarters",
+	"imageUrl": "img/Tatooine-Light/tatooineslavequarters.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "The Camp",
+	"id": "thecamp",
+	"imageUrl": "img/Tatooine-Light/thecamp.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "The Shield Is Down!",
+	"id": "theshieldisdown",
+	"imageUrl": "img/Tatooine-Light/theshieldisdown.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Threepio With His Parts Showing",
+	"id": "threepiowithhispartsshowing",
+	"imageUrl": "img/Tatooine-Light/threepiowithhispartsshowing.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Threepio With His Parts Showing (AI)",
+	"id": "threepiowithhispartsshowingai",
+	"imageUrl": "img/Tatooine-Light/threepiowithhispartsshowingai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Too Close For Comfort",
+	"id": "toocloseforcomfort",
+	"imageUrl": "img/Tatooine-Light/toocloseforcomfort.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "What Was It?",
+	"id": "whatwasit",
+	"imageUrl": "img/Tatooine-Light/whatwasit.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Yotts Orren",
+	"id": "yottsorren",
+	"imageUrl": "img/Tatooine-Light/yottsorren.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "You'll Find I'm Full Of Surprises",
+	"id": "youllfindimfullofsurprises",
+	"imageUrl": "img/Tatooine-Light/youllfindimfullofsurprises.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	}
+}

@@ -1,0 +1,457 @@
+﻿{
+	{
+	"name": "A Day Long Remembered (V)",
+	"id": "adaylongremembered-v",
+	"imageUrl": "img/Virtual4-Dark/adaylongremembered.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Arica (V)",
+	"id": "arica-v",
+	"imageUrl": "img/Virtual4-Dark/arica.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Blown Clear (V)",
+	"id": "blownclear-v",
+	"imageUrl": "img/Virtual4-Dark/blownclear.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Carida: ISB Training Academy",
+	"id": "caridaisbtrainingacademy",
+	"imageUrl": "img/Virtual4-Dark/caridaisbtrainingacademy.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Cold Feet (V)",
+	"id": "coldfeet-v",
+	"imageUrl": "img/Virtual4-Dark/coldfeet.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Colonel Wullf Yularen (V)",
+	"id": "colonelwullfyularen-v",
+	"imageUrl": "img/Virtual4-Dark/colonelwullfyularen.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Combat Readiness (V)",
+	"id": "combatreadiness-v",
+	"imageUrl": "img/Virtual4-Dark/combatreadiness.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Coruscant: ISB Central Office",
+	"id": "coruscantisbcentraloffice",
+	"imageUrl": "img/Virtual4-Dark/coruscantisbcentraloffice.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Crush The Rebellion (V)",
+	"id": "crushtherebellion-v",
+	"imageUrl": "img/Virtual4-Dark/crushtherebellion.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Dark Reconnaissance",
+	"id": "darkreconnaissance",
+	"imageUrl": "img/Virtual4-Dark/darkreconnaissance.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Death Star: Conference Room (V)",
+	"id": "deathstarconferenceroom-v",
+	"imageUrl": "img/Virtual4-Dark/deathstarconferenceroom.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Deep Hatred (V)",
+	"id": "deephatred-v",
+	"imageUrl": "img/Virtual4-Dark/deephatred.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Dreaded Imperial Starfleet (V)",
+	"id": "dreadedimperialstarfleet-v",
+	"imageUrl": "img/Virtual4-Dark/dreadedimperialstarfleet.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Execution Arena (Pit)",
+	"id": "executionarenapit",
+	"imageUrl": "img/Virtual4-Dark/executionarenapit.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Frozen Dinner (V)",
+	"id": "frozendinner-v",
+	"imageUrl": "img/Virtual4-Dark/frozendinner.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Frustration (V)",
+	"id": "frustration-v",
+	"imageUrl": "img/Virtual4-Dark/frustration.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Galen Marek, Starkiller",
+	"id": "galenmarekstarkiller",
+	"imageUrl": "img/Virtual4-Dark/galenmarekstarkiller.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Galen Marek, Starkiller (AI)",
+	"id": "galenmarekstarkillerai",
+	"imageUrl": "img/Virtual4-Dark/galenmarekstarkillerai.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Galen's Lightsaber",
+	"id": "galenslightsaber",
+	"imageUrl": "img/Virtual4-Dark/galenslightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Gift Of The Master",
+	"id": "giftofthemaster",
+	"imageUrl": "img/Virtual4-Dark/giftofthemaster.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Grand Admiral Thrawn (V)",
+	"id": "grandadmiralthrawn-v",
+	"imageUrl": "img/Virtual4-Dark/grandadmiralthrawn.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Guri (V)",
+	"id": "guri-v",
+	"imageUrl": "img/Virtual4-Dark/guri.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "He Is Not Ready (V)",
+	"id": "heisnotready-v",
+	"imageUrl": "img/Virtual4-Dark/heisnotready.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Hunt Down And Destroy The Jedi / Their Fire Has Gone Out Of The Universe (V)",
+	"id": "huntdownanddestroythejedi-v",
+	"imageUrl": "img/starwars/Virtual4-Dark/huntdownanddestroythejedi/theirfirehasgoneoutoftheuniverse.gif",
+	"type": "Objective",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "If The Trace Was Correct (V)",
+	"id": "ifthetracewascorrect-v",
+	"imageUrl": "img/Virtual4-Dark/ifthetracewascorrect.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Imperial Code Cylinder (V)",
+	"id": "imperialcodecylinder-v",
+	"imageUrl": "img/Virtual4-Dark/imperialcodecylinder.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Imperial Propaganda (V)",
+	"id": "imperialpropaganda-v",
+	"imageUrl": "img/Virtual4-Dark/imperialpropaganda.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Imperial Stormtrooper",
+	"id": "imperialstormtrooper",
+	"imageUrl": "img/Virtual4-Dark/imperialstormtrooper.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Information Exchange (V)",
+	"id": "informationexchange-v",
+	"imageUrl": "img/Virtual4-Dark/informationexchange.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Insignificant Rebellion (V)",
+	"id": "insignificantrebellion-v",
+	"imageUrl": "img/Virtual4-Dark/insignificantrebellion.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "ISB Sector Office",
+	"id": "isbsectoroffice",
+	"imageUrl": "img/Virtual4-Dark/isbsectoroffice.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "It's Worse (V)",
+	"id": "itsworse-v",
+	"imageUrl": "img/Virtual4-Dark/itsworse.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Janus Greejatus (V)",
+	"id": "janusgreejatus-v",
+	"imageUrl": "img/Virtual4-Dark/janusgreejatus.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Juno Eclipse, Black Leader",
+	"id": "junoeclipseblackleader",
+	"imageUrl": "img/Virtual4-Dark/junoeclipseblackleader.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Juno Eclipse, Black Leader (AI)",
+	"id": "junoeclipseblackleaderai",
+	"imageUrl": "img/Virtual4-Dark/junoeclipseblackleaderai.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Katana",
+	"id": "katana",
+	"imageUrl": "img/Virtual4-Dark/katana.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Kessel: Spice Mines - Docking Bay",
+	"id": "kesselspiceminesdockingbay",
+	"imageUrl": "img/Virtual4-Dark/kesselspiceminesdockingbay.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Kessel: Spice Mines - Extraction Facility",
+	"id": "kesselspiceminesextractionfacility",
+	"imageUrl": "img/Virtual4-Dark/kesselspiceminesextractionfacility.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Kessel: Spice Mines - Prison",
+	"id": "kesselspiceminesprison",
+	"imageUrl": "img/Virtual4-Dark/kesselspiceminesprison.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Knowledge And Defense (V)",
+	"id": "knowledgeanddefense-v",
+	"imageUrl": "img/Virtual4-Dark/knowledgeanddefense.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Krayt Dragon Bones (V)",
+	"id": "kraytdragonbones-v",
+	"imageUrl": "img/Virtual4-Dark/kraytdragonbones.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Kuat Drive Yards (V)",
+	"id": "kuatdriveyards-v",
+	"imageUrl": "img/Virtual4-Dark/kuatdriveyards.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Laser Gate (V)",
+	"id": "lasergate-v",
+	"imageUrl": "img/Virtual4-Dark/lasergate.gif",
+	"type": "Device",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Let's Pass On That",
+	"id": "letspassonthat",
+	"imageUrl": "img/Virtual4-Dark/letspassonthat.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Mara Jade With Lightsaber",
+	"id": "marajadewithlightsaber",
+	"imageUrl": "img/Virtual4-Dark/marajadewithlightsaber.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Myn Kyneugh (V)",
+	"id": "mynkyneugh-v",
+	"imageUrl": "img/Virtual4-Dark/mynkyneugh.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "No Bargain (V)",
+	"id": "nobargain-v",
+	"imageUrl": "img/Virtual4-Dark/nobargain.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Officer Evax (V)",
+	"id": "officerevax-v",
+	"imageUrl": "img/Virtual4-Dark/officerevax.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Onyx 2 (V)",
+	"id": "onyx2-v",
+	"imageUrl": "img/Virtual4-Dark/onyx2.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Prince Xizor (V)",
+	"id": "princexizor-v",
+	"imageUrl": "img/Virtual4-Dark/princexizor.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Quietly Observing (V)",
+	"id": "quietlyobserving-v",
+	"imageUrl": "img/Virtual4-Dark/quietlyobserving.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "R2-A5 (Artoo-Ayfive) (V)",
+	"id": "r2a5-v",
+	"imageUrl": "img/Virtual4-Dark/r2a5.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Raider Craft",
+	"id": "raidercraft",
+	"imageUrl": "img/Virtual4-Dark/raidercraft.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Ralltiir: Supply Route",
+	"id": "ralltiirsupplyroute",
+	"imageUrl": "img/Virtual4-Dark/ralltiirsupplyroute.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Rogue Shadow",
+	"id": "rogueshadow",
+	"imageUrl": "img/Virtual4-Dark/rogueshadow.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Scout Mercenary",
+	"id": "scoutmercenary",
+	"imageUrl": "img/Virtual4-Dark/scoutmercenary.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Shada",
+	"id": "shada",
+	"imageUrl": "img/Virtual4-Dark/shada.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Stinger (V)",
+	"id": "stinger-v",
+	"imageUrl": "img/Virtual4-Dark/stinger.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Stunning Leader (V)",
+	"id": "stunningleader-v",
+	"imageUrl": "img/Virtual4-Dark/stunningleader.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "The Force Unleashed",
+	"id": "theforceunleashed",
+	"imageUrl": "img/Virtual4-Dark/theforceunleashed.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "There Is No Try & Oppressive Enforcement (V)",
+	"id": "thereisnotry&oppressiveenforcement-v",
+	"imageUrl": "img/Virtual4-Dark/thereisnotry&oppressiveenforcement.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Those Rebels Won't Escape Us (V)",
+	"id": "thoserebelswontescapeus-v",
+	"imageUrl": "img/Virtual4-Dark/thoserebelswontescapeus.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Thrawn's Ysalamir",
+	"id": "thrawnsysalamir",
+	"imageUrl": "img/Virtual4-Dark/thrawnsysalamir.gif",
+	"type": "Creature",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "TIE Fighter Construction Facility",
+	"id": "tiefighterconstructionfacility",
+	"imageUrl": "img/Virtual4-Dark/tiefighterconstructionfacility.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Unexpected Interruption (V)",
+	"id": "unexpectedinterruption-v",
+	"imageUrl": "img/Virtual4-Dark/unexpectedinterruption.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	}
+}

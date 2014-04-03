@@ -1,0 +1,58 @@
+﻿{
+	{
+	"name": "Bossk With Mortar Gun",
+	"id": "bosskwithmortargun",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/bosskwithmortargun.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Court Of The Vile Gangster / I Shall Enjoy Watching You Die",
+	"id": "courtofthevilegangster",
+	"imageUrl": "img/starwars/EnhancedJabbasPalace-Dark/courtofthevilegangster/ishallenjoywatchingyoudie.gif",
+	"type": "Objective",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Dengar With Blaster Carbine",
+	"id": "dengarwithblastercarbine",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/dengarwithblastercarbine.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "IG-88 In IG-2000",
+	"id": "ig88inig2000",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/ig88inig2000.gif",
+	"type": "Starship",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Jodo Kast",
+	"id": "jodokast",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/jodokast.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Mara Jade, The Emperor's Hand",
+	"id": "marajadetheemperorshand",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/marajadetheemperorshand.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Mara Jade's Lightsaber",
+	"id": "marajadeslightsaber",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/marajadeslightsaber.gif",
+	"type": "Weapon",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Zuckuss In Mist Hunter",
+	"id": "zuckussinmisthunter",
+	"imageUrl": "img/EnhancedJabbasPalace-Dark/zuckussinmisthunter.gif",
+	"type": "Starship",
+	"set": "Enhanced Jabba's Palace"
+	}
+}

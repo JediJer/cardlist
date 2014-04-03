@@ -1,0 +1,590 @@
+﻿{
+	{
+	"name": "A Bright Center To The Universe (V)",
+	"id": "abrightcentertotheuniverse-v",
+	"imageUrl": "img/Virtual1-Dark/abrightcentertotheuniverse.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "A Disturbance In The Force (V)",
+	"id": "adisturbanceintheforce-v",
+	"imageUrl": "img/Virtual1-Dark/adisturbanceintheforce.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Admiral Motti (V)",
+	"id": "admiralmotti-v",
+	"imageUrl": "img/Virtual1-Dark/admiralmotti.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Assault Rifle (V)",
+	"id": "assaultrifle-v",
+	"imageUrl": "img/Virtual1-Dark/assaultrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Astromech Shortage (V)",
+	"id": "astromechshortage-v",
+	"imageUrl": "img/Virtual1-Dark/astromechshortage.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Bantha (V)",
+	"id": "bantha-v",
+	"imageUrl": "img/Virtual1-Dark/bantha.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Besieged (V)",
+	"id": "besieged-v",
+	"imageUrl": "img/Virtual1-Dark/besieged.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Black 2 (V)",
+	"id": "black2-v",
+	"imageUrl": "img/Virtual1-Dark/black2.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Black 3 (V)",
+	"id": "black3-v",
+	"imageUrl": "img/Virtual1-Dark/black3.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Blaster Rack (V)",
+	"id": "blasterrack-v",
+	"imageUrl": "img/Virtual1-Dark/blasterrack.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Boba Fett (V)",
+	"id": "bobafett_(virtual block 1)",
+	"imageUrl": "img/Virtual1-Dark/bobafett.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Collateral Damage (V)",
+	"id": "collateraldamage-v",
+	"imageUrl": "img/Virtual1-Dark/collateraldamage.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Come With Me (V)",
+	"id": "comewithme-v",
+	"imageUrl": "img/Virtual1-Dark/comewithme.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Commander Praji (V)",
+	"id": "commanderpraji-v",
+	"imageUrl": "img/Virtual1-Dark/commanderpraji.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Conquest (V)",
+	"id": "conquest-v",
+	"imageUrl": "img/Virtual1-Dark/conquest.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Coordinated Attack (V)",
+	"id": "coordinatedattack-v",
+	"imageUrl": "img/Virtual1-Dark/coordinatedattack.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Cyclone 1",
+	"id": "cyclone1",
+	"imageUrl": "img/Virtual1-Dark/cyclone1.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Dannik Jerriko (V)",
+	"id": "dannikjerriko-v",
+	"imageUrl": "img/Virtual1-Dark/dannikjerriko.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Danz Borin (V)",
+	"id": "danzborin-v",
+	"imageUrl": "img/Virtual1-Dark/danzborin.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Dark Forces (V)",
+	"id": "darkforces-v",
+	"imageUrl": "img/Virtual1-Dark/darkforces.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Darth Vader (V)",
+	"id": "darthvader-v",
+	"imageUrl": "img/Virtual1-Dark/darthvader.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Death Star Gunner (V)",
+	"id": "deathstargunner-v",
+	"imageUrl": "img/Virtual1-Dark/deathstargunner.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Devastator (V)",
+	"id": "devastator-v",
+	"imageUrl": "img/Virtual1-Dark/devastator.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Dewback (V)",
+	"id": "dewback-v",
+	"imageUrl": "img/Virtual1-Dark/dewback.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Djas Puhr (V)",
+	"id": "djaspuhr-v",
+	"imageUrl": "img/Virtual1-Dark/djaspuhr.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Emergency Deployment (V)",
+	"id": "emergencydeployment-v",
+	"imageUrl": "img/Virtual1-Dark/emergencydeployment.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Forced Servitude (V)",
+	"id": "forcedservitude-v",
+	"imageUrl": "img/Virtual1-Dark/forcedservitude.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Fusion Generator Supply Tanks (V)",
+	"id": "fusiongeneratorsupplytanks_(ds)-v",
+	"imageUrl": "img/Virtual1-Dark/fusiongeneratorsupplytanks.gif",
+	"type": "Device",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "General Tagge (V)",
+	"id": "generaltagge-v",
+	"imageUrl": "img/Virtual1-Dark/generaltagge.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Gravel Storm (V)",
+	"id": "gravelstorm-v",
+	"imageUrl": "img/Virtual1-Dark/gravelstorm.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Greedo (V)",
+	"id": "greedo-v",
+	"imageUrl": "img/Virtual1-Dark/greedo.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Han Seeker (V)",
+	"id": "hanseeker-v",
+	"imageUrl": "img/Virtual1-Dark/hanseeker.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Hem Dazon (V)",
+	"id": "hemdazon-v",
+	"imageUrl": "img/Virtual1-Dark/hemdazon.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Hyperwave Scan (V)",
+	"id": "hyperwavescan-v",
+	"imageUrl": "img/Virtual1-Dark/hyperwavescan.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "I Can't Shake Him! (V)",
+	"id": "icantshakehim-v",
+	"imageUrl": "img/Virtual1-Dark/icantshakehim.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "I'm On The Leader (V)",
+	"id": "imontheleader-v",
+	"imageUrl": "img/Virtual1-Dark/imontheleader.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Imperial Detainment",
+	"id": "imperialdetainment",
+	"imageUrl": "img/Virtual1-Dark/imperialdetainment.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Imperial Entanglements / No One To Stop Us This Time",
+	"id": "imperialentanglements",
+	"imageUrl": "img/starwars/Virtual1-Dark/imperialentanglements/noonetostopusthistime.gif",
+	"type": "Objective",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Imperial Justice (V)",
+	"id": "imperialjustice-v",
+	"imageUrl": "img/Virtual1-Dark/imperialjustice.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Imperial Pilot (V)",
+	"id": "imperialpilot-v",
+	"imageUrl": "img/Virtual1-Dark/imperialpilot.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Imperial Reinforcements (V)",
+	"id": "imperialreinforcements-v",
+	"imageUrl": "img/Virtual1-Dark/imperialreinforcements.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Imperial-Class Star Destroyer (V)",
+	"id": "imperialclassstardestroyer-v",
+	"imageUrl": "img/Virtual1-Dark/imperialclassstardestroyer.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Informant (V)",
+	"id": "informant-v",
+	"imageUrl": "img/Virtual1-Dark/informant.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "IT-O (Eyetee-Oh) (V)",
+	"id": "ito-v",
+	"imageUrl": "img/Virtual1-Dark/ito.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "I've Lost Artoo! (V)",
+	"id": "ivelostartoo-v",
+	"imageUrl": "img/Virtual1-Dark/ivelostartoo.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Jabba's Influence (V)",
+	"id": "jabbasinfluence-v",
+	"imageUrl": "img/Virtual1-Dark/jabbasinfluence.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Jawa Pack (V)",
+	"id": "jawapack-v",
+	"imageUrl": "img/Virtual1-Dark/jawapack.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Ket Maliss (V)",
+	"id": "ketmaliss-v",
+	"imageUrl": "img/Virtual1-Dark/ketmaliss.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Kitik Keed'kak (V)",
+	"id": "kitikkeedkak-v",
+	"imageUrl": "img/Virtual1-Dark/kitikkeedkak.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Labria (V)",
+	"id": "labria-v",
+	"imageUrl": "img/Virtual1-Dark/labria.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Leia Seeker (V)",
+	"id": "leiaseeker-v",
+	"imageUrl": "img/Virtual1-Dark/leiaseeker.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Local Trouble (V)",
+	"id": "localtrouble-v",
+	"imageUrl": "img/Virtual1-Dark/localtrouble.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Look Sir, Droids (V)",
+	"id": "looksirdroids-v",
+	"imageUrl": "img/Virtual1-Dark/looksirdroids.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Luke? Luuuuke! (V)",
+	"id": "lukeluuuuke-v",
+	"imageUrl": "img/Virtual1-Dark/lukeluuuuke.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Maneuver Check (V)",
+	"id": "maneuvercheck-v",
+	"imageUrl": "img/Virtual1-Dark/maneuvercheck.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Molator (V)",
+	"id": "molator-v",
+	"imageUrl": "img/Virtual1-Dark/molator.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Oo-ta Goo-ta, Solo? (V)",
+	"id": "ootagootasolo-v",
+	"imageUrl": "img/Virtual1-Dark/ootagootasolo.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Organa's Ceremonial Necklace (V)",
+	"id": "organasceremonialnecklace-v",
+	"imageUrl": "img/Virtual1-Dark/organasceremonialnecklace.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Prophetess (V)",
+	"id": "prophetess-v",
+	"imageUrl": "img/Virtual1-Dark/prophetess.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Reegesk (V)",
+	"id": "reegesk-v",
+	"imageUrl": "img/Virtual1-Dark/reegesk.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Reserve Pilot (V)",
+	"id": "reservepilot-v",
+	"imageUrl": "img/Virtual1-Dark/reservepilot.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Rodian (V)",
+	"id": "rodian-v",
+	"imageUrl": "img/Virtual1-Dark/rodian.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Sandcrawler (V)",
+	"id": "sandcrawler_(ds)-v",
+	"imageUrl": "img/Virtual1-Dark/sandcrawler.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Sandtrooper (V)",
+	"id": "sandtrooper-v",
+	"imageUrl": "img/Virtual1-Dark/sandtrooper.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Send A Detachment Down (V)",
+	"id": "sendadetachmentdown-v",
+	"imageUrl": "img/Virtual1-Dark/sendadetachmentdown.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Spice Mines Of Kessel (V)",
+	"id": "spiceminesofkessel-v",
+	"imageUrl": "img/Virtual1-Dark/spiceminesofkessel.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Stormtrooper (V)",
+	"id": "stormtrooper-v",
+	"imageUrl": "img/Virtual1-Dark/stormtrooper.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Sunsdown (V)",
+	"id": "sunsdown-v",
+	"imageUrl": "img/Virtual1-Dark/sunsdown.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Surface Defense (V)",
+	"id": "surfacedefense-v",
+	"imageUrl": "img/Virtual1-Dark/surfacedefense.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tactical Re-Call (V)",
+	"id": "tacticalrecall-v",
+	"imageUrl": "img/Virtual1-Dark/tacticalrecall.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tarkin (V)",
+	"id": "tarkin-v",
+	"imageUrl": "img/Virtual1-Dark/tarkin.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tarkin Doctrine",
+	"id": "tarkindoctrine",
+	"imageUrl": "img/Virtual1-Dark/tarkindoctrine.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tatooine: Mos Eisley (V)",
+	"id": "tatooinemoseisley-v",
+	"imageUrl": "img/Virtual1-Dark/tatooinemoseisley.gif",
+	"type": "Location",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tentacle (V)",
+	"id": "tentacle-v",
+	"imageUrl": "img/Virtual1-Dark/tentacle.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "The Empire's Back (V)",
+	"id": "theempiresback-v",
+	"imageUrl": "img/Virtual1-Dark/theempiresback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Trooper Davin Felth (V)",
+	"id": "trooperdavinfelth-v",
+	"imageUrl": "img/Virtual1-Dark/trooperdavinfelth.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Undercover (V)",
+	"id": "undercover_(ds)-v",
+	"imageUrl": "img/Virtual1-Dark/undercover.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "URoRRuR'R'R (V)",
+	"id": "urorrurrr-v",
+	"imageUrl": "img/Virtual1-Dark/urorrurrr.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "URoRRuR'R'R's Bantha (V)",
+	"id": "urorrurrrsbantha-v",
+	"imageUrl": "img/Virtual1-Dark/urorrurrrsbantha.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Ur'Ru'r (V)",
+	"id": "urrur-v",
+	"imageUrl": "img/Virtual1-Dark/urrur.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Utinni! (V)",
+	"id": "utinni_(ds)-v",
+	"imageUrl": "img/Virtual1-Dark/utinni.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Vader (V)",
+	"id": "vader-v",
+	"imageUrl": "img/Virtual1-Dark/vader.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Watch Your Back! (V)",
+	"id": "watchyourback-v",
+	"imageUrl": "img/Virtual1-Dark/watchyourback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "We're All Gonna Be A Lot Thinner! (V)",
+	"id": "wereallgonnabealotthinner-v",
+	"imageUrl": "img/Virtual1-Dark/wereallgonnabealotthinner.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	}
+}

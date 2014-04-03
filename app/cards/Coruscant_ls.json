@@ -1,0 +1,674 @@
+﻿{
+	{
+	"name": "A Tragedy Has Occurred",
+	"id": "atragedyhasoccurred",
+	"imageUrl": "img/Coruscant-Light/atragedyhasoccurred.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "A Vergence In The Force",
+	"id": "avergenceintheforce",
+	"imageUrl": "img/Coruscant-Light/avergenceintheforce.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "All Wings Report In & Darklighter Spin",
+	"id": "allwingsreportin&darklighterspin",
+	"imageUrl": "img/Coruscant-Light/allwingsreportin&darklighterspin.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Alter",
+	"id": "alter_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/alter.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Another Pathetic Lifeform",
+	"id": "anotherpatheticlifeform",
+	"imageUrl": "img/Coruscant-Light/anotherpatheticlifeform.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Are You Brain Dead?!",
+	"id": "areyoubraindead",
+	"imageUrl": "img/Coruscant-Light/areyoubraindead.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Ascertaining The Truth",
+	"id": "ascertainingthetruth",
+	"imageUrl": "img/Coruscant-Light/ascertainingthetruth.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Baseless Accusations",
+	"id": "baselessaccusations",
+	"imageUrl": "img/Coruscant-Light/baselessaccusations.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Battle Plan & Draw Their Fire",
+	"id": "battleplan&drawtheirfire",
+	"imageUrl": "img/Coruscant-Light/battleplan&drawtheirfire.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Captain Madakor",
+	"id": "captainmadakor",
+	"imageUrl": "img/Coruscant-Light/captainmadakor.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Captain Panaka",
+	"id": "captainpanaka",
+	"imageUrl": "img/Coruscant-Light/captainpanaka.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Control",
+	"id": "control_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/control.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant",
+	"id": "coruscant_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/coruscant.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant Guard",
+	"id": "coruscantguard_(ls)",
+	"imageUrl": "img/Coruscant-Light/coruscantguard.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant: Docking Bay",
+	"id": "coruscantdockingbay_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/coruscantdockingbay.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant: Galactic Senate",
+	"id": "coruscantgalacticsenate_(ls)",
+	"imageUrl": "img/Coruscant-Light/coruscantgalacticsenate.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant: Jedi Council Chamber",
+	"id": "coruscantjedicouncilchamber",
+	"imageUrl": "img/Coruscant-Light/coruscantjedicouncilchamber.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Credits Will Do Fine",
+	"id": "creditswilldofine",
+	"imageUrl": "img/Coruscant-Light/creditswilldofine.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Depa Billaba",
+	"id": "depabillaba",
+	"imageUrl": "img/Coruscant-Light/depabillaba.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Free Ride & Endor Celebration",
+	"id": "freeride&endorcelebration",
+	"imageUrl": "img/Coruscant-Light/freeride&endorcelebration.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Freon Drevan",
+	"id": "freondrevan",
+	"imageUrl": "img/Coruscant-Light/freondrevan.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Graxol Kelvyyn",
+	"id": "graxolkelvyyn",
+	"imageUrl": "img/Coruscant-Light/graxolkelvyyn.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Gungan Warrior",
+	"id": "gunganwarrior",
+	"imageUrl": "img/Coruscant-Light/gunganwarrior.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Horox Ryyder",
+	"id": "horoxryyder",
+	"imageUrl": "img/Coruscant-Light/horoxryyder.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "I Will Not Defer",
+	"id": "iwillnotdefer",
+	"imageUrl": "img/Coruscant-Light/iwillnotdefer.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Inconsequential Barriers",
+	"id": "inconsequentialbarriers",
+	"imageUrl": "img/Coruscant-Light/inconsequentialbarriers.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Insurrection & Aim High",
+	"id": "insurrection&aimhigh",
+	"imageUrl": "img/Coruscant-Light/insurrection&aimhigh.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "I've Decided To Go Back",
+	"id": "ivedecidedtogoback",
+	"imageUrl": "img/Coruscant-Light/ivedecidedtogoback.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Jawa",
+	"id": "jawa_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/jawa.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Ki-Adi-Mundi",
+	"id": "kiadimundi",
+	"imageUrl": "img/Coruscant-Light/kiadimundi.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Liana Merian",
+	"id": "lianamerian",
+	"imageUrl": "img/Coruscant-Light/lianamerian.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Lieutenant Williams",
+	"id": "lieutenantwilliams",
+	"imageUrl": "img/Coruscant-Light/lieutenantwilliams.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Mace Windu",
+	"id": "macewindu",
+	"imageUrl": "img/Coruscant-Light/macewindu.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Mace Windu (AI)",
+	"id": "macewinduai",
+	"imageUrl": "img/Coruscant-Light/macewinduai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Malastare",
+	"id": "malastare_(ls)",
+	"imageUrl": "img/Coruscant-Light/malastare.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Mas Amedda",
+	"id": "masamedda",
+	"imageUrl": "img/Coruscant-Light/masamedda.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Master Qui-Gon",
+	"id": "masterquigon",
+	"imageUrl": "img/Coruscant-Light/masterquigon.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Master Qui-Gon (AI)",
+	"id": "masterquigonai",
+	"imageUrl": "img/Coruscant-Light/masterquigonai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Might Of The Republic",
+	"id": "mightoftherepublic",
+	"imageUrl": "img/Coruscant-Light/mightoftherepublic.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Mindful Of The Future",
+	"id": "mindfulofthefuture",
+	"imageUrl": "img/Coruscant-Light/mindfulofthefuture.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Murr Danod",
+	"id": "murrdanod",
+	"imageUrl": "img/Coruscant-Light/murrdanod.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "My Loyal Bodyguard",
+	"id": "myloyalbodyguard",
+	"imageUrl": "img/Coruscant-Light/myloyalbodyguard.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo",
+	"id": "naboo_(ls)",
+	"imageUrl": "img/Coruscant-Light/naboo.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo Blaster Rifle",
+	"id": "nabooblasterrifle_(ls)",
+	"imageUrl": "img/Coruscant-Light/nabooblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo Defense Fighter",
+	"id": "naboodefensefighter",
+	"imageUrl": "img/Coruscant-Light/naboodefensefighter.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo Fighter Pilot",
+	"id": "naboofighterpilot",
+	"imageUrl": "img/Coruscant-Light/naboofighterpilot.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo Security Officer Blaster",
+	"id": "naboosecurityofficerblaster",
+	"imageUrl": "img/Coruscant-Light/naboosecurityofficerblaster.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Battle Plains",
+	"id": "naboobattleplains_(ls)",
+	"imageUrl": "img/Coruscant-Light/naboobattleplains.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Swamp",
+	"id": "nabooswamp_(ls)",
+	"imageUrl": "img/Coruscant-Light/nabooswamp.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Theed Palace Courtyard",
+	"id": "nabootheedpalacecourtyard_(ls)",
+	"imageUrl": "img/Coruscant-Light/nabootheedpalacecourtyard.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Theed Palace Docking Bay",
+	"id": "nabootheedpalacedockingbay_(ls)",
+	"imageUrl": "img/Coruscant-Light/nabootheedpalacedockingbay.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Theed Palace Throne Room",
+	"id": "nabootheedpalacethroneroom_(ls)",
+	"imageUrl": "img/Coruscant-Light/nabootheedpalacethroneroom.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "New Leadership Is Needed",
+	"id": "newleadershipisneeded",
+	"imageUrl": "img/Coruscant-Light/newleadershipisneeded.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Odin Nesloor",
+	"id": "odinnesloor",
+	"imageUrl": "img/Coruscant-Light/odinnesloor.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Panaka's Blaster",
+	"id": "panakasblaster",
+	"imageUrl": "img/Coruscant-Light/panakasblaster.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Phylo Gandish",
+	"id": "phylogandish",
+	"imageUrl": "img/Coruscant-Light/phylogandish.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Plea To The Court",
+	"id": "pleatothecourt",
+	"imageUrl": "img/Coruscant-Light/pleatothecourt.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Plead My Case To The Senate / Sanity And Compassion",
+	"id": "pleadmycasetothesenate",
+	"imageUrl": "img/starwars/Coruscant-Light/pleadmycasetothesenate/sanityandcompassion.gif",
+	"type": "Objective",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Plo Koon",
+	"id": "plokoon",
+	"imageUrl": "img/Coruscant-Light/plokoon.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Queen Amidala, Ruler Of Naboo",
+	"id": "queenamidalarulerofnaboo",
+	"imageUrl": "img/Coruscant-Light/queenamidalarulerofnaboo.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Queen Amidala, Ruler Of Naboo (AI)",
+	"id": "queenamidalarulerofnabooai",
+	"imageUrl": "img/Coruscant-Light/queenamidalarulerofnabooai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Queen's Royal Starship",
+	"id": "queensroyalstarship",
+	"imageUrl": "img/Coruscant-Light/queensroyalstarship.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Radiant VII",
+	"id": "radiantvii",
+	"imageUrl": "img/Coruscant-Light/radiantvii.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Rebel Artillery",
+	"id": "rebelartillery",
+	"imageUrl": "img/Coruscant-Light/rebelartillery.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Republic Cruiser",
+	"id": "republiccruiser",
+	"imageUrl": "img/Coruscant-Light/republiccruiser.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Reveal Ourselves To The Jedi",
+	"id": "revealourselvestothejedi",
+	"imageUrl": "img/Coruscant-Light/revealourselvestothejedi.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Ric Olie",
+	"id": "ricolie",
+	"imageUrl": "img/Coruscant-Light/ricolie.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Sabe",
+	"id": "sabe",
+	"imageUrl": "img/Coruscant-Light/sabe.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Sache",
+	"id": "sache",
+	"imageUrl": "img/Coruscant-Light/sache.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Secure Route",
+	"id": "secureroute",
+	"imageUrl": "img/Coruscant-Light/secureroute.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Security Control",
+	"id": "securitycontrol",
+	"imageUrl": "img/Coruscant-Light/securitycontrol.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Sei Taria",
+	"id": "seitaria",
+	"imageUrl": "img/Coruscant-Light/seitaria.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Senator Palpatine",
+	"id": "senatorpalpatine",
+	"imageUrl": "img/Coruscant-Light/senatorpalpatine.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Senator Palpatine (AI)",
+	"id": "senatorpalpatineai",
+	"imageUrl": "img/Coruscant-Light/senatorpalpatineai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Sense",
+	"id": "sense_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/sense.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Speak With The Jedi Council",
+	"id": "speakwiththejedicouncil",
+	"imageUrl": "img/Coruscant-Light/speakwiththejedicouncil.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Stay Here, Where It's Safe",
+	"id": "stayherewhereitssafe",
+	"imageUrl": "img/Coruscant-Light/stayherewhereitssafe.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Supreme Chancellor Valorum",
+	"id": "supremechancellorvalorum",
+	"imageUrl": "img/Coruscant-Light/supremechancellorvalorum.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Supreme Chancellor Valorum (AI)",
+	"id": "supremechancellorvalorumai",
+	"imageUrl": "img/Coruscant-Light/supremechancellorvalorumai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine",
+	"id": "tatooine_(ls)_(coruscant)",
+	"imageUrl": "img/Coruscant-Light/tatooine.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine: Marketplace",
+	"id": "tatooinemarketplace_(ls)",
+	"imageUrl": "img/Coruscant-Light/tatooinemarketplace.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine: Mos Espa Docking Bay",
+	"id": "tatooinemosespadockingbay_(ls)",
+	"imageUrl": "img/Coruscant-Light/tatooinemosespadockingbay.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine: Watto's Junkyard",
+	"id": "tatooinewattosjunkyard_(ls)",
+	"imageUrl": "img/Coruscant-Light/tatooinewattosjunkyard.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tendau Bendon",
+	"id": "tendaubendon",
+	"imageUrl": "img/Coruscant-Light/tendaubendon.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "The Gravest Of Circumstances",
+	"id": "thegravestofcircumstances",
+	"imageUrl": "img/Coruscant-Light/thegravestofcircumstances.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "The Hyperdrive Generator's Gone / We'll Need A New One",
+	"id": "thehyperdrivegeneratorsgone",
+	"imageUrl": "img/starwars/Coruscant-Light/thehyperdrivegeneratorsgone/wellneedanewone.gif",
+	"type": "Objective",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Thrown Back",
+	"id": "thrownback",
+	"imageUrl": "img/Coruscant-Light/thrownback.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Vote Now!",
+	"id": "votenow_(ls)",
+	"imageUrl": "img/Coruscant-Light/votenow.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "We Wish To Board At Once",
+	"id": "wewishtoboardatonce",
+	"imageUrl": "img/Coruscant-Light/wewishtoboardatonce.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "We're Leaving",
+	"id": "wereleaving",
+	"imageUrl": "img/Coruscant-Light/wereleaving.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Yane",
+	"id": "yane",
+	"imageUrl": "img/Coruscant-Light/yane.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Yarua",
+	"id": "yarua",
+	"imageUrl": "img/Coruscant-Light/yarua.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Yoda, Senior Council Member",
+	"id": "yodaseniorcouncilmember",
+	"imageUrl": "img/Coruscant-Light/yodaseniorcouncilmember.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Yoda, Senior Council Member (AI)",
+	"id": "yodaseniorcouncilmemberai",
+	"imageUrl": "img/Coruscant-Light/yodaseniorcouncilmemberai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Your Insight Serves You Well & Staging Areas",
+	"id": "yourinsightservesyouwell&stagingareas",
+	"imageUrl": "img/Coruscant-Light/yourinsightservesyouwell&stagingareas.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "You've Got A Lot Of Guts Coming Here",
+	"id": "youvegotalotofgutscominghere",
+	"imageUrl": "img/Coruscant-Light/youvegotalotofgutscominghere.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	}
+}

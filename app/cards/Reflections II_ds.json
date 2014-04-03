@@ -1,0 +1,191 @@
+﻿{
+	{
+	"name": "Abyssin Ornament & Wounded Wookiee",
+	"id": "abyssinornament&woundedwookiee",
+	"imageUrl": "img/ReflectionsII-Dark/abyssinornament&woundedwookiee.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Agents of Black Sun / Vengeance of the Dark Prince",
+	"id": "agentsofblacksun",
+	"imageUrl": "img/starwars/ReflectionsII-Dark/agentsofblacksun/vengeanceofthedarkprince.gif",
+	"type": "Objective",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Alter & Collateral Damage",
+	"id": "alter&collateraldamage",
+	"imageUrl": "img/ReflectionsII-Dark/alter&collateraldamage.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Arica",
+	"id": "arica",
+	"imageUrl": "img/ReflectionsII-Dark/arica.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Black Sun Fleet",
+	"id": "blacksunfleet",
+	"imageUrl": "img/ReflectionsII-Dark/blacksunfleet.gif",
+	"type": "Admiral's Order",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Captain Gilad Pellaeon",
+	"id": "captaingileadpellaeon",
+	"imageUrl": "img/ReflectionsII-Dark/captaingileadpellaeon.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Control & Set For Stun",
+	"id": "control&setforstun",
+	"imageUrl": "img/ReflectionsII-Dark/control&setforstun.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Dark Maneuvers & Tallon Roll",
+	"id": "darkmaneuvers&tallonroll",
+	"imageUrl": "img/ReflectionsII-Dark/darkmaneuvers&tallonroll.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Defensive Fire & Hutt Smooch",
+	"id": "defensivefire&huttsmooch",
+	"imageUrl": "img/ReflectionsII-Dark/defensivefire&huttsmooch.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Dr. Evazan & Ponda Baba",
+	"id": "drevazan&pondababa",
+	"imageUrl": "img/ReflectionsII-Dark/drevazan&pondababa.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Evader & Monnok",
+	"id": "evader&monnok",
+	"imageUrl": "img/ReflectionsII-Dark/evader&monnok.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Ghhhk & Those Rebels Won't Escape Us",
+	"id": "ghhhk&thoserebelswontescapeus",
+	"imageUrl": "img/ReflectionsII-Dark/ghhhk&thoserebelswontescapeus.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Grand Admiral Thrawn",
+	"id": "grandadmiralthrawn",
+	"imageUrl": "img/ReflectionsII-Dark/grandadmiralthrawn.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Guri",
+	"id": "guri",
+	"imageUrl": "img/ReflectionsII-Dark/guri.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Jabba's Prize/Jabba's Prize",
+	"id": "jabbasprizefrontjabbasprizeback_(ds)",
+	"imageUrl": "img/starwars/ReflectionsII-Dark/jabbasprizefront/jabbasprizeback.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Kir Kanos",
+	"id": "kirkanos",
+	"imageUrl": "img/ReflectionsII-Dark/kirkanos.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Ommni Box & It's Worse",
+	"id": "ommnibox&itsworse",
+	"imageUrl": "img/ReflectionsII-Dark/ommnibox&itsworse.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Prince Xizor",
+	"id": "princexizor",
+	"imageUrl": "img/ReflectionsII-Dark/princexizor.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Sense & Uncertain Is The Future",
+	"id": "sense&uncertainisthefuture",
+	"imageUrl": "img/ReflectionsII-Dark/sense&uncertainisthefuture.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Sniper & Dark Strike",
+	"id": "sniper&darkstrike",
+	"imageUrl": "img/ReflectionsII-Dark/sniper&darkstrike.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Snoova",
+	"id": "snoova",
+	"imageUrl": "img/ReflectionsII-Dark/snoova.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Stinger",
+	"id": "stinger",
+	"imageUrl": "img/ReflectionsII-Dark/stinger.gif",
+	"type": "Starship",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Sunsdown & Too Cold For Speeders",
+	"id": "sunsdown&toocoldforspeeders",
+	"imageUrl": "img/ReflectionsII-Dark/sunsdown&toocoldforspeeders.gif",
+	"type": "Effect",
+	"set": "Reflections II"
+	},
+	{
+	"name": "The Emperor",
+	"id": "theemperor",
+	"imageUrl": "img/ReflectionsII-Dark/theemperor.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "There Is No Try & Oppressive Enforcement",
+	"id": "thereisnotry&oppressiveenforcement",
+	"imageUrl": "img/ReflectionsII-Dark/thereisnotry&oppressiveenforcement.gif",
+	"type": "Effect",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Vigo",
+	"id": "vigo",
+	"imageUrl": "img/ReflectionsII-Dark/vigo.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Virago",
+	"id": "virago",
+	"imageUrl": "img/ReflectionsII-Dark/virago.gif",
+	"type": "Starship",
+	"set": "Reflections II"
+	}
+}

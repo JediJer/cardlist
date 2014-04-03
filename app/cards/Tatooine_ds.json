@@ -1,0 +1,345 @@
+﻿{
+	{
+	"name": "A Million Voices Crying Out",
+	"id": "amillionvoicescryingout",
+	"imageUrl": "img/Tatooine-Dark/amillionvoicescryingout.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Aurra Sing",
+	"id": "aurrasing",
+	"imageUrl": "img/Tatooine-Dark/aurrasing.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Aurra Sing (AI)",
+	"id": "aurrasingai",
+	"imageUrl": "img/Tatooine-Dark/aurrasingai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Ben Quadinaros' Podracer",
+	"id": "benquadinarospodracer",
+	"imageUrl": "img/Tatooine-Dark/benquadinarospodracer.gif",
+	"type": "Podracer",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Boonta Eve Podrace",
+	"id": "boontaevepodrace_(ds)",
+	"imageUrl": "img/Tatooine-Dark/boontaevepodrace.gif",
+	"type": "Epic Event",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Daroe",
+	"id": "daroe",
+	"imageUrl": "img/Tatooine-Dark/daroe.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Darth Maul",
+	"id": "darthmaul",
+	"imageUrl": "img/Tatooine-Dark/darthmaul.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Darth Maul (AI)",
+	"id": "darthmaulai",
+	"imageUrl": "img/Tatooine-Dark/darthmaulai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Dud Bolt's Podracer",
+	"id": "dudboltspodracer",
+	"imageUrl": "img/Tatooine-Dark/dudboltspodracer.gif",
+	"type": "Podracer",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Fanfare",
+	"id": "fanfare",
+	"imageUrl": "img/Tatooine-Dark/fanfare.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Gamall Wironicc",
+	"id": "gamallwironicc",
+	"imageUrl": "img/Tatooine-Dark/gamallwironicc.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Ghana Gleemort",
+	"id": "ghanagleemort",
+	"imageUrl": "img/Tatooine-Dark/ghanagleemort.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Gragra",
+	"id": "gragra",
+	"imageUrl": "img/Tatooine-Dark/gragra.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "His Name Is Anakin",
+	"id": "hisnameisanakin",
+	"imageUrl": "img/Tatooine-Dark/hisnameisanakin.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Hit Racer",
+	"id": "hitracer",
+	"imageUrl": "img/Tatooine-Dark/hitracer.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "I Will Find Them Quickly, Master",
+	"id": "iwillfindthemquicklymaster",
+	"imageUrl": "img/Tatooine-Dark/iwillfindthemquicklymaster.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "If The Trace Was Correct",
+	"id": "ifthetracewascorrect",
+	"imageUrl": "img/Tatooine-Dark/ifthetracewascorrect.gif",
+	"type": "Epic Event",
+	"set": "Tatooine"
+	},
+	{
+	"name": "I'm Sorry",
+	"id": "imsorry",
+	"imageUrl": "img/Tatooine-Dark/imsorry.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Join Me!",
+	"id": "joinme",
+	"imageUrl": "img/Tatooine-Dark/joinme.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Lathe",
+	"id": "lathe",
+	"imageUrl": "img/Tatooine-Dark/lathe.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Lightsaber Parry",
+	"id": "lightsaberparry",
+	"imageUrl": "img/Tatooine-Dark/lightsaberparry.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Maul's Electrobinoculars",
+	"id": "maulselectrobinoculars",
+	"imageUrl": "img/Tatooine-Dark/maulselectrobinoculars.gif",
+	"type": "Device",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Maul's Lightsaber",
+	"id": "maulslightsaber",
+	"imageUrl": "img/Tatooine-Dark/maulslightsaber.gif",
+	"type": "Weapon",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Ni Chuba Na??",
+	"id": "nichubana",
+	"imageUrl": "img/Tatooine-Dark/nichubana.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Pit Crews",
+	"id": "pitcrews",
+	"imageUrl": "img/Tatooine-Dark/pitcrews.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Pit Droid",
+	"id": "pitdroid",
+	"imageUrl": "img/Tatooine-Dark/pitdroid.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Podracer Collision",
+	"id": "podracercollision",
+	"imageUrl": "img/Tatooine-Dark/podracercollision.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Quietly Observing",
+	"id": "quietlyobserving",
+	"imageUrl": "img/Tatooine-Dark/quietlyobserving.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Rachalt Hyst",
+	"id": "rachalthyst",
+	"imageUrl": "img/Tatooine-Dark/rachalthyst.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Sebulba",
+	"id": "sebulba",
+	"imageUrl": "img/Tatooine-Dark/sebulba.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Sebulba (AI)",
+	"id": "sebulbaai",
+	"imageUrl": "img/Tatooine-Dark/sebulbaai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Sebulba's Podracer",
+	"id": "sebulbaspodracer",
+	"imageUrl": "img/Tatooine-Dark/sebulbaspodracer.gif",
+	"type": "Podracer",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Sith Fury",
+	"id": "sithfury",
+	"imageUrl": "img/Tatooine-Dark/sithfury.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Sith Probe Droid",
+	"id": "sithprobedroid",
+	"imageUrl": "img/Tatooine-Dark/sithprobedroid.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Start Your Engines!",
+	"id": "startyourengines",
+	"imageUrl": "img/Tatooine-Dark/startyourengines.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Desert Landing Site",
+	"id": "tatooinedesertlandingsite",
+	"imageUrl": "img/Tatooine-Dark/tatooinedesertlandingsite.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Mos Espa",
+	"id": "tatooinemosespa_(ds)",
+	"imageUrl": "img/Tatooine-Dark/tatooinemosespa.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Tatooine: Podrace Arena",
+	"id": "tatooinepodracearena_(ds)",
+	"imageUrl": "img/Tatooine-Dark/tatooinepodracearena.gif",
+	"type": "Location",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Teemto Pagalies' Podracer",
+	"id": "teemtopagaliespodracer",
+	"imageUrl": "img/Tatooine-Dark/teemtopagaliespodracer.gif",
+	"type": "Podracer",
+	"set": "Tatooine"
+	},
+	{
+	"name": "There Is No Conflict",
+	"id": "thereisnoconflict",
+	"imageUrl": "img/Tatooine-Dark/thereisnoconflict.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Vader's Anger",
+	"id": "vadersanger",
+	"imageUrl": "img/Tatooine-Dark/vadersanger.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Watto",
+	"id": "watto",
+	"imageUrl": "img/Tatooine-Dark/watto.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Watto (AI)",
+	"id": "wattoai",
+	"imageUrl": "img/Tatooine-Dark/wattoai.gif",
+	"type": "Character",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Watto's Box",
+	"id": "wattosbox",
+	"imageUrl": "img/Tatooine-Dark/wattosbox.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "Watto's Chance Cube",
+	"id": "wattoschancecube",
+	"imageUrl": "img/Tatooine-Dark/wattoschancecube.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "We Shall Double Our Efforts!",
+	"id": "weshalldoubleourefforts",
+	"imageUrl": "img/Tatooine-Dark/weshalldoubleourefforts.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "You May Start Your Landing",
+	"id": "youmaystartyourlanding",
+	"imageUrl": "img/Tatooine-Dark/youmaystartyourlanding.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	},
+	{
+	"name": "You Swindled Me!",
+	"id": "youswindledme",
+	"imageUrl": "img/Tatooine-Dark/youswindledme.gif",
+	"type": "Interrupt",
+	"set": "Tatooine"
+	},
+	{
+	"name": "You Want This, Don't You?",
+	"id": "youwantthisdontyou",
+	"imageUrl": "img/Tatooine-Dark/youwantthisdontyou.gif",
+	"type": "Effect",
+	"set": "Tatooine"
+	}
+}

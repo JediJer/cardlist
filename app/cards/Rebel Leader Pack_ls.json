@@ -1,0 +1,16 @@
+﻿{
+	{
+	"name": "Gold Leader In Gold 1",
+	"id": "goldleaderingold1",
+	"imageUrl": "img/RebelLeader-Light/goldleaderingold1.gif",
+	"type": "Starship",
+	"set": "Rebel Leader Pack"
+	},
+	{
+	"name": "Red Leader In Red 1",
+	"id": "redleaderinred1",
+	"imageUrl": "img/RebelLeader-Light/redleaderinred1.gif",
+	"type": "Starship",
+	"set": "Rebel Leader Pack"
+	}
+}

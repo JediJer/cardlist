@@ -1,0 +1,247 @@
+﻿{
+	{
+	"name": "A Sith's Plans",
+	"id": "asithsplans",
+	"imageUrl": "img/Virtual5-Dark/asithsplans.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "An Enemy Of The Republic",
+	"id": "anenemyoftherepublic",
+	"imageUrl": "img/Virtual5-Dark/anenemyoftherepublic.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "At Last We Are Getting Results (V)",
+	"id": "atlastwearegettingresults-v",
+	"imageUrl": "img/Virtual5-Dark/atlastwearegettingresults.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Aurra Sing (V)",
+	"id": "aurrasing-v",
+	"imageUrl": "img/Virtual5-Dark/aurrasing.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Aurra Sing (V) (AI)",
+	"id": "aurrasingai-v",
+	"imageUrl": "img/Virtual5-Dark/aurrasingai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Chokk (V)",
+	"id": "chokk-v",
+	"imageUrl": "img/Virtual5-Dark/chokk.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Coruscant Guard (V)",
+	"id": "coruscantguard-v",
+	"imageUrl": "img/Virtual5-Dark/coruscantguard.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Coruscant: Chancellor's Office",
+	"id": "coruscantchancellorsoffice",
+	"imageUrl": "img/Virtual5-Dark/coruscantchancellorsoffice.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Dark Jedi Lightsaber (V)",
+	"id": "darkjedilightsaber-v",
+	"imageUrl": "img/Virtual5-Dark/darkjedilightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Daultay Dofine (V)",
+	"id": "daultaydofine-v",
+	"imageUrl": "img/Virtual5-Dark/daultaydofine.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Elite Squadron Stormtrooper (V)",
+	"id": "elitesquadronstormtrooper-v",
+	"imageUrl": "img/Virtual5-Dark/elitesquadronstormtrooper.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Establish Control (V)",
+	"id": "establishcontrol-v",
+	"imageUrl": "img/Virtual5-Dark/establishcontrol.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Expand The Empire (V)",
+	"id": "expandtheempire-v",
+	"imageUrl": "img/Virtual5-Dark/expandtheempire.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Force Push (V)",
+	"id": "forcepush-v",
+	"imageUrl": "img/Virtual5-Dark/forcepush.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Jango Fett",
+	"id": "jangofett",
+	"imageUrl": "img/Virtual5-Dark/jangofett.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Keder The Black (V)",
+	"id": "kedertheblack-v",
+	"imageUrl": "img/Virtual5-Dark/kedertheblack.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Lord Sidious",
+	"id": "lordsidious",
+	"imageUrl": "img/Virtual5-Dark/lordsidious.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Mandalorian Armor (V)",
+	"id": "mandalorianarmor-v",
+	"imageUrl": "img/Virtual5-Dark/mandalorianarmor.gif",
+	"type": "Device",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Maul's Sith Speeder",
+	"id": "maulssithspeeder",
+	"imageUrl": "img/Virtual5-Dark/maulssithspeeder.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Nothing Can Get Through Our Shield (V)",
+	"id": "nothingcangetthroughourshield-v",
+	"imageUrl": "img/Virtual5-Dark/nothingcangetthroughourshield.gif",
+	"type": "Admiral's Order",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Nute Gunray's Bounty",
+	"id": "nutegunraysbounty",
+	"imageUrl": "img/Virtual5-Dark/nutegunraysbounty.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Order 66",
+	"id": "order66",
+	"imageUrl": "img/Virtual5-Dark/order66.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Sebulba (V)",
+	"id": "sebulba-v",
+	"imageUrl": "img/Virtual5-Dark/sebulba.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Sebulba (V) (AI)",
+	"id": "sebulbaai-v",
+	"imageUrl": "img/Virtual5-Dark/sebulbaai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Sith Fury (V)",
+	"id": "sithfury-v",
+	"imageUrl": "img/Virtual5-Dark/sithfury.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Sith Probe Droid (V)",
+	"id": "sithprobedroid-v",
+	"imageUrl": "img/Virtual5-Dark/sithprobedroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Strategic Reserves (V)",
+	"id": "strategicreserves-v",
+	"imageUrl": "img/Virtual5-Dark/strategicreserves.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Trade Federation Tactics (V)",
+	"id": "tradefederationtactics-v",
+	"imageUrl": "img/Virtual5-Dark/tradefederationtactics.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Trained In The Jedi Arts",
+	"id": "trainedinthejediarts",
+	"imageUrl": "img/Virtual5-Dark/trainedinthejediarts.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Vader's Anger (V)",
+	"id": "vadersanger-v",
+	"imageUrl": "img/Virtual5-Dark/vadersanger.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Watto (V)",
+	"id": "watto-v",
+	"imageUrl": "img/Virtual5-Dark/watto.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Watto (V) (AI)",
+	"id": "wattoai-v",
+	"imageUrl": "img/Virtual5-Dark/wattoai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Where Are Those Droidekas?! (V)",
+	"id": "wherearethosedroidekas-v",
+	"imageUrl": "img/Virtual5-Dark/wherearethosedroidekas.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Wipe Them Out, All Of Them (V)",
+	"id": "wipethemoutallofthem-v",
+	"imageUrl": "img/Virtual5-Dark/wipethemoutallofthem.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "With Thunderous Applause",
+	"id": "withthunderousapplause",
+	"imageUrl": "img/Virtual5-Dark/withthunderousapplause.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	}
+}

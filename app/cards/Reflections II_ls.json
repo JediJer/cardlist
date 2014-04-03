@@ -1,0 +1,191 @@
+﻿{
+	{
+	"name": "Alter & Friendly Fire",
+	"id": "alter&friendlyfire",
+	"imageUrl": "img/ReflectionsII-Light/alter&friendlyfire.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Artoo & Threepio",
+	"id": "artoo&threepio",
+	"imageUrl": "img/ReflectionsII-Light/artoo&threepio.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Chewbacca, Protector",
+	"id": "chewbaccaprotector",
+	"imageUrl": "img/ReflectionsII-Light/chewbaccaprotector.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Control & Tunnel Vision",
+	"id": "control&tunnelvision",
+	"imageUrl": "img/ReflectionsII-Light/control&tunnelvision.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Corran Horn",
+	"id": "corranhorn",
+	"imageUrl": "img/ReflectionsII-Light/corranhorn.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Dash Rendar",
+	"id": "dashrendar",
+	"imageUrl": "img/ReflectionsII-Light/dashrendar.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Do, Or Do Not & Wise Advice",
+	"id": "doordonot&wiseadvice",
+	"imageUrl": "img/ReflectionsII-Light/doordonot&wiseadvice.gif",
+	"type": "Effect",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Houjix & Out Of Nowhere",
+	"id": "houjix&outofnowhere",
+	"imageUrl": "img/ReflectionsII-Light/houjix&outofnowhere.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "LE-BO2D9 (Leebo)",
+	"id": "lebo2d9leebo",
+	"imageUrl": "img/ReflectionsII-Light/lebo2d9leebo.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Luke Skywalker, Rebel Scout",
+	"id": "lukeskywalkerrebelscout",
+	"imageUrl": "img/ReflectionsII-Light/lukeskywalkerrebelscout.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Mercenary Armor",
+	"id": "mercenaryarmor",
+	"imageUrl": "img/ReflectionsII-Light/mercenaryarmor.gif",
+	"type": "Device",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Mirax Terrik",
+	"id": "miraxterrik",
+	"imageUrl": "img/ReflectionsII-Light/miraxterrik.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Nar Shaddaa Wind Chimes & Out Of Somewhere",
+	"id": "narshaddaawindchimes&outofsomewhere",
+	"imageUrl": "img/ReflectionsII-Light/narshaddaawindchimes&outofsomewhere.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "No Questions Asked",
+	"id": "noquestionsasked",
+	"imageUrl": "img/ReflectionsII-Light/noquestionsasked.gif",
+	"type": "Admiral's Order",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Obi-Wan's Journal",
+	"id": "obiwansjournal",
+	"imageUrl": "img/ReflectionsII-Light/obiwansjournal.gif",
+	"type": "Device",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Out Of Commission & Transmission Terminated",
+	"id": "outofcommission&transmissionterminated",
+	"imageUrl": "img/ReflectionsII-Light/outofcommission&transmissionterminated.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Outrider",
+	"id": "outrider",
+	"imageUrl": "img/ReflectionsII-Light/outrider.gif",
+	"type": "Starship",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Owen Lars & Beru Lars",
+	"id": "owenlars&berulars",
+	"imageUrl": "img/ReflectionsII-Light/owenlars&berulars.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Path Of Least Resistance & Revealed",
+	"id": "pathofleastresistance&revealed",
+	"imageUrl": "img/ReflectionsII-Light/pathofleastresistance&revealed.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Pulsar Skate",
+	"id": "pulsarskate",
+	"imageUrl": "img/ReflectionsII-Light/pulsarskate.gif",
+	"type": "Starship",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Sense & Recoil In Fear",
+	"id": "sense&recoilinfear",
+	"imageUrl": "img/ReflectionsII-Light/sense&recoilinfear.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Shocking Information & Grimtaash",
+	"id": "shockinginformation&grimtaash",
+	"imageUrl": "img/ReflectionsII-Light/shockinginformation&grimtaash.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Sorry About The Mess & Blaster Proficiency",
+	"id": "sorryaboutthemess&blasterproficiency",
+	"imageUrl": "img/ReflectionsII-Light/sorryaboutthemess&blasterproficiency.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Talon Karrde",
+	"id": "talonkarrde",
+	"imageUrl": "img/ReflectionsII-Light/talonkarrde.gif",
+	"type": "Character",
+	"set": "Reflections II"
+	},
+	{
+	"name": "The Bith Shuffle & Desperate Reach",
+	"id": "thebithshuffle&desperatereach",
+	"imageUrl": "img/ReflectionsII-Light/thebithshuffle&desperatereach.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Watch Your Step / This Place Can Be A Little Rough",
+	"id": "watchyourstep",
+	"imageUrl": "img/starwars/ReflectionsII-Light/watchyourstep/thisplacecanbealittlerough.gif",
+	"type": "Objective",
+	"set": "Reflections II"
+	},
+	{
+	"name": "Yoda Stew & You Do Have Your Moments",
+	"id": "yodastew&youdohaveyourmoments",
+	"imageUrl": "img/ReflectionsII-Light/yodastew&youdohaveyourmoments.gif",
+	"type": "Interrupt",
+	"set": "Reflections II"
+	}
+}

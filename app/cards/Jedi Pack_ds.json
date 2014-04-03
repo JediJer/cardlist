@@ -1,0 +1,44 @@
+﻿{
+	{
+	"name": "Dark Forces",
+	"id": "darkforces",
+	"imageUrl": "img/JediPack-Dark/darkforces.gif",
+	"type": "Effect",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Eriadu",
+	"id": "eriadu",
+	"imageUrl": "img/JediPack-Dark/eriadu.gif",
+	"type": "Location",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Gravity Shadow",
+	"id": "gravityshadow",
+	"imageUrl": "img/JediPack-Dark/gravityshadow.gif",
+	"type": "Interrupt",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Hyperoute Navigation Chart",
+	"id": "hyperoutenavigationchart",
+	"imageUrl": "img/JediPack-Dark/hyperoutenavigationchart.gif",
+	"type": "Game Aid",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Motti",
+	"id": "motti",
+	"imageUrl": "img/JediPack-Dark/motti.gif",
+	"type": "Character",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Tarkin",
+	"id": "tarkin",
+	"imageUrl": "img/JediPack-Dark/tarkin.gif",
+	"type": "Character",
+	"set": "Jedi Pack"
+	}
+}

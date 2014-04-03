@@ -1,0 +1,569 @@
+﻿{
+	{
+	"name": "Advosze",
+	"id": "advosze",
+	"imageUrl": "img/ANewHope-Dark/advosze.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Astromech Shortage",
+	"id": "astromechshortage",
+	"imageUrl": "img/ANewHope-Dark/astromechshortage.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Besieged",
+	"id": "besieged",
+	"imageUrl": "img/ANewHope-Dark/besieged.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Bespin Motors Void Spider THX 1138",
+	"id": "bespinmotorsvoidspiderthx1138",
+	"imageUrl": "img/ANewHope-Dark/bespinmotorsvoidspiderthx1138.gif",
+	"type": "Vehicle",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Black 4",
+	"id": "black4",
+	"imageUrl": "img/ANewHope-Dark/black4.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Captain Khurgee",
+	"id": "captainkhurgee",
+	"imageUrl": "img/ANewHope-Dark/captainkhurgee.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Come With Me",
+	"id": "comewithme",
+	"imageUrl": "img/ANewHope-Dark/comewithme.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Commence Primary Ignition",
+	"id": "commenceprimaryignition",
+	"imageUrl": "img/ANewHope-Dark/commenceprimaryignition.gif",
+	"type": "Epic Event",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Conquest",
+	"id": "conquest",
+	"imageUrl": "img/ANewHope-Dark/conquest.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Dannik Jerriko",
+	"id": "dannikjerriko",
+	"imageUrl": "img/ANewHope-Dark/dannikjerriko.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Danz Borin",
+	"id": "danzborin",
+	"imageUrl": "img/ANewHope-Dark/danzborin.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Dark Waters",
+	"id": "darkwaters",
+	"imageUrl": "img/ANewHope-Dark/darkwaters.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Death Star",
+	"id": "deathstar_(ds)",
+	"imageUrl": "img/ANewHope-Dark/deathstar.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Death Star Gunner",
+	"id": "deathstargunner",
+	"imageUrl": "img/ANewHope-Dark/deathstargunner.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Death Star Tractor Beam",
+	"id": "deathstartractorbeam",
+	"imageUrl": "img/ANewHope-Dark/deathstartractorbeam.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Death Star: Conference Room",
+	"id": "deathstarconferenceroom",
+	"imageUrl": "img/ANewHope-Dark/deathstarconferenceroom.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Defel",
+	"id": "defel",
+	"imageUrl": "img/ANewHope-Dark/defel.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Dianoga",
+	"id": "dianoga",
+	"imageUrl": "img/ANewHope-Dark/dianoga.gif",
+	"type": "Creature",
+	"set": "A New Hope"
+	},
+	{
+	"name": "DS-61-4",
+	"id": "ds614",
+	"imageUrl": "img/ANewHope-Dark/ds614.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Enhanced TIE Laser Cannon",
+	"id": "enhancedtielasercannon",
+	"imageUrl": "img/ANewHope-Dark/enhancedtielasercannon.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Evader",
+	"id": "evader",
+	"imageUrl": "img/ANewHope-Dark/evader.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Ghhhk",
+	"id": "ghhhk",
+	"imageUrl": "img/ANewHope-Dark/ghhhk.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Greedo",
+	"id": "greedo",
+	"imageUrl": "img/ANewHope-Dark/greedo.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Hem Dazon",
+	"id": "hemdazon",
+	"imageUrl": "img/ANewHope-Dark/hemdazon.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Hyperwave Scan",
+	"id": "hyperwavescan",
+	"imageUrl": "img/ANewHope-Dark/hyperwavescan.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Hypo",
+	"id": "hypo",
+	"imageUrl": "img/ANewHope-Dark/hypo.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "I'm On The Leader",
+	"id": "imontheleader",
+	"imageUrl": "img/ANewHope-Dark/imontheleader.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Imperial Commander",
+	"id": "imperialcommander",
+	"imageUrl": "img/ANewHope-Dark/imperialcommander.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Imperial Holotable",
+	"id": "imperialholotable",
+	"imageUrl": "img/ANewHope-Dark/imperialholotable.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Imperial Justice",
+	"id": "imperialjustice",
+	"imageUrl": "img/ANewHope-Dark/imperialjustice.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Imperial Squad Leader",
+	"id": "imperialsquadleader",
+	"imageUrl": "img/ANewHope-Dark/imperialsquadleader.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Informant",
+	"id": "informant",
+	"imageUrl": "img/ANewHope-Dark/informant.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "IT-O (Eyetee-Oh)",
+	"id": "ito",
+	"imageUrl": "img/ANewHope-Dark/ito.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Jawa Blaster",
+	"id": "jawablaster",
+	"imageUrl": "img/ANewHope-Dark/jawablaster.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Kashyyyk",
+	"id": "kashyyyk_(ds)",
+	"imageUrl": "img/ANewHope-Dark/kashyyyk.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Kiffex",
+	"id": "kiffex_(ds)",
+	"imageUrl": "img/ANewHope-Dark/kiffex.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Krayt Dragon Bones",
+	"id": "kraytdragonbones",
+	"imageUrl": "img/ANewHope-Dark/kraytdragonbones.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Laser Gate",
+	"id": "lasergate",
+	"imageUrl": "img/ANewHope-Dark/lasergate.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Leia Seeker",
+	"id": "leiaseeker",
+	"imageUrl": "img/ANewHope-Dark/leiaseeker.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Lirin Car'n",
+	"id": "lirincarn",
+	"imageUrl": "img/ANewHope-Dark/lirincarn.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Lt. Pol Treidum",
+	"id": "ltpoltreidum",
+	"imageUrl": "img/ANewHope-Dark/ltpoltreidum.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Lt. Shann Childsen",
+	"id": "ltshannchildsen",
+	"imageUrl": "img/ANewHope-Dark/ltshannchildsen.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Magnetic Suction Tube",
+	"id": "magneticsuctiontube_(ds)",
+	"imageUrl": "img/ANewHope-Dark/magneticsuctiontube.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Maneuver Check",
+	"id": "maneuvercheck",
+	"imageUrl": "img/ANewHope-Dark/maneuvercheck.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Mobquet A-1 Deluxe Floater",
+	"id": "mobqueta1deluxefloater",
+	"imageUrl": "img/ANewHope-Dark/mobqueta1deluxefloater.gif",
+	"type": "Vehicle",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Monnok",
+	"id": "monnok",
+	"imageUrl": "img/ANewHope-Dark/monnok.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Mosep",
+	"id": "mosep",
+	"imageUrl": "img/ANewHope-Dark/mosep.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Ng'ok",
+	"id": "ngok",
+	"imageUrl": "img/ANewHope-Dark/ngok.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Officer Evax",
+	"id": "officerevax",
+	"imageUrl": "img/ANewHope-Dark/officerevax.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Oo-ta Goo-ta, Solo?",
+	"id": "ootagootasolo",
+	"imageUrl": "img/ANewHope-Dark/ootagootasolo.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Program Trap",
+	"id": "programtrap",
+	"imageUrl": "img/ANewHope-Dark/programtrap.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "R2-Q2 (Artoo-Kyootoo)",
+	"id": "r2q2",
+	"imageUrl": "img/ANewHope-Dark/r2q2.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "R3-T6 (Arthree-Teesix)",
+	"id": "r3t6",
+	"imageUrl": "img/ANewHope-Dark/r3t6.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "R5-A2 (Arfive-Aytoo)",
+	"id": "r5a2",
+	"imageUrl": "img/ANewHope-Dark/r5a2.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Ralltiir",
+	"id": "ralltiir_(ds)",
+	"imageUrl": "img/ANewHope-Dark/ralltiir.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Reegesk",
+	"id": "reegesk",
+	"imageUrl": "img/ANewHope-Dark/reegesk.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Reserve Pilot",
+	"id": "reservepilot",
+	"imageUrl": "img/ANewHope-Dark/reservepilot.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Retract The Bridge",
+	"id": "retractthebridge",
+	"imageUrl": "img/ANewHope-Dark/retractthebridge.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Rodian",
+	"id": "rodian",
+	"imageUrl": "img/ANewHope-Dark/rodian.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Sandcrawler: Droid Junkheap",
+	"id": "sandcrawlerdroidjunkheap",
+	"imageUrl": "img/ANewHope-Dark/sandcrawlerdroidjunkheap.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Sniper",
+	"id": "sniper",
+	"imageUrl": "img/ANewHope-Dark/sniper.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Spice Mines Of Kessel",
+	"id": "spiceminesofkessel",
+	"imageUrl": "img/ANewHope-Dark/spiceminesofkessel.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Stunning Leader",
+	"id": "stunningleader",
+	"imageUrl": "img/ANewHope-Dark/stunningleader.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Superlaser",
+	"id": "superlaser",
+	"imageUrl": "img/ANewHope-Dark/superlaser.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Swilla Corey",
+	"id": "swillacorey",
+	"imageUrl": "img/ANewHope-Dark/swillacorey.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tatooine: Bluffs",
+	"id": "tatooinebluffs",
+	"imageUrl": "img/ANewHope-Dark/tatooinebluffs.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tech Mo'r",
+	"id": "techmor",
+	"imageUrl": "img/ANewHope-Dark/techmor.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tentacle",
+	"id": "tentacle",
+	"imageUrl": "img/ANewHope-Dark/tentacle.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "There'll Be Hell To Pay",
+	"id": "therellbehelltopay",
+	"imageUrl": "img/ANewHope-Dark/therellbehelltopay.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "This Is Some Rescue!",
+	"id": "thisissomerescue",
+	"imageUrl": "img/ANewHope-Dark/thisissomerescue.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "TIE Assault Squadron",
+	"id": "tieassaultsquadron",
+	"imageUrl": "img/ANewHope-Dark/tieassaultsquadron.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "TIE Vanguard",
+	"id": "tievanguard",
+	"imageUrl": "img/ANewHope-Dark/tievanguard.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tractor Beam",
+	"id": "tractorbeam",
+	"imageUrl": "img/ANewHope-Dark/tractorbeam.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Trooper Davin Felth",
+	"id": "trooperdavinfelth",
+	"imageUrl": "img/ANewHope-Dark/trooperdavinfelth.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "U-3PO (Yoo-Threepio)",
+	"id": "u3po",
+	"imageUrl": "img/ANewHope-Dark/u3po.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Undercover",
+	"id": "undercover_(ds)",
+	"imageUrl": "img/ANewHope-Dark/undercover.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "URoRRuR'R'R",
+	"id": "urorrurrr",
+	"imageUrl": "img/ANewHope-Dark/urorrurrr.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "URoRRuR'R'R's Hunting Rifle",
+	"id": "urorrurrrshuntingrifle",
+	"imageUrl": "img/ANewHope-Dark/urorrurrrshuntingrifle.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Victory-Class Star Destroyer",
+	"id": "victoryclassstardestroyer",
+	"imageUrl": "img/ANewHope-Dark/victoryclassstardestroyer.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "We Have A Prisoner",
+	"id": "wehaveaprisoner",
+	"imageUrl": "img/ANewHope-Dark/wehaveaprisoner.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "WED15-l7 'Septoid' Droid",
+	"id": "wed15l7septoiddroid",
+	"imageUrl": "img/ANewHope-Dark/wed15l7septoiddroid.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	}
+}

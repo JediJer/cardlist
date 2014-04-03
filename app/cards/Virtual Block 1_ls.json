@@ -1,0 +1,625 @@
+﻿{
+	{
+	"name": "A Tremor In The Force (V)",
+	"id": "atremorintheforce-v",
+	"imageUrl": "img/Virtual1-Light/atremorintheforce.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Advance Preparation (V)",
+	"id": "advancepreparation-v",
+	"imageUrl": "img/Virtual1-Light/advancepreparation.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Alderaan (Blown Away)",
+	"id": "alderaanblownaway",
+	"imageUrl": "img/Virtual1-Light/alderaanblownaway.gif",
+	"type": "Location",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Antilles Maneuver (V)",
+	"id": "antillesmaneuver-v",
+	"imageUrl": "img/Virtual1-Light/antillesmaneuver.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Artoo (V)",
+	"id": "artoo-v",
+	"imageUrl": "img/Virtual1-Light/artoo.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Balanced Attack (V)",
+	"id": "balancedattack-v",
+	"imageUrl": "img/Virtual1-Light/balancedattack.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Beru Lars (V)",
+	"id": "berulars-v",
+	"imageUrl": "img/Virtual1-Light/berulars.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Beru Stew (V)",
+	"id": "berustew-v",
+	"imageUrl": "img/Virtual1-Light/berustew.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Biggs Darklighter (V)",
+	"id": "biggsdarklighter-v",
+	"imageUrl": "img/Virtual1-Light/biggsdarklighter.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "BoShek (V)",
+	"id": "boshek-v",
+	"imageUrl": "img/Virtual1-Light/boshek.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Brainiac (V)",
+	"id": "brainiac-v",
+	"imageUrl": "img/Virtual1-Light/brainiac.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Bron Burs (V)",
+	"id": "bronburs-v",
+	"imageUrl": "img/Virtual1-Light/bronburs.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "C-3PO (See-Threepio) (V)",
+	"id": "c3po-v",
+	"imageUrl": "img/Virtual1-Light/c3po.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Cantina Brawl (V)",
+	"id": "cantinabrawl-v",
+	"imageUrl": "img/Virtual1-Light/cantinabrawl.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Cell 2187 (V)",
+	"id": "cell2187-v",
+	"imageUrl": "img/Virtual1-Light/cell2187.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Chewbacca (V)",
+	"id": "chewbacca-v",
+	"imageUrl": "img/Virtual1-Light/chewbacca.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Chewie, Enraged (V)",
+	"id": "chewieenraged-v",
+	"imageUrl": "img/Virtual1-Light/chewieenraged.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Colonel Feyn Gospic (V)",
+	"id": "colonelfeyngospic-v",
+	"imageUrl": "img/Virtual1-Light/colonelfeyngospic.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Commander Evram Lajaie (V)",
+	"id": "commanderevramlajaie-v",
+	"imageUrl": "img/Virtual1-Light/commanderevramlajaie.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Commander Vanden Willard (V)",
+	"id": "commandervandenwillard-v",
+	"imageUrl": "img/Virtual1-Light/commandervandenwillard.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Crash Site Memorial (V)",
+	"id": "crashsitememorial-v",
+	"imageUrl": "img/Virtual1-Light/crashsitememorial.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Darklighter Spin (V)",
+	"id": "darklighterspin-v",
+	"imageUrl": "img/Virtual1-Light/darklighterspin.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Debnoli (V)",
+	"id": "debnoli-v",
+	"imageUrl": "img/Virtual1-Light/debnoli.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Demotion (V)",
+	"id": "demotion-v",
+	"imageUrl": "img/Virtual1-Light/demotion.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Don't Tread On Me (V)",
+	"id": "donttreadonme-v",
+	"imageUrl": "img/Virtual1-Light/donttreadonme.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Escape Pod (V)",
+	"id": "escapepod-v",
+	"imageUrl": "img/Virtual1-Light/escapepod.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Faithful Service (V)",
+	"id": "faithfulservice-v",
+	"imageUrl": "img/Virtual1-Light/faithfulservice.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "For Luck (V)",
+	"id": "forluck-v",
+	"imageUrl": "img/Virtual1-Light/forluck.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Fusion Generator Supply Tanks (V)",
+	"id": "fusiongeneratorsupplytanks_(ls)-v",
+	"imageUrl": "img/Virtual1-Light/fusiongeneratorsupplytanks.gif",
+	"type": "Device",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "General Dodonna (V)",
+	"id": "generaldodonna-v",
+	"imageUrl": "img/Virtual1-Light/generaldodonna.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Gold 1 (V)",
+	"id": "gold1-v",
+	"imageUrl": "img/Virtual1-Light/gold1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Gold Leader In Gold 1 (V)",
+	"id": "goldleaderingold1-v",
+	"imageUrl": "img/Virtual1-Light/goldleaderingold1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Grappling Hook (V)",
+	"id": "grapplinghook-v",
+	"imageUrl": "img/Virtual1-Light/grapplinghook.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Han Solo (V)",
+	"id": "hansolo-v",
+	"imageUrl": "img/Virtual1-Light/hansolo.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Han's Back (V)",
+	"id": "hansback-v",
+	"imageUrl": "img/Virtual1-Light/hansback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Han's Dice (V)",
+	"id": "hansdice-v",
+	"imageUrl": "img/Virtual1-Light/hansdice.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Han's Heavy Blaster Pistol (V)",
+	"id": "hansheavyblasterpistol-v",
+	"imageUrl": "img/Virtual1-Light/hansheavyblasterpistol.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Harvest (V)",
+	"id": "harvest-v",
+	"imageUrl": "img/Virtual1-Light/harvest.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Hidden Fortress",
+	"id": "hiddenfortress",
+	"imageUrl": "img/Virtual1-Light/hiddenfortress.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "I Can't Believe He's Gone (V)",
+	"id": "icantbelievehesgone-v",
+	"imageUrl": "img/Virtual1-Light/icantbelievehesgone.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "IL-19",
+	"id": "il19",
+	"imageUrl": "img/Virtual1-Light/il19.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Into The Garbage Chute, Flyboy (V)",
+	"id": "intothegarbagechuteflyboy-v",
+	"imageUrl": "img/Virtual1-Light/intothegarbagechuteflyboy.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Jawa Siesta (V)",
+	"id": "jawasiesta-v",
+	"imageUrl": "img/Virtual1-Light/jawasiesta.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Jek Porkins (V)",
+	"id": "jekporkins-v",
+	"imageUrl": "img/Virtual1-Light/jekporkins.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "K'lor'slug (V)",
+	"id": "klorslug-v",
+	"imageUrl": "img/Virtual1-Light/klorslug.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Lars' Hydroponics Station",
+	"id": "larshydroponicsstation",
+	"imageUrl": "img/Virtual1-Light/larshydroponicsstation.gif",
+	"type": "Device",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Lars' Vaporator",
+	"id": "larsvaporator",
+	"imageUrl": "img/Virtual1-Light/larsvaporator.gif",
+	"type": "Device",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Learn About The Force, Luke",
+	"id": "learnabouttheforceluke",
+	"imageUrl": "img/Virtual1-Light/learnabouttheforceluke.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Leia (V)",
+	"id": "leia-v",
+	"imageUrl": "img/Virtual1-Light/leia.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Leia's Back (V)",
+	"id": "leiasback-v",
+	"imageUrl": "img/Virtual1-Light/leiasback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Leia's Sporting Blaster (V)",
+	"id": "leiassportingblaster-v",
+	"imageUrl": "img/Virtual1-Light/leiassportingblaster.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Logistical Delay (V)",
+	"id": "logisticaldelay-v",
+	"imageUrl": "img/Virtual1-Light/logisticaldelay.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Luke (V)",
+	"id": "luke-v",
+	"imageUrl": "img/Virtual1-Light/luke.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Luke Skywalker (V)",
+	"id": "lukeskywalker-v",
+	"imageUrl": "img/Virtual1-Light/lukeskywalker.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Luke's Back (V)",
+	"id": "lukesback-v",
+	"imageUrl": "img/Virtual1-Light/lukesback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Luke's Hunting Rifle (V)",
+	"id": "lukeshuntingrifle-v",
+	"imageUrl": "img/Virtual1-Light/lukeshuntingrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Melas (V)",
+	"id": "melas-v",
+	"imageUrl": "img/Virtual1-Light/melas.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Millennium Falcon (V)",
+	"id": "millenniumfalcon-v",
+	"imageUrl": "img/Virtual1-Light/millenniumfalcon.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Nightfall (V)",
+	"id": "nightfall-v",
+	"imageUrl": "img/Virtual1-Light/nightfall.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Obi-Wan Kenobi (V)",
+	"id": "obiwankenobi-v",
+	"imageUrl": "img/Virtual1-Light/obiwankenobi.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Obi-Wan's Cape (V)",
+	"id": "obiwanscape-v",
+	"imageUrl": "img/Virtual1-Light/obiwanscape.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Our Most Desperate Hour (V)",
+	"id": "ourmostdesperatehour-v",
+	"imageUrl": "img/Virtual1-Light/ourmostdesperatehour.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Owen Lars (V)",
+	"id": "owenlars-v",
+	"imageUrl": "img/Virtual1-Light/owenlars.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Panic (V)",
+	"id": "panic-v",
+	"imageUrl": "img/Virtual1-Light/panic.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Plastoid Armor (V)",
+	"id": "plastoidarmor-v",
+	"imageUrl": "img/Virtual1-Light/plastoidarmor.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Precise Hit (V)",
+	"id": "precisehit-v",
+	"imageUrl": "img/Virtual1-Light/precisehit.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "R2-D2 (Artoo-Detoo) (V)",
+	"id": "r2d2-v",
+	"imageUrl": "img/Virtual1-Light/r2d2.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Rebel Reinforcements (V)",
+	"id": "rebelreinforcements-v",
+	"imageUrl": "img/Virtual1-Light/rebelreinforcements.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Rebel Tech (V)",
+	"id": "rebeltech-v",
+	"imageUrl": "img/Virtual1-Light/rebeltech.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Rebel Trooper (V)",
+	"id": "rebeltrooper-v",
+	"imageUrl": "img/Virtual1-Light/rebeltrooper.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Red 5 (V)",
+	"id": "red5-v",
+	"imageUrl": "img/Virtual1-Light/red5.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Red Leader (V)",
+	"id": "redleader-v",
+	"imageUrl": "img/Virtual1-Light/redleader.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Return Of A Jedi (V)",
+	"id": "returnofajedi-v",
+	"imageUrl": "img/Virtual1-Light/returnofajedi.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Rycar Ryjerd (V)",
+	"id": "rycarryjerd-v",
+	"imageUrl": "img/Virtual1-Light/rycarryjerd.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Sabotage (V)",
+	"id": "sabotage-v",
+	"imageUrl": "img/Virtual1-Light/sabotage.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Sai'torr Kal Fas (V)",
+	"id": "saitorrkalfas-v",
+	"imageUrl": "img/Virtual1-Light/saitorrkalfas.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Sandcrawler (V)",
+	"id": "sandcrawler_(ls)-v",
+	"imageUrl": "img/Virtual1-Light/sandcrawler.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Scanner Techs (V)",
+	"id": "scannertechs-v",
+	"imageUrl": "img/Virtual1-Light/scannertechs.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Solomahal (V)",
+	"id": "solomahal-v",
+	"imageUrl": "img/Virtual1-Light/solomahal.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Special Modifications (V)",
+	"id": "specialmodifications-v",
+	"imageUrl": "img/Virtual1-Light/specialmodifications.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tantive IV (V)",
+	"id": "tantiveiv-v",
+	"imageUrl": "img/Virtual1-Light/tantiveiv.gif",
+	"type": "Starship",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tatooine Utility Belt (V)",
+	"id": "tatooineutilitybelt-v",
+	"imageUrl": "img/Virtual1-Light/tatooineutilitybelt.gif",
+	"type": "Device",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Tatooine: Lars' Moisture Farm (V)",
+	"id": "tatooinelarsmoisturefarm-v",
+	"imageUrl": "img/Virtual1-Light/tatooinelarsmoisturefarm.gif",
+	"type": "Location",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "The Planet That It's Farthest From (V)",
+	"id": "theplanetthatitsfarthestfrom-v",
+	"imageUrl": "img/Virtual1-Light/theplanetthatitsfarthestfrom.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Theron Nett (V)",
+	"id": "theronnett-v",
+	"imageUrl": "img/Virtual1-Light/theronnett.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Undercover (V)",
+	"id": "undercover_(ls)-v",
+	"imageUrl": "img/Virtual1-Light/undercover.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Utinni! (V)",
+	"id": "utinni_(ls)-v",
+	"imageUrl": "img/Virtual1-Light/utinni.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Wedge Antilles (V)",
+	"id": "wedgeantilles-v",
+	"imageUrl": "img/Virtual1-Light/wedgeantilles.gif",
+	"type": "Character",
+	"set": "Virtual Block 1"
+	},
+	{
+	"name": "Yerka Mig (V)",
+	"id": "yerkamig-v",
+	"imageUrl": "img/Virtual1-Light/yerkamig.gif",
+	"type": "Effect",
+	"set": "Virtual Block 1"
+	}
+}

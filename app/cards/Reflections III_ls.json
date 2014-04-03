@@ -1,0 +1,352 @@
+﻿{
+	{
+	"name": "A Close Race",
+	"id": "acloserace",
+	"imageUrl": "img/ReflectionsIII-Light/acloserace.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "A Remote Planet",
+	"id": "aremoteplanet",
+	"imageUrl": "img/ReflectionsIII-Light/aremoteplanet.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "A Tragedy Has Occurred",
+	"id": "atragedyhasoccurred-shield",
+	"imageUrl": "img/ReflectionsIII-Light/atragedyhasoccurred.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Aim High",
+	"id": "aimhigh-shield",
+	"imageUrl": "img/ReflectionsIII-Light/aimhigh.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "An Unusual Amount Of Fear",
+	"id": "anunusualamountoffear",
+	"imageUrl": "img/ReflectionsIII-Light/anunusualamountoffear.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Another Pathetic Lifeform",
+	"id": "anotherpatheticlifeform-shield",
+	"imageUrl": "img/ReflectionsIII-Light/anotherpatheticlifeform.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Armament Dismantled",
+	"id": "armamentdismantled",
+	"imageUrl": "img/ReflectionsIII-Light/armamentdismantled.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Battle Plan",
+	"id": "battleplan-shield",
+	"imageUrl": "img/ReflectionsIII-Light/battleplan.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Chewie, Enraged",
+	"id": "chewieenraged",
+	"imageUrl": "img/ReflectionsIII-Light/chewieenraged.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Clinging To The Edge",
+	"id": "clingingtotheedge",
+	"imageUrl": "img/ReflectionsIII-Light/clingingtotheedge.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Colo Claw Fish",
+	"id": "coloclawfish_(ls)",
+	"imageUrl": "img/ReflectionsIII-Light/coloclawfish.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Darth Maul's Demise",
+	"id": "darthmaulsdemise",
+	"imageUrl": "img/ReflectionsIII-Light/darthmaulsdemise.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Desperate Times",
+	"id": "desperatetimes",
+	"imageUrl": "img/ReflectionsIII-Light/desperatetimes.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Diversionary Tactics",
+	"id": "diversionarytactics",
+	"imageUrl": "img/ReflectionsIII-Light/diversionarytactics.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Do, Or Do Not",
+	"id": "doordonot-shield",
+	"imageUrl": "img/ReflectionsIII-Light/doordonot.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Don't Do That Again",
+	"id": "dontdothatagain-shield",
+	"imageUrl": "img/ReflectionsIII-Light/dontdothatagain.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Echo Base Sensors",
+	"id": "echobasesensors",
+	"imageUrl": "img/ReflectionsIII-Light/echobasesensors.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Energy Walls",
+	"id": "energywalls_(ls)",
+	"imageUrl": "img/ReflectionsIII-Light/energywalls.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Ewok Celebration",
+	"id": "ewokcelebration",
+	"imageUrl": "img/ReflectionsIII-Light/ewokcelebration.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Fall Of A Jedi",
+	"id": "fallofajedi",
+	"imageUrl": "img/ReflectionsIII-Light/fallofajedi.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Han, Chewie, And The Falcon",
+	"id": "hanchewieandthefalcon",
+	"imageUrl": "img/ReflectionsIII-Light/hanchewieandthefalcon.gif",
+	"type": "Starship",
+	"set": "Reflections III"
+	},
+	{
+	"name": "He Can Go About His Business",
+	"id": "hecangoabouthisbusiness",
+	"imageUrl": "img/ReflectionsIII-Light/hecangoabouthisbusiness.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Horace Vancil",
+	"id": "horacevancil",
+	"imageUrl": "img/ReflectionsIII-Light/horacevancil.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Inner Strength",
+	"id": "innerstrength",
+	"imageUrl": "img/ReflectionsIII-Light/innerstrength.gif",
+	"type": "Epic Event",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Jar Jar's Electropole",
+	"id": "jarjarselectropole",
+	"imageUrl": "img/ReflectionsIII-Light/jarjarselectropole.gif",
+	"type": "Weapon",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Jedi Leap",
+	"id": "jedileap",
+	"imageUrl": "img/ReflectionsIII-Light/jedileap.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Lando Calrissian, Scoundrel",
+	"id": "landocalrissianscoundrel",
+	"imageUrl": "img/ReflectionsIII-Light/landocalrissianscoundrel.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Lando's Not A System, He's A Man",
+	"id": "landosnotasystemhesaman",
+	"imageUrl": "img/ReflectionsIII-Light/landosnotasystemhesaman.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Leia, Rebel Princess",
+	"id": "leiarebelprincess",
+	"imageUrl": "img/ReflectionsIII-Light/leiarebelprincess.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Let's Keep A Little Optimism Here",
+	"id": "letskeepalittleoptimismhere-shield",
+	"imageUrl": "img/ReflectionsIII-Light/letskeepalittleoptimismhere.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Naboo: Theed Palace Generator",
+	"id": "nabootheedpalacegenerator_(ls)",
+	"imageUrl": "img/ReflectionsIII-Light/nabootheedpalacegenerator.gif",
+	"type": "Location",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Naboo: Theed Palace Generator Core",
+	"id": "nabootheedpalacegeneratorcore_(ls)",
+	"imageUrl": "img/ReflectionsIII-Light/nabootheedpalacegeneratorcore.gif",
+	"type": "Location",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Obi-Wan Kenobi, Jedi Knight",
+	"id": "obiwankenobijediknight",
+	"imageUrl": "img/ReflectionsIII-Light/obiwankenobijediknight.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Obi-Wan's Lightsaber",
+	"id": "obiwanslightsaber_(reflections iii)",
+	"imageUrl": "img/ReflectionsIII-Light/obiwanslightsaber.gif",
+	"type": "Weapon",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Only Jedi Carry That Weapon",
+	"id": "onlyjedicarrythatweapon",
+	"imageUrl": "img/ReflectionsIII-Light/onlyjedicarrythatweapon.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Opee Sea Killer",
+	"id": "opeeseakiller_(ls)",
+	"imageUrl": "img/ReflectionsIII-Light/opeeseakiller.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Ounee Ta",
+	"id": "ouneeta-shield",
+	"imageUrl": "img/ReflectionsIII-Light/ouneeta.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Planetary Defenses",
+	"id": "planetarydefenses",
+	"imageUrl": "img/ReflectionsIII-Light/planetarydefenses.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Qui-Gon Jinn, Jedi Master",
+	"id": "quigonjinnjedimaster",
+	"imageUrl": "img/ReflectionsIII-Light/quigonjinnjedimaster.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Qui-Gon's Lightsaber",
+	"id": "quigonslightsaber",
+	"imageUrl": "img/ReflectionsIII-Light/quigonslightsaber.gif",
+	"type": "Weapon",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Sando Aqua Monster",
+	"id": "sandoaquamonster_(ls)",
+	"imageUrl": "img/ReflectionsIII-Light/sandoaquamonster.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Sio Bibble",
+	"id": "siobibble",
+	"imageUrl": "img/ReflectionsIII-Light/siobibble.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Strike Blocked",
+	"id": "strikeblocked",
+	"imageUrl": "img/ReflectionsIII-Light/strikeblocked.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Ultimatum",
+	"id": "ultimatum-shield",
+	"imageUrl": "img/ReflectionsIII-Light/ultimatum.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Weapon Of A Fallen Mentor",
+	"id": "weaponofafallenmentor",
+	"imageUrl": "img/ReflectionsIII-Light/weaponofafallenmentor.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "We'll Handle This / Duel Of The Fates",
+	"id": "wellhandlethis",
+	"imageUrl": "img/starwars/ReflectionsIII-Light/wellhandlethis/duelofthefates.gif",
+	"type": "Objective",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Wise Advice",
+	"id": "wiseadvice-shield",
+	"imageUrl": "img/ReflectionsIII-Light/wiseadvice.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Yoda, Master Of The Force",
+	"id": "yodamasteroftheforce",
+	"imageUrl": "img/ReflectionsIII-Light/yodamasteroftheforce.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Your Insight Serves You Well",
+	"id": "yourinsightservesyouwell-shield",
+	"imageUrl": "img/ReflectionsIII-Light/yourinsightservesyouwell.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Your Ship?",
+	"id": "yourship",
+	"imageUrl": "img/ReflectionsIII-Light/yourship.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	}
+}

@@ -1,0 +1,30 @@
+﻿{
+	{
+	"name": "Boushh",
+	"id": "boushh",
+	"imageUrl": "img/EnhancedJabbasPalace-Light/boushh.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "Master Luke",
+	"id": "masterluke",
+	"imageUrl": "img/EnhancedJabbasPalace-Light/masterluke.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "See-Threepio",
+	"id": "seethreepio",
+	"imageUrl": "img/EnhancedJabbasPalace-Light/seethreepio.gif",
+	"type": "Character",
+	"set": "Enhanced Jabba's Palace"
+	},
+	{
+	"name": "You Can Either Profit By This... / Or Be Destroyed",
+	"id": "youcaneitherprofitbythis",
+	"imageUrl": "img/starwars/EnhancedJabbasPalace-Light/youcaneitherprofitbythis/orbedestroyed.gif",
+	"type": "Objective",
+	"set": "Enhanced Jabba's Palace"
+	}
+}

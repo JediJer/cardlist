@@ -1,0 +1,72 @@
+﻿{
+	{
+	"name": "Hutt Influence",
+	"id": "huttinfluence",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/huttinfluence.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Jabba's Palace: Lower Passages",
+	"id": "jabbaspalacelowerpassages",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/jabbaspalacelowerpassages.gif",
+	"type": "Location",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Mercenary Pilot",
+	"id": "mercenarypilot",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/mercenarypilot.gif",
+	"type": "Character",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Mighty Jabba",
+	"id": "mightyjabba",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/mightyjabba.gif",
+	"type": "Character",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "My Kind Of Scum / Fearless And Inventive",
+	"id": "mykindofscum",
+	"imageUrl": "img/starwars/JabbasPalaceSealedDeck-Dark/mykindofscum/fearlessandinventive.gif",
+	"type": "Objective",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "No Escape",
+	"id": "noescape",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/noescape.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Power Of The Hutt",
+	"id": "powerofthehutt",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/powerofthehutt.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Racing Skiff",
+	"id": "racingskiff_(ds)",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/racingskiff.gif",
+	"type": "Vehicle",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Stun Blaster",
+	"id": "stunblaster_(ds)",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/stunblaster.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Tatooine: Desert Heart",
+	"id": "tatooinedesertheart",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Dark/tatooinedesertheart.gif",
+	"type": "Location",
+	"set": "Jabba's Palace Sealed Deck"
+	}
+}

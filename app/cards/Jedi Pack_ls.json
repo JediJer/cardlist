@@ -1,0 +1,37 @@
+﻿{
+	{
+	"name": "For Luck",
+	"id": "forluck",
+	"imageUrl": "img/JediPack-Light/forluck.gif",
+	"type": "Effect",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Han",
+	"id": "han",
+	"imageUrl": "img/JediPack-Light/han.gif",
+	"type": "Character",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Leia",
+	"id": "leia",
+	"imageUrl": "img/JediPack-Light/leia.gif",
+	"type": "Character",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Luke's T-16 Skyhopper",
+	"id": "lukest16skyhopper",
+	"imageUrl": "img/JediPack-Light/lukest16skyhopper.gif",
+	"type": "Vehicle",
+	"set": "Jedi Pack"
+	},
+	{
+	"name": "Tedn Dahai",
+	"id": "tedndahai",
+	"imageUrl": "img/JediPack-Light/tedndahai.gif",
+	"type": "Character",
+	"set": "Jedi Pack"
+	}
+}

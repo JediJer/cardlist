@@ -1,0 +1,569 @@
+﻿{
+	{
+	"name": "2-1B (Too-Onebee)",
+	"id": "21btooonebee",
+	"imageUrl": "img/Hoth-Light/21btooonebee.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Anakin's Lightsaber",
+	"id": "anakinslightsaber",
+	"imageUrl": "img/Hoth-Light/anakinslightsaber.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Artillery Remote",
+	"id": "artilleryremote",
+	"imageUrl": "img/Hoth-Light/artilleryremote.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "Atgar Laser Cannon",
+	"id": "atgarlasercannon",
+	"imageUrl": "img/Hoth-Light/atgarlasercannon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Attack Pattern Delta",
+	"id": "attackpatterndelta",
+	"imageUrl": "img/Hoth-Light/attackpatterndelta.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Bacta Tank",
+	"id": "bactatank",
+	"imageUrl": "img/Hoth-Light/bactatank.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Cal Alder",
+	"id": "calalder",
+	"imageUrl": "img/Hoth-Light/calalder.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Commander Luke Skywalker",
+	"id": "commanderlukeskywalker",
+	"imageUrl": "img/Hoth-Light/commanderlukeskywalker.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Concussion Grenade",
+	"id": "concussiongrenade",
+	"imageUrl": "img/Hoth-Light/concussiongrenade.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Dack Ralter",
+	"id": "dackralter",
+	"imageUrl": "img/Hoth-Light/dackralter.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Dark Dissension",
+	"id": "darkdissension",
+	"imageUrl": "img/Hoth-Light/darkdissension.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Derek 'Hobbie' Klivian",
+	"id": "derekhobbieklivian",
+	"imageUrl": "img/Hoth-Light/derekhobbieklivian.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Disarming Creature",
+	"id": "disarmingcreature",
+	"imageUrl": "img/Hoth-Light/disarmingcreature.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Dual Laser Cannon",
+	"id": "duallasercannon",
+	"imageUrl": "img/Hoth-Light/duallasercannon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Echo Base Operations",
+	"id": "echobaseoperations",
+	"imageUrl": "img/Hoth-Light/echobaseoperations.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Echo Base Trooper",
+	"id": "echobasetrooper",
+	"imageUrl": "img/Hoth-Light/echobasetrooper.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Echo Base Trooper Officer",
+	"id": "echobasetrooperofficer",
+	"imageUrl": "img/Hoth-Light/echobasetrooperofficer.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Echo Trooper Backpack",
+	"id": "echotrooperbackpack",
+	"imageUrl": "img/Hoth-Light/echotrooperbackpack.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "EG-4 (Eegee-Four)",
+	"id": "eg4eegeefour",
+	"imageUrl": "img/Hoth-Light/eg4eegeefour.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Evacuation Control",
+	"id": "evacuationcontrol",
+	"imageUrl": "img/Hoth-Light/evacuationcontrol.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Fall Back!",
+	"id": "fallback",
+	"imageUrl": "img/Hoth-Light/fallback.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Frostbite",
+	"id": "frostbite_(ls)",
+	"imageUrl": "img/Hoth-Light/frostbite.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "FX-7 (Effex-Seven)",
+	"id": "fx7effexseven",
+	"imageUrl": "img/Hoth-Light/fx7effexseven.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "General Carlist Rieekan",
+	"id": "generalcarlistrieekan",
+	"imageUrl": "img/Hoth-Light/generalcarlistrieekan.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Golan Laser Battery",
+	"id": "golanlaserbattery",
+	"imageUrl": "img/Hoth-Light/golanlaserbattery.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth",
+	"id": "hoth_(ls)",
+	"imageUrl": "img/Hoth-Light/hoth.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth Survival Gear",
+	"id": "hothsurvivalgear",
+	"imageUrl": "img/Hoth-Light/hothsurvivalgear.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Defensive Perimeter (3rd Marker)",
+	"id": "hothdefensiveperimeter_(ls)",
+	"imageUrl": "img/Hoth-Light/hothdefensiveperimeter.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Command Center (War Room)",
+	"id": "hothechocommandcenterwarroom_(ls)",
+	"imageUrl": "img/Hoth-Light/hothechocommandcenterwarroom.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Corridor",
+	"id": "hothechocorridor_(ls)",
+	"imageUrl": "img/Hoth-Light/hothechocorridor.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Docking Bay",
+	"id": "hothechodockingbay_(ls)",
+	"imageUrl": "img/Hoth-Light/hothechodockingbay.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Echo Med Lab",
+	"id": "hothechomedlab",
+	"imageUrl": "img/Hoth-Light/hothechomedlab.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Main Power Generators (1st Marker)",
+	"id": "hothmainpowergenerators",
+	"imageUrl": "img/Hoth-Light/hothmainpowergenerators.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: North Ridge (4th Marker)",
+	"id": "hothnorthridge_(ls)",
+	"imageUrl": "img/Hoth-Light/hothnorthridge.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Hoth: Snow Trench (2nd Marker)",
+	"id": "hothsnowtrench",
+	"imageUrl": "img/Hoth-Light/hothsnowtrench.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "I Thought They Smelled Bad On The Outside",
+	"id": "ithoughttheysmelledbadontheoutside",
+	"imageUrl": "img/Hoth-Light/ithoughttheysmelledbadontheoutside.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Ice Storm",
+	"id": "icestorm_(ls)",
+	"imageUrl": "img/Hoth-Light/icestorm.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Infantry Mine",
+	"id": "infantrymine_(ls)",
+	"imageUrl": "img/Hoth-Light/infantrymine.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "It Can Wait",
+	"id": "itcanwait",
+	"imageUrl": "img/Hoth-Light/itcanwait.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Jeroen Webb",
+	"id": "jeroenwebb",
+	"imageUrl": "img/Hoth-Light/jeroenwebb.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "K-3PO (Kay-Threepio)",
+	"id": "k3pokaythreepio",
+	"imageUrl": "img/Hoth-Light/k3pokaythreepio.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Lucky Shot",
+	"id": "luckyshot",
+	"imageUrl": "img/Hoth-Light/luckyshot.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Major Bren Derlin",
+	"id": "majorbrenderlin",
+	"imageUrl": "img/Hoth-Light/majorbrenderlin.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Medium Repeating Blaster Cannon",
+	"id": "mediumrepeatingblastercannon",
+	"imageUrl": "img/Hoth-Light/mediumrepeatingblastercannon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Medium Transport",
+	"id": "mediumtransport",
+	"imageUrl": "img/Hoth-Light/mediumtransport.gif",
+	"type": "Starship",
+	"set": "Hoth"
+	},
+	{
+	"name": "Nice Of You Guys To Drop By",
+	"id": "niceofyouguystodropby",
+	"imageUrl": "img/Hoth-Light/niceofyouguystodropby.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "One More Pass",
+	"id": "onemorepass",
+	"imageUrl": "img/Hoth-Light/onemorepass.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Ord Mantell",
+	"id": "ordmantell_(ls)",
+	"imageUrl": "img/Hoth-Light/ordmantell.gif",
+	"type": "Location",
+	"set": "Hoth"
+	},
+	{
+	"name": "Perimeter Scan",
+	"id": "perimeterscan",
+	"imageUrl": "img/Hoth-Light/perimeterscan.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Planet Defender Ion Cannon",
+	"id": "planetdefenderioncannon",
+	"imageUrl": "img/Hoth-Light/planetdefenderioncannon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Power Harpoon",
+	"id": "powerharpoon",
+	"imageUrl": "img/Hoth-Light/powerharpoon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "R2 Sensor Array",
+	"id": "r2sensorarray",
+	"imageUrl": "img/Hoth-Light/r2sensorarray.gif",
+	"type": "Device",
+	"set": "Hoth"
+	},
+	{
+	"name": "R-3PO (Ar-Threepio)",
+	"id": "r3poarthreepio",
+	"imageUrl": "img/Hoth-Light/r3poarthreepio.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "R5-M2 (Arfive-Emmtoo)",
+	"id": "r5m2arfiveemmtoo",
+	"imageUrl": "img/Hoth-Light/r5m2arfiveemmtoo.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Rebel Scout",
+	"id": "rebelscout",
+	"imageUrl": "img/Hoth-Light/rebelscout.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Rogue 1",
+	"id": "rogue1",
+	"imageUrl": "img/Hoth-Light/rogue1.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Rogue 2",
+	"id": "rogue2",
+	"imageUrl": "img/Hoth-Light/rogue2.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Rogue 3",
+	"id": "rogue3",
+	"imageUrl": "img/Hoth-Light/rogue3.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Rogue Gunner",
+	"id": "roguegunner",
+	"imageUrl": "img/Hoth-Light/roguegunner.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Romas 'Lock' Navander",
+	"id": "romaslocknavander",
+	"imageUrl": "img/Hoth-Light/romaslocknavander.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Rug Hug",
+	"id": "rughug",
+	"imageUrl": "img/Hoth-Light/rughug.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Shawn Valdez",
+	"id": "shawnvaldez",
+	"imageUrl": "img/Hoth-Light/shawnvaldez.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Snowspeeder",
+	"id": "snowspeeder",
+	"imageUrl": "img/Hoth-Light/snowspeeder.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Surface Defense Cannon",
+	"id": "surfacedefensecannon",
+	"imageUrl": "img/Hoth-Light/surfacedefensecannon.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tamizander Rey",
+	"id": "tamizanderrey",
+	"imageUrl": "img/Hoth-Light/tamizanderrey.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tauntaun",
+	"id": "tauntaun",
+	"imageUrl": "img/Hoth-Light/tauntaun.gif",
+	"type": "Vehicle",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tauntaun Bones",
+	"id": "tauntaunbones",
+	"imageUrl": "img/Hoth-Light/tauntaunbones.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tauntaun Handler",
+	"id": "tauntaunhandler",
+	"imageUrl": "img/Hoth-Light/tauntaunhandler.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "The First Transport Is Away!",
+	"id": "thefirsttransportisaway",
+	"imageUrl": "img/Hoth-Light/thefirsttransportisaway.gif",
+	"type": "Effect",
+	"set": "Hoth"
+	},
+	{
+	"name": "Tigran Jamiro",
+	"id": "tigranjamiro",
+	"imageUrl": "img/Hoth-Light/tigranjamiro.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Toryn Farr",
+	"id": "torynfarr",
+	"imageUrl": "img/Hoth-Light/torynfarr.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Under Attack",
+	"id": "underattack",
+	"imageUrl": "img/Hoth-Light/underattack.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Vehicle Mine",
+	"id": "vehiclemine_(ls)",
+	"imageUrl": "img/Hoth-Light/vehiclemine.gif",
+	"type": "Weapon",
+	"set": "Hoth"
+	},
+	{
+	"name": "Walker Sighting",
+	"id": "walkersighting",
+	"imageUrl": "img/Hoth-Light/walkersighting.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "WED-1016 'Techie' Droid",
+	"id": "wed1016techiedroid",
+	"imageUrl": "img/Hoth-Light/wed1016techiedroid.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Wes Janson",
+	"id": "wesjanson",
+	"imageUrl": "img/Hoth-Light/wesjanson.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "Who's Scruffy-Looking?",
+	"id": "whosscruffylooking",
+	"imageUrl": "img/Hoth-Light/whosscruffylooking.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Wyron Serper",
+	"id": "wyronserper",
+	"imageUrl": "img/Hoth-Light/wyronserper.gif",
+	"type": "Character",
+	"set": "Hoth"
+	},
+	{
+	"name": "You Have Failed Me For The Last Time",
+	"id": "youhavefailedmeforthelasttime",
+	"imageUrl": "img/Hoth-Light/youhavefailedmeforthelasttime.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "You Will Go To The Dagobah System",
+	"id": "youwillgotothedagobahsystem",
+	"imageUrl": "img/Hoth-Light/youwillgotothedagobahsystem.gif",
+	"type": "Interrupt",
+	"set": "Hoth"
+	},
+	{
+	"name": "Zev Senesca",
+	"id": "zevsenesca",
+	"imageUrl": "img/Hoth-Light/zevsenesca.gif",
+	"type": "Character",
+	"set": "Hoth"
+	}
+}

@@ -1,0 +1,464 @@
+﻿{
+	{
+	"name": "Antilles Maneuver & Rebel Reinforcements",
+	"id": "antillesmaneuver&rebelreinforcements",
+	"imageUrl": "img/Virtual6-Light/antillesmaneuver&rebelreinforcements.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Armed And Dangerous & Krayt Dragon Howl",
+	"id": "armedanddangerous&kraytdragonhowl",
+	"imageUrl": "img/Virtual6-Light/armedanddangerous&kraytdragonhowl.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Ascension Guns (V)",
+	"id": "ascensionguns-v",
+	"imageUrl": "img/Virtual6-Light/ascensionguns.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "At Peace (V)",
+	"id": "atpeace-v",
+	"imageUrl": "img/Virtual6-Light/atpeace.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Baragwin (V)",
+	"id": "baragwin-v",
+	"imageUrl": "img/Virtual6-Light/baragwin.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Beast Rider",
+	"id": "beastrider",
+	"imageUrl": "img/Virtual6-Light/beastrider.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "BoShek, Brash Smuggler",
+	"id": "boshekbrashsmuggler",
+	"imageUrl": "img/Virtual6-Light/boshekbrashsmuggler.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Commando Training & K'lor'slug",
+	"id": "commandotraining&klorslug",
+	"imageUrl": "img/Virtual6-Light/commandotraining&klorslug.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Dark Approach (V)",
+	"id": "darkapproach-v",
+	"imageUrl": "img/Virtual6-Light/darkapproach.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Dash in Rogue 10",
+	"id": "dashinrogue10",
+	"imageUrl": "img/Virtual6-Light/dashinrogue10.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Daughter Of Skywalker (V)",
+	"id": "daughterofskywalker-v",
+	"imageUrl": "img/Virtual6-Light/daughterofskywalker.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Desperate Reach (V)",
+	"id": "desperatereach-v",
+	"imageUrl": "img/Virtual6-Light/desperatereach.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Desperate Tactics(V)",
+	"id": "desperatetactics-v",
+	"imageUrl": "img/Virtual6-Light/desperatetactics.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Don't Underestimate Our Chances (V)",
+	"id": "dontunderestimateourchances-v",
+	"imageUrl": "img/Virtual6-Light/dontunderestimateourchances.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Dressel",
+	"id": "dressel",
+	"imageUrl": "img/Virtual6-Light/dressel.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Firefight (V)",
+	"id": "firefight-v",
+	"imageUrl": "img/Virtual6-Light/firefight.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "General Solomahal",
+	"id": "generalsolomahal",
+	"imageUrl": "img/Virtual6-Light/generalsolomahal.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Gundark",
+	"id": "gundark",
+	"imageUrl": "img/Virtual6-Light/gundark.gif",
+	"type": "Creature",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Han Solo, Courageous Smuggler",
+	"id": "hansolocourageoussmuggler",
+	"imageUrl": "img/Virtual6-Light/hansolocourageoussmuggler.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Han, Chewie, And The Falcon (V)",
+	"id": "hanchewieandthefalcon-v",
+	"imageUrl": "img/Virtual6-Light/hanchewieandthefalcon.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Hoth: Echo Command Center (War Room) (V)",
+	"id": "hothechocommandcenterwarroom-v",
+	"imageUrl": "img/Virtual6-Light/hothechocommandcenterwarroom.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Hoth: Main Power Generators (1st Marker) (V)",
+	"id": "hothmainpowergenerators_(ls)-v",
+	"imageUrl": "img/Virtual6-Light/hothmainpowergenerators.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "I Don't Need Their Scum, Either (V)",
+	"id": "idontneedtheirscumeither-v",
+	"imageUrl": "img/Virtual6-Light/idontneedtheirscumeither.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "I'm Here to Rescue You (V)",
+	"id": "imheretorescueyou-v",
+	"imageUrl": "img/Virtual6-Light/imheretorescueyou.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Incom Corporation & Koensayr Manufacturing",
+	"id": "incomcorporation&koensayrmanufacturing",
+	"imageUrl": "img/Virtual6-Light/incomcorporation&koensayrmanufacturing.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "It's Not My Fault! (V)",
+	"id": "itsnotmyfault-v",
+	"imageUrl": "img/Virtual6-Light/itsnotmyfault.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "I've Decided To Go Back (V)",
+	"id": "ivedecidedtogoback-v",
+	"imageUrl": "img/Virtual6-Light/ivedecidedtogoback.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Jabba, This Is Your Last Chance!",
+	"id": "jabbathisisyourlastchance",
+	"imageUrl": "img/Virtual6-Light/jabbathisisyourlastchance.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Jabba's Prize/Jabba's Prize",
+	"id": "jabbasprizefrontjabbasprizeback_(ls)-v",
+	"imageUrl": "img/starwars/Virtual6-Light/jabbasprizefront/jabbasprizeback.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Jedi Pilot",
+	"id": "jedipilot",
+	"imageUrl": "img/Virtual6-Light/jedipilot.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Kaadu (V)",
+	"id": "kaadu-v",
+	"imageUrl": "img/Virtual6-Light/kaadu.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Kashyyyk: Forest Depths",
+	"id": "kashyyykforestdepths",
+	"imageUrl": "img/Virtual6-Light/kashyyykforestdepths.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Lando Calrissian, Scoundrel (V)",
+	"id": "landocalrissianscoundrel-v",
+	"imageUrl": "img/Virtual6-Light/landocalrissianscoundrel.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Leia, Optimistic Leader",
+	"id": "leiaoptimisticleader",
+	"imageUrl": "img/Virtual6-Light/leiaoptimisticleader.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Let The Wookiee Win (V)",
+	"id": "letthewookieewin-v",
+	"imageUrl": "img/Virtual6-Light/letthewookieewin.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Luke Skywalker, Strong In The Force",
+	"id": "lukeskywalkerstrongintheforce",
+	"imageUrl": "img/Virtual6-Light/lukeskywalkerstrongintheforce.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Maneuvering Flaps & Nick Of Time",
+	"id": "maneuveringflaps&nickoftime",
+	"imageUrl": "img/Virtual6-Light/maneuveringflaps&nickoftime.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Mind What You Have Learned / Save You It Can (V)",
+	"id": "mindwhatyouhavelearned-v",
+	"imageUrl": "img/starwars/Virtual6-Light/mindwhatyouhavelearned/saveyouitcan.gif",
+	"type": "Objective",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Mon Calamari Dockyards",
+	"id": "moncalamaridockyards",
+	"imageUrl": "img/Virtual6-Light/moncalamaridockyards.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Obi-Wan Kenobi, Padawan Learner (V)",
+	"id": "obiwankenobipadawanlearner-v",
+	"imageUrl": "img/Virtual6-Light/obiwankenobipadawanlearner.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Obi-Wan Kenobi, Padawan Learner (V) (AI)",
+	"id": "obiwankenobipadawanlearnerai-v",
+	"imageUrl": "img/Virtual6-Light/obiwankenobipadawanlearnerai.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Obi-Wan, Crazy Wizard",
+	"id": "obiwancrazywizard",
+	"imageUrl": "img/Virtual6-Light/obiwancrazywizard.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Odin Nesloor & First Aid",
+	"id": "odinnesloor&firstaid",
+	"imageUrl": "img/Virtual6-Light/odinnesloor&firstaid.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Out Of Somewhere (V)",
+	"id": "outofsomewhere-v",
+	"imageUrl": "img/Virtual6-Light/outofsomewhere.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Overseer",
+	"id": "overseer",
+	"imageUrl": "img/Virtual6-Light/overseer.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Phylo Gandish (V)",
+	"id": "phylogandish-v",
+	"imageUrl": "img/Virtual6-Light/phylogandish.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Protector (V)",
+	"id": "protector-v",
+	"imageUrl": "img/Virtual6-Light/protector.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Red 1 (V)",
+	"id": "red1-v",
+	"imageUrl": "img/Virtual6-Light/red1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Reflection (V)",
+	"id": "reflection-v",
+	"imageUrl": "img/Virtual6-Light/reflection.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Republic Logistics",
+	"id": "republiclogistics",
+	"imageUrl": "img/Virtual6-Light/republiclogistics.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Republic Starfighter",
+	"id": "republicstarfighter",
+	"imageUrl": "img/Virtual6-Light/republicstarfighter.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Return Of The Jedi",
+	"id": "returnofthejedi",
+	"imageUrl": "img/Virtual6-Light/returnofthejedi.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Rogue Squadron X-wing",
+	"id": "roguesquadronxwing",
+	"imageUrl": "img/Virtual6-Light/roguesquadronxwing.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Scomp Link Access (V)",
+	"id": "scomplinkaccess-v",
+	"imageUrl": "img/Virtual6-Light/scomplinkaccess.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Security Breach",
+	"id": "securitybreach",
+	"imageUrl": "img/Virtual6-Light/securitybreach.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Snowspeeder Garrison",
+	"id": "snowspeedergarrison",
+	"imageUrl": "img/Virtual6-Light/snowspeedergarrison.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Solo Han (V)",
+	"id": "solohan-v",
+	"imageUrl": "img/Virtual6-Light/solohan.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Spaceport Scoundrels Guild",
+	"id": "spaceportscoundrelsguild",
+	"imageUrl": "img/Virtual6-Light/spaceportscoundrelsguild.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Strong Is Vader",
+	"id": "strongisvader",
+	"imageUrl": "img/Virtual6-Light/strongisvader.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Tatooine: Queen's Landing Site",
+	"id": "tatooinequeenslandingsite",
+	"imageUrl": "img/Virtual6-Light/tatooinequeenslandingsite.gif",
+	"type": "Location",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "The First Transport Is Away! (V)",
+	"id": "thefirsttransportisaway-v",
+	"imageUrl": "img/Virtual6-Light/thefirsttransportisaway.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Thrown Back (V)",
+	"id": "thrownback-v",
+	"imageUrl": "img/Virtual6-Light/thrownback.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Underworld Contacts (V)",
+	"id": "underworldcontacts-v",
+	"imageUrl": "img/Virtual6-Light/underworldcontacts.gif",
+	"type": "Effect",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Veteran Rogue",
+	"id": "veteranrogue",
+	"imageUrl": "img/Virtual6-Light/veteranrogue.gif",
+	"type": "Character",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Warrior's Courage (V)",
+	"id": "warriorscourage-v",
+	"imageUrl": "img/Virtual6-Light/warriorscourage.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 6"
+	},
+	{
+	"name": "Wedge In Red Squadron 1",
+	"id": "wedgeinredsquadron1",
+	"imageUrl": "img/Virtual6-Light/wedgeinredsquadron1.gif",
+	"type": "Starship",
+	"set": "Virtual Block 6"
+	}
+}

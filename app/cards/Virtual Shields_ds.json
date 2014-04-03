@@ -1,0 +1,135 @@
+﻿{
+	{
+	"name": "A Useless Gesture (V)",
+	"id": "auselessgesture-v",
+	"imageUrl": "img/VirtualDS-Dark/auselessgesture.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Abyss (V)",
+	"id": "abyss-v",
+	"imageUrl": "img/VirtualDS-Dark/abyss.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "After Her! (V)",
+	"id": "afterher-v",
+	"imageUrl": "img/VirtualDS-Dark/afterher.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Death Star Sentry (V)",
+	"id": "deathstarsentry-v",
+	"imageUrl": "img/VirtualDS-Dark/deathstarsentry.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Do They Have A Code Clearance? (Coruscant) (V)",
+	"id": "dotheyhaveacodeclearancev-v",
+	"imageUrl": "img/VirtualDS-Dark/dotheyhaveacodeclearancev.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Do They Have A Code Clearance? (V)",
+	"id": "dotheyhaveacodeclearance-v",
+	"imageUrl": "img/VirtualDS-Dark/dotheyhaveacodeclearance.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Fanfare (Tatooine) (V)",
+	"id": "fanfaretatooine-v",
+	"imageUrl": "img/VirtualDS-Dark/fanfaretatooine.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Fanfare (V)",
+	"id": "fanfare-v",
+	"imageUrl": "img/VirtualDS-Dark/fanfare.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Firepower (V)",
+	"id": "firepower-v",
+	"imageUrl": "img/VirtualDS-Dark/firepower.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "I Find Your Lack Of Faith Disturbing (V)",
+	"id": "ifindyourlackoffaithdisturbing-v",
+	"imageUrl": "img/VirtualDS-Dark/ifindyourlackoffaithdisturbing.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Imperial Detention",
+	"id": "imperialdetention",
+	"imageUrl": "img/VirtualDS-Dark/imperialdetention.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Leave Them To Me (Death Star II) (V)",
+	"id": "leavethemtomev-v",
+	"imageUrl": "img/VirtualDS-Dark/leavethemtomev.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Leave Them To Me (V)",
+	"id": "leavethemtome-v",
+	"imageUrl": "img/VirtualDS-Dark/leavethemtome.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "No Escape (Premium) (V)",
+	"id": "noescapev-v",
+	"imageUrl": "img/VirtualDS-Dark/noescapev.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "No Escape (V)",
+	"id": "noescape-v",
+	"imageUrl": "img/VirtualDS-Dark/noescape.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "Reactor Terminal (V)",
+	"id": "reactorterminal-v",
+	"imageUrl": "img/VirtualDS-Dark/reactorterminal.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "We'll Let Fate-a Decide, Huh? (V)",
+	"id": "wellletfateadecidehuh-v",
+	"imageUrl": "img/VirtualDS-Dark/wellletfateadecidehuh.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "You Cannot Hide Forever (Death Star II) (V)",
+	"id": "youcannothideforeverv-v",
+	"imageUrl": "img/VirtualDS-Dark/youcannothideforeverv.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	},
+	{
+	"name": "You Cannot Hide Forever (V)",
+	"id": "youcannothideforever-v",
+	"imageUrl": "img/VirtualDS-Dark/youcannothideforever.gif",
+	"type": "Defensive Shield",
+	"set": "Virtual Defensive Shield"
+	}
+}

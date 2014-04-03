@@ -1,0 +1,37 @@
+﻿{
+	{
+	"name": "A New Secret Base",
+	"id": "anewsecretbase",
+	"imageUrl": "img/ThirdAnthology-Light/anewsecretbase.gif",
+	"type": "Effect",
+	"set": "Third Anthology"
+	},
+	{
+	"name": "Artoo-Detoo In Red 5",
+	"id": "artoodetooinred5",
+	"imageUrl": "img/ThirdAnthology-Light/artoodetooinred5.gif",
+	"type": "Starship",
+	"set": "Third Anthology"
+	},
+	{
+	"name": "Echo Base Garrison",
+	"id": "echobasegarrison",
+	"imageUrl": "img/ThirdAnthology-Light/echobasegarrison.gif",
+	"type": "Effect",
+	"set": "Third Anthology"
+	},
+	{
+	"name": "Massassi Base Operations / One In A Million",
+	"id": "massassibaseoperations",
+	"imageUrl": "img/starwars/ThirdAnthology-Light/massassibaseoperations/oneinamillion.gif",
+	"type": "Objective",
+	"set": "Third Anthology"
+	},
+	{
+	"name": "Prisoner 2187",
+	"id": "prisoner2187",
+	"imageUrl": "img/ThirdAnthology-Light/prisoner2187.gif",
+	"type": "Character",
+	"set": "Third Anthology"
+	}
+}

@@ -1,0 +1,23 @@
+﻿{
+	{
+	"name": "Chewie",
+	"id": "chewie",
+	"imageUrl": "img/EmpireStrikesBackIntroductoryTwoPlayerGame-Light/chewie.gif",
+	"type": "Character",
+	"set": "Empire Strikes Back Introductory Two Player Game"
+	},
+	{
+	"name": "Lone Rogue",
+	"id": "lonerogue",
+	"imageUrl": "img/EmpireStrikesBackIntroductoryTwoPlayerGame-Light/lonerogue.gif",
+	"type": "Interrupt",
+	"set": "Empire Strikes Back Introductory Two Player Game"
+	},
+	{
+	"name": "Rebel Snowspeeder",
+	"id": "rebelsnowspeeder",
+	"imageUrl": "img/EmpireStrikesBackIntroductoryTwoPlayerGame-Light/rebelsnowspeeder.gif",
+	"type": "Vehicle",
+	"set": "Empire Strikes Back Introductory Two Player Game"
+	}
+}

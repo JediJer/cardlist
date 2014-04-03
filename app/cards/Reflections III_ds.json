@@ -1,0 +1,352 @@
+﻿{
+	{
+	"name": "A Useless Gesture",
+	"id": "auselessgesture",
+	"imageUrl": "img/ReflectionsIII-Dark/auselessgesture.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Allegations Of Corruption",
+	"id": "allegationsofcorruption-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/allegationsofcorruption.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Aurra Sing's Blaster Rifle",
+	"id": "aurrasingsblasterrifle",
+	"imageUrl": "img/ReflectionsIII-Dark/aurrasingsblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Battle Order",
+	"id": "battleorder-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/battleorder.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Bib Fortuna",
+	"id": "bibfortuna_(reflections iii)",
+	"imageUrl": "img/ReflectionsIII-Dark/bibfortuna.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Blizzard 4",
+	"id": "blizzard4",
+	"imageUrl": "img/ReflectionsIII-Dark/blizzard4.gif",
+	"type": "Vehicle",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Blockade Flagship: Hallway",
+	"id": "blockadeflagshiphallway",
+	"imageUrl": "img/ReflectionsIII-Dark/blockadeflagshiphallway.gif",
+	"type": "Location",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Blow Parried",
+	"id": "blowparried",
+	"imageUrl": "img/ReflectionsIII-Dark/blowparried.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Boba Fett, Bounty Hunter",
+	"id": "bobafettbountyhunter",
+	"imageUrl": "img/ReflectionsIII-Dark/bobafettbountyhunter.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Colo Claw Fish",
+	"id": "coloclawfish_(ds)",
+	"imageUrl": "img/ReflectionsIII-Dark/coloclawfish.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Come Here You Big Coward!",
+	"id": "comehereyoubigcoward-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/comehereyoubigcoward.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Conduct Your Search",
+	"id": "conductyoursearch",
+	"imageUrl": "img/ReflectionsIII-Dark/conductyoursearch.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Crossfire",
+	"id": "crossfire-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/crossfire.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Dark Rage",
+	"id": "darkrage",
+	"imageUrl": "img/ReflectionsIII-Dark/darkrage.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Deep Hatred",
+	"id": "deephatred",
+	"imageUrl": "img/ReflectionsIII-Dark/deephatred.gif",
+	"type": "Epic Event",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Do They Have A Code Clearance?",
+	"id": "dotheyhaveacodeclearance-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/dotheyhaveacodeclearance.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Energy Walls",
+	"id": "energywalls_(ds)",
+	"imageUrl": "img/ReflectionsIII-Dark/energywalls.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Fanfare",
+	"id": "fanfare-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/fanfare.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Fear Is My Ally",
+	"id": "fearismyally",
+	"imageUrl": "img/ReflectionsIII-Dark/fearismyally.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Force Push",
+	"id": "forcepush",
+	"imageUrl": "img/ReflectionsIII-Dark/forcepush.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Jabba Desilijic Tiure",
+	"id": "jabbadesilijictiure",
+	"imageUrl": "img/ReflectionsIII-Dark/jabbadesilijictiure.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Leave Them To Me",
+	"id": "leavethemtome-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/leavethemtome.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Let Them Make The First Move / At Last We Will Have Revenge",
+	"id": "letthemmakethefirstmove",
+	"imageUrl": "img/starwars/ReflectionsIII-Dark/letthemmakethefirstmove/atlastwewillhaverevenge.gif",
+	"type": "Objective",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Lord Maul",
+	"id": "lordmaul",
+	"imageUrl": "img/ReflectionsIII-Dark/lordmaul.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Maul's Double-Bladed Lightsaber",
+	"id": "maulsdoublebladedlightsaber",
+	"imageUrl": "img/ReflectionsIII-Dark/maulsdoublebladedlightsaber.gif",
+	"type": "Weapon",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Naboo: Theed Palace Generator",
+	"id": "nabootheedpalacegenerator_(ds)",
+	"imageUrl": "img/ReflectionsIII-Dark/nabootheedpalacegenerator.gif",
+	"type": "Location",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Naboo: Theed Palace Generator Core",
+	"id": "nabootheedpalacegeneratorcore_(ds)",
+	"imageUrl": "img/ReflectionsIII-Dark/nabootheedpalacegeneratorcore.gif",
+	"type": "Location",
+	"set": "Reflections III"
+	},
+	{
+	"name": "No Escape",
+	"id": "noescape-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/noescape.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "No Match For A Sith",
+	"id": "nomatchforasith",
+	"imageUrl": "img/ReflectionsIII-Dark/nomatchforasith.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Opee Sea Killer",
+	"id": "opeeseakiller_(ds)",
+	"imageUrl": "img/ReflectionsIII-Dark/opeeseakiller.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Oppressive Enforcement",
+	"id": "oppressiveenforcement-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/oppressiveenforcement.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Prepare For A Surface Attack",
+	"id": "prepareforasurfaceattack",
+	"imageUrl": "img/ReflectionsIII-Dark/prepareforasurfaceattack.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Qui-Gon's End",
+	"id": "quigonsend",
+	"imageUrl": "img/ReflectionsIII-Dark/quigonsend.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Resistance",
+	"id": "resistance-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/resistance.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Sando Aqua Monster",
+	"id": "sandoaquamonster_(ds)",
+	"imageUrl": "img/ReflectionsIII-Dark/sandoaquamonster.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Secret Plans",
+	"id": "secretplans-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/secretplans.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Stormtrooper Garrison",
+	"id": "stormtroopergarrison",
+	"imageUrl": "img/ReflectionsIII-Dark/stormtroopergarrison.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "The Ebb Of Battle",
+	"id": "theebbofbattle",
+	"imageUrl": "img/ReflectionsIII-Dark/theebbofbattle.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "The Hutts Are Gangsters",
+	"id": "thehuttsaregangsters",
+	"imageUrl": "img/ReflectionsIII-Dark/thehuttsaregangsters.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "There Is No Try",
+	"id": "thereisnotry-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/thereisnotry.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "They Must Never Again Leave This City",
+	"id": "theymustneveragainleavethiscity",
+	"imageUrl": "img/ReflectionsIII-Dark/theymustneveragainleavethiscity.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Thok & Thug",
+	"id": "thok&thug",
+	"imageUrl": "img/ReflectionsIII-Dark/thok&thug.gif",
+	"type": "Character",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Through The Corridor",
+	"id": "throughthecorridor",
+	"imageUrl": "img/ReflectionsIII-Dark/throughthecorridor.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Unsalvageable",
+	"id": "unsalvageable",
+	"imageUrl": "img/ReflectionsIII-Dark/unsalvageable.gif",
+	"type": "Interrupt",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Weapon Of A Sith",
+	"id": "weaponofasith",
+	"imageUrl": "img/ReflectionsIII-Dark/weaponofasith.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "We'll Let Fate-a Decide, Huh?",
+	"id": "wellletfateadecidehuh",
+	"imageUrl": "img/ReflectionsIII-Dark/wellletfateadecidehuh.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Where Are Those Droidekas?!",
+	"id": "wherearethosedroidekas",
+	"imageUrl": "img/ReflectionsIII-Dark/wherearethosedroidekas.gif",
+	"type": "Effect",
+	"set": "Reflections III"
+	},
+	{
+	"name": "Wipe Them Out, All Of Them",
+	"id": "wipethemoutallofthem-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/wipethemoutallofthem.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "You Cannot Hide Forever",
+	"id": "youcannothideforever-shield",
+	"imageUrl": "img/ReflectionsIII-Dark/youcannothideforever.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	},
+	{
+	"name": "You've Never Won A Race?",
+	"id": "youveneverwonarace",
+	"imageUrl": "img/ReflectionsIII-Dark/youveneverwonarace.gif",
+	"type": "Defensive Shield",
+	"set": "Reflections III"
+	}
+}

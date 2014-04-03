@@ -1,0 +1,65 @@
+﻿{
+	{
+	"name": "Arleil Schous",
+	"id": "arleilschous",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/arleilschous.gif",
+	"type": "Character",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Corulag",
+	"id": "corulag_(ls)",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/corulag.gif",
+	"type": "Location",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Faithful Service",
+	"id": "faithfulservice",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/faithfulservice.gif",
+	"type": "Effect",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Gold Squadron Y-wing",
+	"id": "goldsquadronywing",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/goldsquadronywing.gif",
+	"type": "Starship",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "It's A Hit!",
+	"id": "itsahit",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/itsahit.gif",
+	"type": "Interrupt",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Rebel Trooper Recruit",
+	"id": "rebeltrooperrecruit",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/rebeltrooperrecruit.gif",
+	"type": "Character",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Red Squadron X-wing",
+	"id": "redsquadronxwing",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/redsquadronxwing.gif",
+	"type": "Starship",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Tatooine: Jundland Wastes",
+	"id": "tatooinejundlandwastes_(ls)",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/tatooinejundlandwastes.gif",
+	"type": "Location",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Z-95 Headhunter",
+	"id": "z95headhunter",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Light/z95headhunter.gif",
+	"type": "Starship",
+	"set": "Official Tournament Sealed Deck"
+	}
+}

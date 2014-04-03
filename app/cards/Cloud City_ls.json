@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "Access Denied",
+	"id": "accessdenied",
+	"imageUrl": "img/CloudCity-Light/accessdenied.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Advantage",
+	"id": "advantage",
+	"imageUrl": "img/CloudCity-Light/advantage.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "All My Urchins",
+	"id": "allmyurchins",
+	"imageUrl": "img/CloudCity-Light/allmyurchins.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Ambush",
+	"id": "ambush",
+	"imageUrl": "img/CloudCity-Light/ambush.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Armed And Dangerous",
+	"id": "armedanddangerous",
+	"imageUrl": "img/CloudCity-Light/armedanddangerous.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Artoo, Come Back At Once!",
+	"id": "artoocomebackatonce",
+	"imageUrl": "img/CloudCity-Light/artoocomebackatonce.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "As Good As Gone",
+	"id": "asgoodasgone",
+	"imageUrl": "img/CloudCity-Light/asgoodasgone.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Beldon's Eye",
+	"id": "beldonseye",
+	"imageUrl": "img/CloudCity-Light/beldonseye.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bespin",
+	"id": "bespin_(ls)",
+	"imageUrl": "img/CloudCity-Light/bespin.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bespin: Cloud City",
+	"id": "bespincloudcity_(ls)",
+	"imageUrl": "img/CloudCity-Light/bespincloudcity.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bionic Hand",
+	"id": "bionichand",
+	"imageUrl": "img/CloudCity-Light/bionichand.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Blaster Proficiency",
+	"id": "blasterproficiency",
+	"imageUrl": "img/CloudCity-Light/blasterproficiency.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bright Hope",
+	"id": "brighthope",
+	"imageUrl": "img/CloudCity-Light/brighthope.gif",
+	"type": "Starship",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Captain Han Solo",
+	"id": "captainhansolo",
+	"imageUrl": "img/CloudCity-Light/captainhansolo.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Captive Fury",
+	"id": "captivefury",
+	"imageUrl": "img/CloudCity-Light/captivefury.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Captive Pursuit",
+	"id": "captivepursuit",
+	"imageUrl": "img/CloudCity-Light/captivepursuit.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Chasm",
+	"id": "chasm",
+	"imageUrl": "img/CloudCity-Light/chasm.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Civil Disorder",
+	"id": "civildisorder",
+	"imageUrl": "img/CloudCity-Light/civildisorder.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Clash Of Sabers",
+	"id": "clashofsabers",
+	"imageUrl": "img/CloudCity-Light/clashofsabers.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud Car",
+	"id": "cloudcar_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcar.gif",
+	"type": "Vehicle",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Blaster",
+	"id": "cloudcityblaster_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcityblaster.gif",
+	"type": "Weapon",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Sabacc",
+	"id": "cloudcitysabacc_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcitysabacc.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Technician",
+	"id": "cloudcitytechnician",
+	"imageUrl": "img/CloudCity-Light/cloudcitytechnician.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Trooper",
+	"id": "cloudcitytrooper_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcitytrooper.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Carbonite Chamber",
+	"id": "cloudcitycarbonitechamber_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcitycarbonitechamber.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Chasm Walkway",
+	"id": "cloudcitychasmwalkway_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcitychasmwalkway.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Guest Quarters",
+	"id": "cloudcityguestquarters",
+	"imageUrl": "img/CloudCity-Light/cloudcityguestquarters.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Incinerator",
+	"id": "cloudcityincinerator_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcityincinerator.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Lower Corridor",
+	"id": "cloudcitylowercorridor_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcitylowercorridor.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Platform 327 (Docking Bay)",
+	"id": "cloudcityplatform327dockingbay",
+	"imageUrl": "img/CloudCity-Light/cloudcityplatform327dockingbay.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Upper Plaza Corridor",
+	"id": "cloudcityupperplazacorridor_(ls)",
+	"imageUrl": "img/CloudCity-Light/cloudcityupperplazacorridor.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Clouds",
+	"id": "clouds_(ls)",
+	"imageUrl": "img/CloudCity-Light/clouds.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Computer Interface",
+	"id": "computerinterface",
+	"imageUrl": "img/CloudCity-Light/computerinterface.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Courage Of A Skywalker",
+	"id": "courageofaskywalker",
+	"imageUrl": "img/CloudCity-Light/courageofaskywalker.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Crack Shot",
+	"id": "crackshot",
+	"imageUrl": "img/CloudCity-Light/crackshot.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cyborg Construct",
+	"id": "cyborgconstruct",
+	"imageUrl": "img/CloudCity-Light/cyborgconstruct.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Dark Approach",
+	"id": "darkapproach",
+	"imageUrl": "img/CloudCity-Light/darkapproach.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Dash",
+	"id": "dash",
+	"imageUrl": "img/CloudCity-Light/dash.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Desperate Reach",
+	"id": "desperatereach",
+	"imageUrl": "img/CloudCity-Light/desperatereach.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Dismantle On Sight",
+	"id": "dismantleonsight",
+	"imageUrl": "img/CloudCity-Light/dismantleonsight.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Dodge",
+	"id": "dodge",
+	"imageUrl": "img/CloudCity-Light/dodge.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Fall Of The Empire",
+	"id": "falloftheempire",
+	"imageUrl": "img/CloudCity-Light/falloftheempire.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Fall Of The Legend",
+	"id": "fallofthelegend",
+	"imageUrl": "img/CloudCity-Light/fallofthelegend.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Frozen Assets",
+	"id": "frozenassets",
+	"imageUrl": "img/CloudCity-Light/frozenassets.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Gambler's Luck",
+	"id": "gamblersluck",
+	"imageUrl": "img/CloudCity-Light/gamblersluck.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Glancing Blow",
+	"id": "glancingblow",
+	"imageUrl": "img/CloudCity-Light/glancingblow.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Haven",
+	"id": "haven",
+	"imageUrl": "img/CloudCity-Light/haven.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Hero Of A Thousand Devices",
+	"id": "heroofathousanddevices",
+	"imageUrl": "img/CloudCity-Light/heroofathousanddevices.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Higher Ground",
+	"id": "higherground",
+	"imageUrl": "img/CloudCity-Light/higherground.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Hindsight",
+	"id": "hindsight",
+	"imageUrl": "img/CloudCity-Light/hindsight.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Hopping Mad",
+	"id": "hoppingmad",
+	"imageUrl": "img/CloudCity-Light/hoppingmad.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "I Don't Need Their Scum, Either",
+	"id": "idontneedtheirscumeither",
+	"imageUrl": "img/CloudCity-Light/idontneedtheirscumeither.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Impressive, Most Impressive",
+	"id": "impressivemostimpressive",
+	"imageUrl": "img/CloudCity-Light/impressivemostimpressive.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Innocent Scoundrel",
+	"id": "innocentscoundrel",
+	"imageUrl": "img/CloudCity-Light/innocentscoundrel.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Into The Ventilation Shaft, Lefty",
+	"id": "intotheventilationshaftlefty",
+	"imageUrl": "img/CloudCity-Light/intotheventilationshaftlefty.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "It's A Trap!",
+	"id": "itsatrap",
+	"imageUrl": "img/CloudCity-Light/itsatrap.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Kebyc",
+	"id": "kebyc",
+	"imageUrl": "img/CloudCity-Light/kebyc.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Keep Your Eyes Open",
+	"id": "keepyoureyesopen",
+	"imageUrl": "img/CloudCity-Light/keepyoureyesopen.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lando Calrissian",
+	"id": "landocalrissian_(ls)",
+	"imageUrl": "img/CloudCity-Light/landocalrissian.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lando's Wrist Comlink",
+	"id": "landoswristcomlink",
+	"imageUrl": "img/CloudCity-Light/landoswristcomlink.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Leia Of Alderaan",
+	"id": "leiaofalderaan",
+	"imageUrl": "img/CloudCity-Light/leiaofalderaan.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lift Tube Escape",
+	"id": "lifttubeescape",
+	"imageUrl": "img/CloudCity-Light/lifttubeescape.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lobot",
+	"id": "lobot_(ls)",
+	"imageUrl": "img/CloudCity-Light/lobot.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Luke's Blaster Pistol",
+	"id": "lukesblasterpistol",
+	"imageUrl": "img/CloudCity-Light/lukesblasterpistol.gif",
+	"type": "Weapon",
+	"set": "Cloud City"
+	},
+	{
+	"name": "NOOOOOOOOOOOO!",
+	"id": "noooooooooooo",
+	"imageUrl": "img/CloudCity-Light/noooooooooooo.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Off The Edge",
+	"id": "offtheedge",
+	"imageUrl": "img/CloudCity-Light/offtheedge.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Old Pirates",
+	"id": "oldpirates",
+	"imageUrl": "img/CloudCity-Light/oldpirates.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Out Of Somewhere",
+	"id": "outofsomewhere",
+	"imageUrl": "img/CloudCity-Light/outofsomewhere.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Path Of Least Resistance",
+	"id": "pathofleastresistance",
+	"imageUrl": "img/CloudCity-Light/pathofleastresistance.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Princess Leia",
+	"id": "princessleia",
+	"imageUrl": "img/CloudCity-Light/princessleia.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Protector",
+	"id": "protector",
+	"imageUrl": "img/CloudCity-Light/protector.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Punch It!",
+	"id": "punchit",
+	"imageUrl": "img/CloudCity-Light/punchit.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Put That Down",
+	"id": "putthatdown",
+	"imageUrl": "img/CloudCity-Light/putthatdown.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Redemption",
+	"id": "redemption",
+	"imageUrl": "img/CloudCity-Light/redemption.gif",
+	"type": "Starship",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Rendezvous Point On Tatooine",
+	"id": "rendezvouspointontatooine",
+	"imageUrl": "img/CloudCity-Light/rendezvouspointontatooine.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Rescue In The Clouds",
+	"id": "rescueintheclouds",
+	"imageUrl": "img/CloudCity-Light/rescueintheclouds.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Shocking Information",
+	"id": "shockinginformation",
+	"imageUrl": "img/CloudCity-Light/shockinginformation.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Smoke Screen",
+	"id": "smokescreen",
+	"imageUrl": "img/CloudCity-Light/smokescreen.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Somersault",
+	"id": "somersault",
+	"imageUrl": "img/CloudCity-Light/somersault.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Surreptitious Glance",
+	"id": "surreptitiousglance",
+	"imageUrl": "img/CloudCity-Light/surreptitiousglance.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Swing-And-A-Miss",
+	"id": "swingandamiss",
+	"imageUrl": "img/CloudCity-Light/swingandamiss.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "This Is Even Better",
+	"id": "thisisevenbetter",
+	"imageUrl": "img/CloudCity-Light/thisisevenbetter.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Tibanna Gas Miner",
+	"id": "tibannagasminer_(ls)",
+	"imageUrl": "img/CloudCity-Light/tibannagasminer.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Treva Horme",
+	"id": "trevahorme",
+	"imageUrl": "img/CloudCity-Light/trevahorme.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Trooper Utris M'toc",
+	"id": "trooperutrismtoc",
+	"imageUrl": "img/CloudCity-Light/trooperutrismtoc.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Uncontrollable Fury",
+	"id": "uncontrollablefury",
+	"imageUrl": "img/CloudCity-Light/uncontrollablefury.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Weather Vane",
+	"id": "weathervane_(ls)",
+	"imageUrl": "img/CloudCity-Light/weathervane.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "We'll Find Han",
+	"id": "wellfindhan",
+	"imageUrl": "img/CloudCity-Light/wellfindhan.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Wiorkettle",
+	"id": "wiorkettle",
+	"imageUrl": "img/CloudCity-Light/wiorkettle.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Wookiee Strangle",
+	"id": "wookieestrangle",
+	"imageUrl": "img/CloudCity-Light/wookieestrangle.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	}
+}

@@ -1,0 +1,464 @@
+﻿{
+	{
+	"name": "Amidala's Blaster",
+	"id": "amidalasblaster",
+	"imageUrl": "img/TheedPalace-Light/amidalasblaster.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Artoo, Brave Little Droid",
+	"id": "artoobravelittledroid",
+	"imageUrl": "img/TheedPalace-Light/artoobravelittledroid.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Artoo, Brave Little Droid (AI)",
+	"id": "artoobravelittledroidai",
+	"imageUrl": "img/TheedPalace-Light/artoobravelittledroidai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Ascension Guns",
+	"id": "ascensionguns",
+	"imageUrl": "img/TheedPalace-Light/ascensionguns.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Big Boomers!",
+	"id": "bigboomers",
+	"imageUrl": "img/TheedPalace-Light/bigboomers.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Blockade Flagship: Docking Bay",
+	"id": "blockadeflagshipdockingbay_(ls)",
+	"imageUrl": "img/TheedPalace-Light/blockadeflagshipdockingbay.gif",
+	"type": "Location",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Booma",
+	"id": "booma",
+	"imageUrl": "img/TheedPalace-Light/booma.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Boss Nass",
+	"id": "bossnass",
+	"imageUrl": "img/TheedPalace-Light/bossnass.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Boss Nass (AI)",
+	"id": "bossnassai",
+	"imageUrl": "img/TheedPalace-Light/bossnassai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bravo 1",
+	"id": "bravo1",
+	"imageUrl": "img/TheedPalace-Light/bravo1.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bravo 2",
+	"id": "bravo2",
+	"imageUrl": "img/TheedPalace-Light/bravo2.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bravo 3",
+	"id": "bravo3",
+	"imageUrl": "img/TheedPalace-Light/bravo3.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bravo 4",
+	"id": "bravo4",
+	"imageUrl": "img/TheedPalace-Light/bravo4.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bravo 5",
+	"id": "bravo5",
+	"imageUrl": "img/TheedPalace-Light/bravo5.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Bravo Fighter",
+	"id": "bravofighter",
+	"imageUrl": "img/TheedPalace-Light/bravofighter.gif",
+	"type": "Starship",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Captain Tarpals",
+	"id": "captaintarpals",
+	"imageUrl": "img/TheedPalace-Light/captaintarpals.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Captain Tarpals' Electropole",
+	"id": "captaintarpalselectropole",
+	"imageUrl": "img/TheedPalace-Light/captaintarpalselectropole.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Corporal Rushing",
+	"id": "corporalrushing",
+	"imageUrl": "img/TheedPalace-Light/corporalrushing.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Dams Denna",
+	"id": "damsdenna",
+	"imageUrl": "img/TheedPalace-Light/damsdenna.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Electropole",
+	"id": "electropole",
+	"imageUrl": "img/TheedPalace-Light/electropole.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Fambaa",
+	"id": "fambaa",
+	"imageUrl": "img/TheedPalace-Light/fambaa.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "General Jar Jar",
+	"id": "generaljarjar",
+	"imageUrl": "img/TheedPalace-Light/generaljarjar.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "General Jar Jar (AI)",
+	"id": "generaljarjarai",
+	"imageUrl": "img/TheedPalace-Light/generaljarjarai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Get To Your Ships!",
+	"id": "gettoyourships",
+	"imageUrl": "img/TheedPalace-Light/gettoyourships.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Gian Speeder",
+	"id": "gianspeeder",
+	"imageUrl": "img/TheedPalace-Light/gianspeeder.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Gimme A Lift!",
+	"id": "gimmealift",
+	"imageUrl": "img/TheedPalace-Light/gimmealift.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Gungan Energy Shield",
+	"id": "gunganenergyshield",
+	"imageUrl": "img/TheedPalace-Light/gunganenergyshield.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Gungan General",
+	"id": "gungangeneral",
+	"imageUrl": "img/TheedPalace-Light/gungangeneral.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Gungan Guard",
+	"id": "gunganguard",
+	"imageUrl": "img/TheedPalace-Light/gunganguard.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "I'll Try Spinning",
+	"id": "illtryspinning",
+	"imageUrl": "img/TheedPalace-Light/illtryspinning.gif",
+	"type": "Admiral's Order",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "It's On Automatic Pilot!",
+	"id": "itsonautomaticpilot",
+	"imageUrl": "img/TheedPalace-Light/itsonautomaticpilot.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Jerus Jannick",
+	"id": "jerusjannick",
+	"imageUrl": "img/TheedPalace-Light/jerusjannick.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Kaadu",
+	"id": "kaadu",
+	"imageUrl": "img/TheedPalace-Light/kaadu.gif",
+	"type": "Vehicle",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Let's Go Left",
+	"id": "letsgoleft",
+	"imageUrl": "img/TheedPalace-Light/letsgoleft.gif",
+	"type": "Admiral's Order",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Lieutenant Arven Wendik",
+	"id": "lieutenantarvenwendik",
+	"imageUrl": "img/TheedPalace-Light/lieutenantarvenwendik.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Lieutenant Chamberlyn",
+	"id": "lieutenantchamberlyn",
+	"imageUrl": "img/TheedPalace-Light/lieutenantchamberlyn.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Lieutenant Rya Kirsch",
+	"id": "lieutenantryakirsch",
+	"imageUrl": "img/TheedPalace-Light/lieutenantryakirsch.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Mace Windu, Jedi Master",
+	"id": "macewindujedimaster",
+	"imageUrl": "img/TheedPalace-Light/macewindujedimaster.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Mace Windu, Jedi Master (AI)",
+	"id": "macewindujedimasterai",
+	"imageUrl": "img/TheedPalace-Light/macewindujedimasterai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Naboo Celebration",
+	"id": "naboocelebration",
+	"imageUrl": "img/TheedPalace-Light/naboocelebration.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Naboo: Boss Nass' Chambers",
+	"id": "naboobossnassschambers",
+	"imageUrl": "img/TheedPalace-Light/naboobossnassschambers.gif",
+	"type": "Location",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Naboo: Otoh Gunga Entrance",
+	"id": "naboootohgungaentrance",
+	"imageUrl": "img/TheedPalace-Light/naboootohgungaentrance.gif",
+	"type": "Location",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Naboo: Theed Palace Hallway",
+	"id": "nabootheedpalacehallway_(ls)",
+	"imageUrl": "img/TheedPalace-Light/nabootheedpalacehallway.gif",
+	"type": "Location",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "No Giben Up, General Jar Jar!",
+	"id": "nogibenupgeneraljarjar",
+	"imageUrl": "img/TheedPalace-Light/nogibenupgeneraljarjar.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Officer Dolphe",
+	"id": "officerdolphe",
+	"imageUrl": "img/TheedPalace-Light/officerdolphe.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Officer Ellberger",
+	"id": "officerellberger",
+	"imageUrl": "img/TheedPalace-Light/officerellberger.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Officer Perosei",
+	"id": "officerperosei",
+	"imageUrl": "img/TheedPalace-Light/officerperosei.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Panaka, Protector Of The Queen",
+	"id": "panakaprotectorofthequeen",
+	"imageUrl": "img/TheedPalace-Light/panakaprotectorofthequeen.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Panaka, Protector Of The Queen (AI)",
+	"id": "panakaprotectorofthequeenai",
+	"imageUrl": "img/TheedPalace-Light/panakaprotectorofthequeenai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Proton Torpedoes",
+	"id": "protontorpedoes_(theed palace)",
+	"imageUrl": "img/TheedPalace-Light/protontorpedoes.gif",
+	"type": "Weapon",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Queen Amidala",
+	"id": "queenamidala",
+	"imageUrl": "img/TheedPalace-Light/queenamidala.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Queen Amidala (AI)",
+	"id": "queenamidalaai",
+	"imageUrl": "img/TheedPalace-Light/queenamidalaai.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Qui-Gon Jinn With Lightsaber",
+	"id": "quigonjinnwithlightsaber",
+	"imageUrl": "img/TheedPalace-Light/quigonjinnwithlightsaber.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Rep Been",
+	"id": "repbeen",
+	"imageUrl": "img/TheedPalace-Light/repbeen.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Ric Olie, Bravo Leader",
+	"id": "ricoliebravoleader",
+	"imageUrl": "img/TheedPalace-Light/ricoliebravoleader.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Royal Naboo Security Officer",
+	"id": "royalnaboosecurityofficer",
+	"imageUrl": "img/TheedPalace-Light/royalnaboosecurityofficer.gif",
+	"type": "Character",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Senate Hovercam",
+	"id": "senatehovercam_(ls)",
+	"imageUrl": "img/TheedPalace-Light/senatehovercam.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Steady, Steady",
+	"id": "steadysteady",
+	"imageUrl": "img/TheedPalace-Light/steadysteady.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Take This!",
+	"id": "takethis",
+	"imageUrl": "img/TheedPalace-Light/takethis.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "They Win This Round",
+	"id": "theywinthisround",
+	"imageUrl": "img/TheedPalace-Light/theywinthisround.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "We Didn't Hit It",
+	"id": "wedidnthitit",
+	"imageUrl": "img/TheedPalace-Light/wedidnthitit.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "We Don't Have Time For This",
+	"id": "wedonthavetimeforthis",
+	"imageUrl": "img/TheedPalace-Light/wedonthavetimeforthis.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "We Have A Plan / They Will Be Lost And Confused",
+	"id": "wehaveaplan",
+	"imageUrl": "img/starwars/TheedPalace-Light/wehaveaplan/theywillbelostandconfused.gif",
+	"type": "Objective",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Wesa Gotta Grand Army",
+	"id": "wesagottagrandarmy",
+	"imageUrl": "img/TheedPalace-Light/wesagottagrandarmy.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Wesa Ready To Do Our-sa Part",
+	"id": "wesareadytodooursapart",
+	"imageUrl": "img/TheedPalace-Light/wesareadytodooursapart.gif",
+	"type": "Effect",
+	"set": "Theed Palace"
+	},
+	{
+	"name": "Whoooo!",
+	"id": "whoooo",
+	"imageUrl": "img/TheedPalace-Light/whoooo.gif",
+	"type": "Interrupt",
+	"set": "Theed Palace"
+	}
+}

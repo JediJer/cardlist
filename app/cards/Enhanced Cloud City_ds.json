@@ -1,0 +1,51 @@
+﻿{
+	{
+	"name": "4-LOM With Concussion Rifle",
+	"id": "4lomwithconcussionrifle",
+	"imageUrl": "img/EnhancedCloudCity-Dark/4lomwithconcussionrifle.gif",
+	"type": "Character",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Any Methods Necessary",
+	"id": "anymethodsnecessary",
+	"imageUrl": "img/EnhancedCloudCity-Dark/anymethodsnecessary.gif",
+	"type": "Interrupt",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Boba Fett In Slave I",
+	"id": "bobafettinslavei",
+	"imageUrl": "img/EnhancedCloudCity-Dark/bobafettinslavei.gif",
+	"type": "Starship",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Crush The Rebellion",
+	"id": "crushtherebellion",
+	"imageUrl": "img/EnhancedCloudCity-Dark/crushtherebellion.gif",
+	"type": "Effect",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Dengar In Punishing One",
+	"id": "dengarinpunishingone",
+	"imageUrl": "img/EnhancedCloudCity-Dark/dengarinpunishingone.gif",
+	"type": "Starship",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "IG-88 With Riot Gun",
+	"id": "ig88withriotgun",
+	"imageUrl": "img/EnhancedCloudCity-Dark/ig88withriotgun.gif",
+	"type": "Character",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "This Deal Is Getting Worse All The Time / Pray I Don't Alter It Any Further",
+	"id": "thisdealisgettingworseallthetime",
+	"imageUrl": "img/starwars/EnhancedCloudCity-Dark/thisdealisgettingworseallthetime/prayidontalteritanyfurther.gif",
+	"type": "Objective",
+	"set": "Enhanced Cloud City"
+	}
+}

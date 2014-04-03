@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "A280 Sharpshooter Rifle",
+	"id": "a280sharpshooterrifle",
+	"imageUrl": "img/Endor-Light/a280sharpshooterrifle.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Aim High",
+	"id": "aimhigh",
+	"imageUrl": "img/Endor-Light/aimhigh.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Battle Plan",
+	"id": "battleplan",
+	"imageUrl": "img/Endor-Light/battleplan.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "BlasTech E-11B Blaster Rifle",
+	"id": "blasteche11bblasterrifle",
+	"imageUrl": "img/Endor-Light/blasteche11bblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Captain Yutani",
+	"id": "captainyutani",
+	"imageUrl": "img/Endor-Light/captainyutani.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Careful Planning",
+	"id": "carefulplanning",
+	"imageUrl": "img/Endor-Light/carefulplanning.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Chandrila",
+	"id": "chandrila",
+	"imageUrl": "img/Endor-Light/chandrila.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Chewbacca Of Kashyyyk",
+	"id": "chewbaccaofkashyyyk",
+	"imageUrl": "img/Endor-Light/chewbaccaofkashyyyk.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Chewbacca's Bowcaster",
+	"id": "chewbaccasbowcaster",
+	"imageUrl": "img/Endor-Light/chewbaccasbowcaster.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Chewie's AT-ST",
+	"id": "chewiesatst",
+	"imageUrl": "img/Endor-Light/chewiesatst.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Chief Chirpa",
+	"id": "chiefchirpa",
+	"imageUrl": "img/Endor-Light/chiefchirpa.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Commando Training",
+	"id": "commandotraining",
+	"imageUrl": "img/Endor-Light/commandotraining.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Beezer",
+	"id": "corporalbeezer",
+	"imageUrl": "img/Endor-Light/corporalbeezer.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Delevar",
+	"id": "corporaldelevar",
+	"imageUrl": "img/Endor-Light/corporaldelevar.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Janse",
+	"id": "corporaljanse",
+	"imageUrl": "img/Endor-Light/corporaljanse.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Corporal Kensaric",
+	"id": "corporalkensaric",
+	"imageUrl": "img/Endor-Light/corporalkensaric.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Count Me In",
+	"id": "countmein",
+	"imageUrl": "img/Endor-Light/countmein.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Covert Landing",
+	"id": "covertlanding",
+	"imageUrl": "img/Endor-Light/covertlanding.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Daughter Of Skywalker",
+	"id": "daughterofskywalker",
+	"imageUrl": "img/Endor-Light/daughterofskywalker.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Deactivate The Shield Generator",
+	"id": "deactivatetheshieldgenerator",
+	"imageUrl": "img/Endor-Light/deactivatetheshieldgenerator.gif",
+	"type": "Epic Event",
+	"set": "Endor"
+	},
+	{
+	"name": "Dresselian Commando",
+	"id": "dresseliancommando",
+	"imageUrl": "img/Endor-Light/dresseliancommando.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor",
+	"id": "endor_(ls)",
+	"imageUrl": "img/Endor-Light/endor.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor Celebration",
+	"id": "endorcelebration",
+	"imageUrl": "img/Endor-Light/endorcelebration.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor Scout Trooper",
+	"id": "endorscouttrooper",
+	"imageUrl": "img/Endor-Light/endorscouttrooper.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Back Door",
+	"id": "endorbackdoor_(ls)",
+	"imageUrl": "img/Endor-Light/endorbackdoor.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Bunker",
+	"id": "endorbunker_(ls)",
+	"imageUrl": "img/Endor-Light/endorbunker.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Chief Chirpa's Hut",
+	"id": "endorchiefchirpashut",
+	"imageUrl": "img/Endor-Light/endorchiefchirpashut.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Dense Forest",
+	"id": "endordenseforest_(ls)",
+	"imageUrl": "img/Endor-Light/endordenseforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Ewok Village",
+	"id": "endorewokvillage_(ls)",
+	"imageUrl": "img/Endor-Light/endorewokvillage.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Great Forest",
+	"id": "endorgreatforest_(ls)",
+	"imageUrl": "img/Endor-Light/endorgreatforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Hidden Forest Trail",
+	"id": "endorhiddenforesttrail",
+	"imageUrl": "img/Endor-Light/endorhiddenforesttrail.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Landing Platform (Docking Bay)",
+	"id": "endorlandingplatformdockingbay_(ls)",
+	"imageUrl": "img/Endor-Light/endorlandingplatformdockingbay.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Endor: Rebel Landing Site (Forest)",
+	"id": "endorrebellandingsiteforest",
+	"imageUrl": "img/Endor-Light/endorrebellandingsiteforest.gif",
+	"type": "Location",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok And Roll",
+	"id": "ewokandroll",
+	"imageUrl": "img/Endor-Light/ewokandroll.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Bow",
+	"id": "ewokbow",
+	"imageUrl": "img/Endor-Light/ewokbow.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Catapult",
+	"id": "ewokcatapult",
+	"imageUrl": "img/Endor-Light/ewokcatapult.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Glider",
+	"id": "ewokglider",
+	"imageUrl": "img/Endor-Light/ewokglider.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Log Jam",
+	"id": "ewoklogjam",
+	"imageUrl": "img/Endor-Light/ewoklogjam.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Rescue",
+	"id": "ewokrescue",
+	"imageUrl": "img/Endor-Light/ewokrescue.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Sentry",
+	"id": "ewoksentry",
+	"imageUrl": "img/Endor-Light/ewoksentry.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Spear",
+	"id": "ewokspear",
+	"imageUrl": "img/Endor-Light/ewokspear.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Spearman",
+	"id": "ewokspearman",
+	"imageUrl": "img/Endor-Light/ewokspearman.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Ewok Tribesman",
+	"id": "ewoktribesman",
+	"imageUrl": "img/Endor-Light/ewoktribesman.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Explosive Charge",
+	"id": "explosivecharge",
+	"imageUrl": "img/Endor-Light/explosivecharge.gif",
+	"type": "Weapon",
+	"set": "Endor"
+	},
+	{
+	"name": "Firefight",
+	"id": "firefight",
+	"imageUrl": "img/Endor-Light/firefight.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Fly Casual",
+	"id": "flycasual",
+	"imageUrl": "img/Endor-Light/flycasual.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Free Ride",
+	"id": "freeride",
+	"imageUrl": "img/Endor-Light/freeride.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "General Crix Madine",
+	"id": "generalcrixmadine",
+	"imageUrl": "img/Endor-Light/generalcrixmadine.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "General Solo",
+	"id": "generalsolo",
+	"imageUrl": "img/Endor-Light/generalsolo.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Get Alongside That One",
+	"id": "getalongsidethatone",
+	"imageUrl": "img/Endor-Light/getalongsidethatone.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Graak",
+	"id": "graak",
+	"imageUrl": "img/Endor-Light/graak.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Here We Go Again",
+	"id": "herewegoagain",
+	"imageUrl": "img/Endor-Light/herewegoagain.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "I Have A Really Bad Feeling About This",
+	"id": "ihaveareallybadfeelingaboutthis",
+	"imageUrl": "img/Endor-Light/ihaveareallybadfeelingaboutthis.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "I Hope She's All Right",
+	"id": "ihopeshesallright",
+	"imageUrl": "img/Endor-Light/ihopeshesallright.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "I Know",
+	"id": "iknow",
+	"imageUrl": "img/Endor-Light/iknow.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "I Wonder Who They Found",
+	"id": "iwonderwhotheyfound",
+	"imageUrl": "img/Endor-Light/iwonderwhotheyfound.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Insurrection",
+	"id": "insurrection",
+	"imageUrl": "img/Endor-Light/insurrection.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Kazak",
+	"id": "kazak",
+	"imageUrl": "img/Endor-Light/kazak.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Lieutenant Greeve",
+	"id": "lieutenantgreeve",
+	"imageUrl": "img/Endor-Light/lieutenantgreeve.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Lieutenant Page",
+	"id": "lieutenantpage",
+	"imageUrl": "img/Endor-Light/lieutenantpage.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Logray",
+	"id": "logray",
+	"imageUrl": "img/Endor-Light/logray.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Lost In The Wilderness",
+	"id": "lostinthewilderness",
+	"imageUrl": "img/Endor-Light/lostinthewilderness.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Lumat",
+	"id": "lumat",
+	"imageUrl": "img/Endor-Light/lumat.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Mon Mothma",
+	"id": "monmothma",
+	"imageUrl": "img/Endor-Light/monmothma.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Orrimaarko",
+	"id": "orrimaarko",
+	"imageUrl": "img/Endor-Light/orrimaarko.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Paploo",
+	"id": "paploo",
+	"imageUrl": "img/Endor-Light/paploo.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Rabin",
+	"id": "rabin",
+	"imageUrl": "img/Endor-Light/rabin.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Rapid Deployment",
+	"id": "rapiddeployment",
+	"imageUrl": "img/Endor-Light/rapiddeployment.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Rebel Strike Team / Garrison Destroyed",
+	"id": "rebelstriketeam",
+	"imageUrl": "img/starwars/Endor-Light/rebelstriketeam/garrisondestroyed.gif",
+	"type": "Objective",
+	"set": "Endor"
+	},
+	{
+	"name": "Romba",
+	"id": "romba",
+	"imageUrl": "img/Endor-Light/romba.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Brooks Carlson",
+	"id": "sergeantbrookscarlson",
+	"imageUrl": "img/Endor-Light/sergeantbrookscarlson.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Bruckman",
+	"id": "sergeantbruckman",
+	"imageUrl": "img/Endor-Light/sergeantbruckman.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sergeant Junkin",
+	"id": "sergeantjunkin",
+	"imageUrl": "img/Endor-Light/sergeantjunkin.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Sound The Attack",
+	"id": "soundtheattack",
+	"imageUrl": "img/Endor-Light/soundtheattack.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Speeder Bike",
+	"id": "speederbike_(ls)",
+	"imageUrl": "img/Endor-Light/speederbike.gif",
+	"type": "Vehicle",
+	"set": "Endor"
+	},
+	{
+	"name": "Surprise Counter Assault",
+	"id": "surprisecounterassault",
+	"imageUrl": "img/Endor-Light/surprisecounterassault.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Take The Initiative",
+	"id": "taketheinitiative",
+	"imageUrl": "img/Endor-Light/taketheinitiative.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Teebo",
+	"id": "teebo",
+	"imageUrl": "img/Endor-Light/teebo.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "That's One",
+	"id": "thatsone",
+	"imageUrl": "img/Endor-Light/thatsone.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "This Is Absolutely Right",
+	"id": "thisisabsolutelyright",
+	"imageUrl": "img/Endor-Light/thisisabsolutelyright.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Threepio",
+	"id": "threepio",
+	"imageUrl": "img/Endor-Light/threepio.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Throw Me Another Charge",
+	"id": "throwmeanothercharge",
+	"imageUrl": "img/Endor-Light/throwmeanothercharge.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Tydirium",
+	"id": "tydirium",
+	"imageUrl": "img/Endor-Light/tydirium.gif",
+	"type": "Starship",
+	"set": "Endor"
+	},
+	{
+	"name": "Were You Looking For Me?",
+	"id": "wereyoulookingforme",
+	"imageUrl": "img/Endor-Light/wereyoulookingforme.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Wicket",
+	"id": "wicket",
+	"imageUrl": "img/Endor-Light/wicket.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "Wokling",
+	"id": "wokling",
+	"imageUrl": "img/Endor-Light/wokling.gif",
+	"type": "Effect",
+	"set": "Endor"
+	},
+	{
+	"name": "Wookiee Guide",
+	"id": "wookieeguide",
+	"imageUrl": "img/Endor-Light/wookieeguide.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	},
+	{
+	"name": "Wuta",
+	"id": "wuta",
+	"imageUrl": "img/Endor-Light/wuta.gif",
+	"type": "Character",
+	"set": "Endor"
+	},
+	{
+	"name": "YT-1300 Transport",
+	"id": "yt1300transport",
+	"imageUrl": "img/Endor-Light/yt1300transport.gif",
+	"type": "Starship",
+	"set": "Endor"
+	},
+	{
+	"name": "Yub Yub!",
+	"id": "yubyub",
+	"imageUrl": "img/Endor-Light/yubyub.gif",
+	"type": "Interrupt",
+	"set": "Endor"
+	}
+}

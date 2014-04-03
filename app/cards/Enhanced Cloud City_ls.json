@@ -1,0 +1,37 @@
+﻿{
+	{
+	"name": "Chewie With Blaster Rifle",
+	"id": "chewiewithblasterrifle",
+	"imageUrl": "img/EnhancedCloudCity-Light/chewiewithblasterrifle.gif",
+	"type": "Character",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Lando In Millennium Falcon",
+	"id": "landoinmillenniumfalcon",
+	"imageUrl": "img/EnhancedCloudCity-Light/landoinmillenniumfalcon.gif",
+	"type": "Starship",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Lando With Blaster Pistol",
+	"id": "landowithblasterpistol",
+	"imageUrl": "img/EnhancedCloudCity-Light/landowithblasterpistol.gif",
+	"type": "Character",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Quiet Mining Colony / Independent Operation",
+	"id": "quietminingcolony",
+	"imageUrl": "img/starwars/EnhancedCloudCity-Light/quietminingcolony/independentoperation.gif",
+	"type": "Objective",
+	"set": "Enhanced Cloud City"
+	},
+	{
+	"name": "Z-95 Bespin Defense Fighter",
+	"id": "z95bespindefensefighter",
+	"imageUrl": "img/EnhancedCloudCity-Light/z95bespindefensefighter.gif",
+	"type": "Starship",
+	"set": "Enhanced Cloud City"
+	}
+}

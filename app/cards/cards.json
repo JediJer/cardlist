@@ -1,0 +1,98 @@
+[
+	{
+  	"name": "2X-3KPR (Tooex)",
+	"id": "2x3kpr",
+    "imageUrl": "img/Premiere-Light/2x3kpr.gif",
+    "type": "Character",
+    "set": "Premiere",
+		"side": "Light"
+  },
+	{
+  	"name": "A Few Maneuvers",
+	"id": "afewmaneuvers",
+    "imageUrl": "img/Premiere-Light/afewmaneuvers.gif",
+    "type": "Interrupt",
+    "set": "Premiere",
+		"side": "Light"		
+  },
+	{
+  	"name": "A Tremor In The Force",
+	"id": "atremorintheforce",
+    "imageUrl": "img/Premiere-Light/atremorintheforce.gif",
+    "type": "Effect",
+    "set": "Premiere",
+		"side": "Light"
+  },
+	{
+  	"name": "Affect Mind",
+	"id": "affectmind",
+    "imageUrl": "img/Premiere-Light/affectmind.gif",
+    "type": "Effect",
+    "set": "Premiere",
+		"side": "Light"
+  },
+	{
+  	"name": "Alderaan",
+	"id": "alderaan-ls",
+    "imageUrl": "img/Premiere-Light/alderaan.gif",
+    "type": "Location",
+    "set": "Premiere",
+		"side": "Light"
+  },
+	{
+  	"name": "Alter",
+	"id": "alter-ls",
+    "imageUrl": "img/Premiere-Light/alter.gif",
+    "type": "Interrupt",
+    "set": "Premiere",
+		"side": "Light"
+  },
+	{
+  	"name": "5D6-RA-7",
+	"id": "5d6ra7",
+    "imageUrl": "img/Premiere-Dark/5d6ra7.gif",
+    "type": "Character",
+    "set": "Premiere",
+		"side": "Dark"
+  },
+	{
+  	"name": "A Disturbance In The Force",
+	"id": "adisturbanceintheforce",
+    "imageUrl": "img/Premiere-Dark/adisturbanceintheforce.gif",
+    "type": "Effect",
+    "set": "Premiere",
+		"side": "Dark"
+  },
+	{
+  	"name": "Admiral Motti",
+	"id": "admiralmotti",
+    "imageUrl": "img/Premiere-Dark/admiralmotti.gif",
+    "type": "Character",
+    "set": "Premiere",
+		"side": "Dark"
+  },
+	{
+  	"name": "Alderaan",
+	"id": "alderaan-ds",
+    "imageUrl": "img/Premiere-Dark/alderaan.gif",
+    "type": "Location",
+    "set": "Premiere",
+		"side": "Dark"
+  },
+	{
+  	"name": "Alter",
+	"id": "alter-ds",
+    "imageUrl": "img/Premiere-Dark/alter.gif",
+    "type": "Effect",
+    "set": "Premiere",
+		"side": "Dark"
+  },
+	{
+  	"name": "Assault Rifle",
+	"id": "assaultrifle",
+    "imageUrl": "img/Premiere-Dark/assaultrifle.gif",
+    "type": "Weapon",
+    "set": "Premiere",
+		"side": "Dark"
+  }
+]

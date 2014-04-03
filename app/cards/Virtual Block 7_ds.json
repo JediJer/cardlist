@@ -1,0 +1,534 @@
+﻿{
+	{
+	"name": "5D6-RA-7 (Fivedesix) (V)",
+	"id": "5d6ra7-v",
+	"imageUrl": "img/Virtual7-Dark/5d6ra7.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "A Dark Time For The Rebellion (V)",
+	"id": "adarktimefortherebellion-v",
+	"imageUrl": "img/Virtual7-Dark/adarktimefortherebellion.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "A Sith's Weapon",
+	"id": "asithsweapon",
+	"imageUrl": "img/Virtual7-Dark/asithsweapon.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "A Stunning Move / A Valuable Hostage",
+	"id": "astunningmove",
+	"imageUrl": "img/starwars/Virtual7-Dark/astunningmove/avaluablehostage.gif",
+	"type": "Objective",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "According To My Design",
+	"id": "accordingtomydesign",
+	"imageUrl": "img/Virtual7-Dark/accordingtomydesign.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Admiral Pellaeon",
+	"id": "admiralpellaeon",
+	"imageUrl": "img/Virtual7-Dark/admiralpellaeon.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Alter (Coruscant) (V)",
+	"id": "altercoruscant_(ds)-v",
+	"imageUrl": "img/Virtual7-Dark/altercoruscant.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Alter (Premiere) (V)",
+	"id": "alterpremiere_(ds)-v",
+	"imageUrl": "img/Virtual7-Dark/alterpremiere.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Baktoid Armor Workshop",
+	"id": "baktoidarmorworkshop",
+	"imageUrl": "img/Virtual7-Dark/baktoidarmorworkshop.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Battle Droid Squad",
+	"id": "battledroidsquad",
+	"imageUrl": "img/Virtual7-Dark/battledroidsquad.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Black 5",
+	"id": "black5",
+	"imageUrl": "img/Virtual7-Dark/black5.gif",
+	"type": "Starship",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Blockade Flagship (V)",
+	"id": "blockadeflagship-v",
+	"imageUrl": "img/Virtual7-Dark/blockadeflagship.gif",
+	"type": "Starship",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Combat Response (V)",
+	"id": "combatresponse-v",
+	"imageUrl": "img/Virtual7-Dark/combatresponse.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Commence Primary Ignition (V)",
+	"id": "commenceprimaryignition-v",
+	"imageUrl": "img/Virtual7-Dark/commenceprimaryignition.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Corulag: ISB Logistics Office",
+	"id": "corulagisblogisticsoffice",
+	"imageUrl": "img/Virtual7-Dark/corulagisblogisticsoffice.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Coruscant: Palpatine's Quarters",
+	"id": "coruscantpalpatinesquarters",
+	"imageUrl": "img/Virtual7-Dark/coruscantpalpatinesquarters.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Coruscant: Private Platform (Docking Bay)",
+	"id": "coruscantprivateplatformdockingbay",
+	"imageUrl": "img/Virtual7-Dark/coruscantprivateplatformdockingbay.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Dark Collaboration (V)",
+	"id": "darkcollaboration-v",
+	"imageUrl": "img/Virtual7-Dark/darkcollaboration.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Darth Vader, More Machine Than Man",
+	"id": "darthvadermoremachinethanman",
+	"imageUrl": "img/Virtual7-Dark/darthvadermoremachinethanman.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Death Star: Central Core (V)",
+	"id": "deathstarcentralcore-v",
+	"imageUrl": "img/Virtual7-Dark/deathstarcentralcore.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Death Star: War Room (V)",
+	"id": "deathstarwarroom-v",
+	"imageUrl": "img/Virtual7-Dark/deathstarwarroom.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Dengar With Blaster Carbine (V)",
+	"id": "dengarwithblastercarbine-v",
+	"imageUrl": "img/Virtual7-Dark/dengarwithblastercarbine.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Desperate Counter (V)",
+	"id": "desperatecounter-v",
+	"imageUrl": "img/Virtual7-Dark/desperatecounter.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "DS-61-5",
+	"id": "ds615",
+	"imageUrl": "img/Virtual7-Dark/ds615.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Elis in Hinthra",
+	"id": "elisinhinthra",
+	"imageUrl": "img/Virtual7-Dark/elisinhinthra.gif",
+	"type": "Starship",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Evacuate? (V)",
+	"id": "evacuate-v",
+	"imageUrl": "img/Virtual7-Dark/evacuate.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Galactic Domination",
+	"id": "galacticdomination",
+	"imageUrl": "img/Virtual7-Dark/galacticdomination.gif",
+	"type": "Mission",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Gardulla the Hutt (V)",
+	"id": "gardullathehutt-v",
+	"imageUrl": "img/Virtual7-Dark/gardullathehutt.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Garindan (V)",
+	"id": "garindan-v",
+	"imageUrl": "img/Virtual7-Dark/garindan.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "General Nevar",
+	"id": "generalnevar",
+	"imageUrl": "img/Virtual7-Dark/generalnevar.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Grand Moff Tarkin (V)",
+	"id": "grandmofftarkin-v",
+	"imageUrl": "img/Virtual7-Dark/grandmofftarkin.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Grievous' Lightsabers",
+	"id": "grievouslightsabers",
+	"imageUrl": "img/Virtual7-Dark/grievouslightsabers.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Grievous, Hunter Of Jedi",
+	"id": "grievoushunterofjedi",
+	"imageUrl": "img/Virtual7-Dark/grievoushunterofjedi.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "I Want Every Part Of This Ship Checked",
+	"id": "iwanteverypartofthisshipchecked",
+	"imageUrl": "img/Virtual7-Dark/iwanteverypartofthisshipchecked.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "IG-100 MagnaGuard",
+	"id": "ig100magnaguard",
+	"imageUrl": "img/Virtual7-Dark/ig100magnaguard.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "I'll Take Them Myself",
+	"id": "illtakethemmyself",
+	"imageUrl": "img/Virtual7-Dark/illtakethemmyself.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Imperial Aces",
+	"id": "imperialaces",
+	"imageUrl": "img/Virtual7-Dark/imperialaces.gif",
+	"type": "Mission",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Imperial Security Bureau",
+	"id": "imperialsecuritybureau",
+	"imageUrl": "img/Virtual7-Dark/imperialsecuritybureau.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Imperial Stockpile",
+	"id": "imperialstockpile",
+	"imageUrl": "img/Virtual7-Dark/imperialstockpile.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "In The Hands Of The ISB",
+	"id": "inthehandsoftheisb",
+	"imageUrl": "img/Virtual7-Dark/inthehandsoftheisb.gif",
+	"type": "Mission",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Insidious Prisoner",
+	"id": "insidiousprisoner",
+	"imageUrl": "img/Virtual7-Dark/insidiousprisoner.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "ISB Central Commander",
+	"id": "isbcentralcommander",
+	"imageUrl": "img/Virtual7-Dark/isbcentralcommander.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "ISB Sector Commander",
+	"id": "isbsectorcommander",
+	"imageUrl": "img/Virtual7-Dark/isbsectorcommander.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Jabba's Haven",
+	"id": "jabbashaven",
+	"imageUrl": "img/Virtual7-Dark/jabbashaven.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Kashyyyk: Forest Maze",
+	"id": "kashyyykforestmaze",
+	"imageUrl": "img/Virtual7-Dark/kashyyykforestmaze.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Kashyyyk: Slaving Camp Headquarters",
+	"id": "kashyyykslavingcampheadquarters",
+	"imageUrl": "img/Virtual7-Dark/kashyyykslavingcampheadquarters.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Kessel Surveillance System",
+	"id": "kesselsurveillancesystem",
+	"imageUrl": "img/Virtual7-Dark/kesselsurveillancesystem.gif",
+	"type": "Device",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Kessel: Spice Mines - Administrator's Office",
+	"id": "kesselspiceminesadministratorsoffice",
+	"imageUrl": "img/Virtual7-Dark/kesselspiceminesadministratorsoffice.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Mercenary Slavers",
+	"id": "mercenaryslavers",
+	"imageUrl": "img/Virtual7-Dark/mercenaryslavers.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Moruth Doole, Kessel Administrator",
+	"id": "moruthdoolekesseladministrator",
+	"imageUrl": "img/Virtual7-Dark/moruthdoolekesseladministrator.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Occupied Territory",
+	"id": "occupiedterritory",
+	"imageUrl": "img/Virtual7-Dark/occupiedterritory.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "OOM Command Battle Droid",
+	"id": "oomcommandbattledroid",
+	"imageUrl": "img/Virtual7-Dark/oomcommandbattledroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Prepared Defenses (V)",
+	"id": "prepareddefenses-v",
+	"imageUrl": "img/Virtual7-Dark/prepareddefenses.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rise Of The Dark Lord",
+	"id": "riseofthedarklord",
+	"imageUrl": "img/Virtual7-Dark/riseofthedarklord.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Saber Squadron Pilot",
+	"id": "sabersquadronpilot",
+	"imageUrl": "img/Virtual7-Dark/sabersquadronpilot.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Saber Squadron TIE",
+	"id": "sabersquadrontie",
+	"imageUrl": "img/Virtual7-Dark/sabersquadrontie.gif",
+	"type": "Starship",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Sergeant Irol (V)",
+	"id": "sergeantirol-v",
+	"imageUrl": "img/Virtual7-Dark/sergeantirol.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Sergeant Torent (V)",
+	"id": "sergeanttorent-v",
+	"imageUrl": "img/Virtual7-Dark/sergeanttorent.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Shadows Of The Empire",
+	"id": "shadowsoftheempire",
+	"imageUrl": "img/Virtual7-Dark/shadowsoftheempire.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Sidious' Lightsaber",
+	"id": "sidiouslightsaber",
+	"imageUrl": "img/Virtual7-Dark/sidiouslightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Spice Mine Operations",
+	"id": "spicemineoperations",
+	"imageUrl": "img/Virtual7-Dark/spicemineoperations.gif",
+	"type": "Mission",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Sy Snootles (V)",
+	"id": "sysnootles-v",
+	"imageUrl": "img/Virtual7-Dark/sysnootles.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Tibanna Floating Refinery",
+	"id": "tibannafloatingrefinery",
+	"imageUrl": "img/Virtual7-Dark/tibannafloatingrefinery.gif",
+	"type": "Device",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Trophy Of A Bounty Hunter",
+	"id": "trophyofabountyhunter",
+	"imageUrl": "img/Virtual7-Dark/trophyofabountyhunter.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Trophy Of A Kill",
+	"id": "trophyofakill",
+	"imageUrl": "img/Virtual7-Dark/trophyofakill.gif",
+	"type": "Device",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Vader's Bionic Limbs",
+	"id": "vadersbioniclimbs",
+	"imageUrl": "img/Virtual7-Dark/vadersbioniclimbs.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Vader's Cape (V)",
+	"id": "vaderscape-v",
+	"imageUrl": "img/Virtual7-Dark/vaderscape.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Vader's Cybernetic Enhancements",
+	"id": "vaderscyberneticenhancements",
+	"imageUrl": "img/Virtual7-Dark/vaderscyberneticenhancements.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Vader's Helmet",
+	"id": "vadershelmet",
+	"imageUrl": "img/Virtual7-Dark/vadershelmet.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Vader's Mask",
+	"id": "vadersmask",
+	"imageUrl": "img/Virtual7-Dark/vadersmask.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Velken Tezeri (V)",
+	"id": "velkentezeri-v",
+	"imageUrl": "img/Virtual7-Dark/velkentezeri.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Victory",
+	"id": "victory",
+	"imageUrl": "img/Virtual7-Dark/victory.gif",
+	"type": "Starship",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Where Are You Taking Them?",
+	"id": "whereareyoutakingthem",
+	"imageUrl": "img/Virtual7-Dark/whereareyoutakingthem.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Where Are You Taking This ... Thing?",
+	"id": "whereareyoutakingthisthing",
+	"imageUrl": "img/Virtual7-Dark/whereareyoutakingthisthing.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Your Powers Are Weak, Old Man (V)",
+	"id": "yourpowersareweakoldman-v",
+	"imageUrl": "img/Virtual7-Dark/yourpowersareweakoldman.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Ysanne Isard",
+	"id": "ysanneisard",
+	"imageUrl": "img/Virtual7-Dark/ysanneisard.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	}
+}

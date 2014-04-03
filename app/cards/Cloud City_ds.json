@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "Ability, Ability, Ability",
+	"id": "abilityabilityability",
+	"imageUrl": "img/CloudCity-Dark/abilityabilityability.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Abyss",
+	"id": "abyss",
+	"imageUrl": "img/CloudCity-Dark/abyss.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Aiiii! Aaa! Agggggggggg!",
+	"id": "aiiiiaaaagggggggggg",
+	"imageUrl": "img/CloudCity-Dark/aiiiiaaaagggggggggg.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "All Too Easy",
+	"id": "alltooeasy",
+	"imageUrl": "img/CloudCity-Dark/alltooeasy.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Atmospheric Assault",
+	"id": "atmosphericassault",
+	"imageUrl": "img/CloudCity-Dark/atmosphericassault.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bespin",
+	"id": "bespin_(ds)",
+	"imageUrl": "img/CloudCity-Dark/bespin.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bespin: Cloud City",
+	"id": "bespincloudcity_(ds)",
+	"imageUrl": "img/CloudCity-Dark/bespincloudcity.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Binders",
+	"id": "binders",
+	"imageUrl": "img/CloudCity-Dark/binders.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Blasted Droid",
+	"id": "blasteddroid",
+	"imageUrl": "img/CloudCity-Dark/blasteddroid.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Boba Fett",
+	"id": "bobafett_(cloud city)",
+	"imageUrl": "img/CloudCity-Dark/bobafett.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Boba Fett's Blaster Rifle",
+	"id": "bobafettsblasterrifle",
+	"imageUrl": "img/CloudCity-Dark/bobafettsblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Bounty",
+	"id": "bounty",
+	"imageUrl": "img/CloudCity-Dark/bounty.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Brief Loss Of Control",
+	"id": "brieflossofcontrol",
+	"imageUrl": "img/CloudCity-Dark/brieflossofcontrol.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Captain Bewil",
+	"id": "captainbewil",
+	"imageUrl": "img/CloudCity-Dark/captainbewil.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Carbon-Freezing",
+	"id": "carbonfreezing",
+	"imageUrl": "img/CloudCity-Dark/carbonfreezing.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Carbonite Chamber Console",
+	"id": "carbonitechamberconsole",
+	"imageUrl": "img/CloudCity-Dark/carbonitechamberconsole.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Chief Retwin",
+	"id": "chiefretwin",
+	"imageUrl": "img/CloudCity-Dark/chiefretwin.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud Car",
+	"id": "cloudcar_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcar.gif",
+	"type": "Vehicle",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Blaster",
+	"id": "cloudcityblaster_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcityblaster.gif",
+	"type": "Weapon",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Engineer",
+	"id": "cloudcityengineer",
+	"imageUrl": "img/CloudCity-Dark/cloudcityengineer.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Sabacc",
+	"id": "cloudcitysabacc_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcitysabacc.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City Trooper",
+	"id": "cloudcitytrooper_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcitytrooper.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Carbonite Chamber",
+	"id": "cloudcitycarbonitechamber_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcitycarbonitechamber.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Chasm Walkway",
+	"id": "cloudcitychasmwalkway_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcitychasmwalkway.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Dining Room",
+	"id": "cloudcitydiningroom",
+	"imageUrl": "img/CloudCity-Dark/cloudcitydiningroom.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: East Platform (Docking Bay)",
+	"id": "cloudcityeastplatformdockingbay",
+	"imageUrl": "img/CloudCity-Dark/cloudcityeastplatformdockingbay.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Incinerator",
+	"id": "cloudcityincinerator_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcityincinerator.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Lower Corridor",
+	"id": "cloudcitylowercorridor_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcitylowercorridor.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Security Tower",
+	"id": "cloudcitysecuritytower",
+	"imageUrl": "img/CloudCity-Dark/cloudcitysecuritytower.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Cloud City: Upper Plaza Corridor",
+	"id": "cloudcityupperplazacorridor_(ds)",
+	"imageUrl": "img/CloudCity-Dark/cloudcityupperplazacorridor.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Clouds",
+	"id": "clouds_(ds)",
+	"imageUrl": "img/CloudCity-Dark/clouds.gif",
+	"type": "Location",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Commander Desanne",
+	"id": "commanderdesanne",
+	"imageUrl": "img/CloudCity-Dark/commanderdesanne.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Dark Deal",
+	"id": "darkdeal",
+	"imageUrl": "img/CloudCity-Dark/darkdeal.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Dark Strike",
+	"id": "darkstrike",
+	"imageUrl": "img/CloudCity-Dark/darkstrike.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Despair",
+	"id": "despair",
+	"imageUrl": "img/CloudCity-Dark/despair.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Double Back",
+	"id": "doubleback",
+	"imageUrl": "img/CloudCity-Dark/doubleback.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Double-Crossing, No-Good Swindler",
+	"id": "doublecrossingnogoodswindler",
+	"imageUrl": "img/CloudCity-Dark/doublecrossingnogoodswindler.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "E Chu Ta",
+	"id": "echuta",
+	"imageUrl": "img/CloudCity-Dark/echuta.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "E-3PO",
+	"id": "e3po",
+	"imageUrl": "img/CloudCity-Dark/e3po.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "End This Destructive Conflict",
+	"id": "endthisdestructiveconflict",
+	"imageUrl": "img/CloudCity-Dark/endthisdestructiveconflict.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Epic Duel",
+	"id": "epicduel",
+	"imageUrl": "img/CloudCity-Dark/epicduel.gif",
+	"type": "Epic Event",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Flight Escort",
+	"id": "flightescort",
+	"imageUrl": "img/CloudCity-Dark/flightescort.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Focused Attack",
+	"id": "focusedattack",
+	"imageUrl": "img/CloudCity-Dark/focusedattack.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Force Field",
+	"id": "forcefield",
+	"imageUrl": "img/CloudCity-Dark/forcefield.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Forced Landing",
+	"id": "forcedlanding",
+	"imageUrl": "img/CloudCity-Dark/forcedlanding.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Heart Of The Chasm",
+	"id": "heartofthechasm",
+	"imageUrl": "img/CloudCity-Dark/heartofthechasm.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "He's All Yours, Bounty Hunter",
+	"id": "hesallyoursbountyhunter",
+	"imageUrl": "img/CloudCity-Dark/hesallyoursbountyhunter.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Human Shield",
+	"id": "humanshield",
+	"imageUrl": "img/CloudCity-Dark/humanshield.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "I Am Your Father",
+	"id": "iamyourfather",
+	"imageUrl": "img/CloudCity-Dark/iamyourfather.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "I Had No Choice",
+	"id": "ihadnochoice",
+	"imageUrl": "img/CloudCity-Dark/ihadnochoice.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Imperial Decree",
+	"id": "imperialdecree",
+	"imageUrl": "img/CloudCity-Dark/imperialdecree.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Imperial Trooper Guard Dainsom",
+	"id": "imperialtrooperguarddainsom",
+	"imageUrl": "img/CloudCity-Dark/imperialtrooperguarddainsom.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Interrogation Array",
+	"id": "interrogationarray",
+	"imageUrl": "img/CloudCity-Dark/interrogationarray.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lando Calrissian",
+	"id": "landocalrissian_(ds)",
+	"imageUrl": "img/CloudCity-Dark/landocalrissian.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Levitation Attack",
+	"id": "levitationattack",
+	"imageUrl": "img/CloudCity-Dark/levitationattack.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lieutenant Cecius",
+	"id": "lieutenantcecius",
+	"imageUrl": "img/CloudCity-Dark/lieutenantcecius.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Lieutenant Sheckil",
+	"id": "lieutenantsheckil",
+	"imageUrl": "img/CloudCity-Dark/lieutenantsheckil.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Mandalorian Armor",
+	"id": "mandalorianarmor",
+	"imageUrl": "img/CloudCity-Dark/mandalorianarmor.gif",
+	"type": "Device",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Mostly Armless",
+	"id": "mostlyarmless",
+	"imageUrl": "img/CloudCity-Dark/mostlyarmless.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Obsidian 7",
+	"id": "obsidian7",
+	"imageUrl": "img/CloudCity-Dark/obsidian7.gif",
+	"type": "Starship",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Obsidian 8",
+	"id": "obsidian8",
+	"imageUrl": "img/CloudCity-Dark/obsidian8.gif",
+	"type": "Starship",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Point Man",
+	"id": "pointman",
+	"imageUrl": "img/CloudCity-Dark/pointman.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Prepare The Chamber",
+	"id": "preparethechamber",
+	"imageUrl": "img/CloudCity-Dark/preparethechamber.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Projective Telepathy",
+	"id": "projectivetelepathy",
+	"imageUrl": "img/CloudCity-Dark/projectivetelepathy.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Release Your Anger",
+	"id": "releaseyouranger",
+	"imageUrl": "img/CloudCity-Dark/releaseyouranger.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Restricted Access",
+	"id": "restrictedaccess",
+	"imageUrl": "img/CloudCity-Dark/restrictedaccess.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Rite Of Passage",
+	"id": "riteofpassage",
+	"imageUrl": "img/CloudCity-Dark/riteofpassage.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Shattered Hope",
+	"id": "shatteredhope",
+	"imageUrl": "img/CloudCity-Dark/shatteredhope.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Shocking Revelation",
+	"id": "shockingrevelation",
+	"imageUrl": "img/CloudCity-Dark/shockingrevelation.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Slave I",
+	"id": "slavei",
+	"imageUrl": "img/CloudCity-Dark/slavei.gif",
+	"type": "Starship",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Slip Sliding Away",
+	"id": "slipslidingaway",
+	"imageUrl": "img/CloudCity-Dark/slipslidingaway.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Sonic Bombardment",
+	"id": "sonicbombardment",
+	"imageUrl": "img/CloudCity-Dark/sonicbombardment.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Special Delivery",
+	"id": "specialdelivery",
+	"imageUrl": "img/CloudCity-Dark/specialdelivery.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Surprise",
+	"id": "surprise",
+	"imageUrl": "img/CloudCity-Dark/surprise.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "The Emperor's Prize",
+	"id": "theemperorsprize",
+	"imageUrl": "img/CloudCity-Dark/theemperorsprize.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "This Is Still Wrong",
+	"id": "thisisstillwrong",
+	"imageUrl": "img/CloudCity-Dark/thisisstillwrong.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Tibanna Gas Miner",
+	"id": "tibannagasminer_(ds)",
+	"imageUrl": "img/CloudCity-Dark/tibannagasminer.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "TIE Sentry Ships",
+	"id": "tiesentryships",
+	"imageUrl": "img/CloudCity-Dark/tiesentryships.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Trooper Assault",
+	"id": "trooperassault",
+	"imageUrl": "img/CloudCity-Dark/trooperassault.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Trooper Jerrol Blendin",
+	"id": "trooperjerrolblendin",
+	"imageUrl": "img/CloudCity-Dark/trooperjerrolblendin.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Ugloste",
+	"id": "ugloste",
+	"imageUrl": "img/CloudCity-Dark/ugloste.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Ugnaught",
+	"id": "ugnaught",
+	"imageUrl": "img/CloudCity-Dark/ugnaught.gif",
+	"type": "Character",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Vader's Bounty",
+	"id": "vadersbounty",
+	"imageUrl": "img/CloudCity-Dark/vadersbounty.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Vader's Cape",
+	"id": "vaderscape",
+	"imageUrl": "img/CloudCity-Dark/vaderscape.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Weapon Levitation",
+	"id": "weaponlevitation_(ds)",
+	"imageUrl": "img/CloudCity-Dark/weaponlevitation.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Weapon Of An Ungrateful Son",
+	"id": "weaponofanungratefulson",
+	"imageUrl": "img/CloudCity-Dark/weaponofanungratefulson.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Weather Vane",
+	"id": "weathervane_(ds)",
+	"imageUrl": "img/CloudCity-Dark/weathervane.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "We're The Bait",
+	"id": "werethebait",
+	"imageUrl": "img/CloudCity-Dark/werethebait.gif",
+	"type": "Effect",
+	"set": "Cloud City"
+	},
+	{
+	"name": "Why Didn't You Tell Me?",
+	"id": "whydidntyoutellme",
+	"imageUrl": "img/CloudCity-Dark/whydidntyoutellme.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	},
+	{
+	"name": "You Are Beaten",
+	"id": "youarebeaten",
+	"imageUrl": "img/CloudCity-Dark/youarebeaten.gif",
+	"type": "Interrupt",
+	"set": "Cloud City"
+	}
+}

@@ -1,0 +1,429 @@
+﻿{
+	{
+	"name": "Abyssin Ornament & Wounded Wookiee (V)",
+	"id": "abyssinornament&woundedwookiee-v",
+	"imageUrl": "img/Virtual3-Dark/abyssinornament&woundedwookiee.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Accuser (V)",
+	"id": "accuser-v",
+	"imageUrl": "img/Virtual3-Dark/accuser.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "All Wrapped Up (V)",
+	"id": "allwrappedup-v",
+	"imageUrl": "img/Virtual3-Dark/allwrappedup.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Aratech Corporation (V)",
+	"id": "aratechcorporation-v",
+	"imageUrl": "img/Virtual3-Dark/aratechcorporation.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "AT-ST Dual Cannon (V)",
+	"id": "atstdualcannon-v",
+	"imageUrl": "img/Virtual3-Dark/atstdualcannon.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Bane Malar (V)",
+	"id": "banemalar-v",
+	"imageUrl": "img/Virtual3-Dark/banemalar.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Bantha Herd (V)",
+	"id": "banthaherd-v",
+	"imageUrl": "img/Virtual3-Dark/banthaherd.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Bib Fortuna (V)",
+	"id": "bibfortuna-v",
+	"imageUrl": "img/Virtual3-Dark/bibfortuna.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Cane Adiss (V)",
+	"id": "caneadiss-v",
+	"imageUrl": "img/Virtual3-Dark/caneadiss.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Captain Yorr (V)",
+	"id": "captainyorr-v",
+	"imageUrl": "img/Virtual3-Dark/captainyorr.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Commander Igar (V)",
+	"id": "commanderigar-v",
+	"imageUrl": "img/Virtual3-Dark/commanderigar.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Concussion Missiles (V)",
+	"id": "concussionmissiles-v",
+	"imageUrl": "img/Virtual3-Dark/concussionmissiles.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Crossfire (V)",
+	"id": "crossfire-v",
+	"imageUrl": "img/Virtual3-Dark/crossfire.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Darth Vader's Lightsaber (V)",
+	"id": "darthvaderslightsaber-v",
+	"imageUrl": "img/Virtual3-Dark/darthvaderslightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Dead Ewok (V)",
+	"id": "deadewok-v",
+	"imageUrl": "img/Virtual3-Dark/deadewok.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Den Of Thieves (V)",
+	"id": "denofthieves-v",
+	"imageUrl": "img/Virtual3-Dark/denofthieves.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Dominator (V)",
+	"id": "dominator-v",
+	"imageUrl": "img/Virtual3-Dark/dominator.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Dungeon (Prison)",
+	"id": "dungeonprison",
+	"imageUrl": "img/Virtual3-Dark/dungeonprison.gif",
+	"type": "Location",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Emperor's Power (V)",
+	"id": "emperorspower-v",
+	"imageUrl": "img/Virtual3-Dark/emperorspower.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Empire's New Order (V)",
+	"id": "empiresneworder-v",
+	"imageUrl": "img/Virtual3-Dark/empiresneworder.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Endor Shield (V)",
+	"id": "endorshield-v",
+	"imageUrl": "img/Virtual3-Dark/endorshield.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Establish Secret Base (V)",
+	"id": "establishsecretbase-v",
+	"imageUrl": "img/Virtual3-Dark/establishsecretbase.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Feltipern Trevagg's Stun Rifle (V)",
+	"id": "feltiperntrevaggsstunrifle-v",
+	"imageUrl": "img/Virtual3-Dark/feltiperntrevaggsstunrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Flagship Operations (V)",
+	"id": "flagshipoperations-v",
+	"imageUrl": "img/Virtual3-Dark/flagshipoperations.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Fozec (V)",
+	"id": "fozec-v",
+	"imageUrl": "img/Virtual3-Dark/fozec.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Freeze! (V)",
+	"id": "freeze-v",
+	"imageUrl": "img/Virtual3-Dark/freeze.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Gela Yeens (V)",
+	"id": "gelayeens-v",
+	"imageUrl": "img/Virtual3-Dark/gelayeens.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Hermi Odle (V)",
+	"id": "hermiodle-v",
+	"imageUrl": "img/Virtual3-Dark/hermiodle.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Hutt Bounty (V)",
+	"id": "huttbounty-v",
+	"imageUrl": "img/Virtual3-Dark/huttbounty.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Imperial Academy Training (V)",
+	"id": "imperialacademytraining-v",
+	"imageUrl": "img/Virtual3-Dark/imperialacademytraining.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Imperial Tyranny (V)",
+	"id": "imperialtyranny-v",
+	"imageUrl": "img/Virtual3-Dark/imperialtyranny.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Inconsequential Losses (V)",
+	"id": "inconsequentiallosses-v",
+	"imageUrl": "img/Virtual3-Dark/inconsequentiallosses.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Jabba The Hutt (V)",
+	"id": "jabbathehutt-v",
+	"imageUrl": "img/Virtual3-Dark/jabbathehutt.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Jabba's Sail Barge (V)",
+	"id": "jabbassailbarge-v",
+	"imageUrl": "img/Virtual3-Dark/jabbassailbarge.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Jabba's Space Cruiser (V)",
+	"id": "jabbasspacecruiser-v",
+	"imageUrl": "img/Virtual3-Dark/jabbasspacecruiser.gif",
+	"type": "Starship",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "J'Quille (V)",
+	"id": "jquille-v",
+	"imageUrl": "img/Virtual3-Dark/jquille.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Lieutenant Grond (V)",
+	"id": "lieutenantgrond-v",
+	"imageUrl": "img/Virtual3-Dark/lieutenantgrond.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Lieutenant Renz (V)",
+	"id": "lieutenantrenz-v",
+	"imageUrl": "img/Virtual3-Dark/lieutenantrenz.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Lieutenant Watts (V)",
+	"id": "lieutenantwatts-v",
+	"imageUrl": "img/Virtual3-Dark/lieutenantwatts.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Lord Vader (V)",
+	"id": "lordvader-v",
+	"imageUrl": "img/Virtual3-Dark/lordvader.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Major Hewex (V)",
+	"id": "majorhewex-v",
+	"imageUrl": "img/Virtual3-Dark/majorhewex.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Malakili (V)",
+	"id": "malakili-v",
+	"imageUrl": "img/Virtual3-Dark/malakili.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Nizuc Bek (V)",
+	"id": "nizucbek-v",
+	"imageUrl": "img/Virtual3-Dark/nizucbek.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "None Shall Pass (V)",
+	"id": "noneshallpass-v",
+	"imageUrl": "img/Virtual3-Dark/noneshallpass.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Outflank (V)",
+	"id": "outflank-v",
+	"imageUrl": "img/Virtual3-Dark/outflank.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Pinned Down (V)",
+	"id": "pinneddown-v",
+	"imageUrl": "img/Virtual3-Dark/pinneddown.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Sacrifice (V)",
+	"id": "sacrifice-v",
+	"imageUrl": "img/Virtual3-Dark/sacrifice.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Scout Recon (V)",
+	"id": "scoutrecon-v",
+	"imageUrl": "img/Virtual3-Dark/scoutrecon.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "SD-17 Homing Missile",
+	"id": "sd17homingmissile",
+	"imageUrl": "img/Virtual3-Dark/sd17homingmissile.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Security Precautions (V)",
+	"id": "securityprecautions-v",
+	"imageUrl": "img/Virtual3-Dark/securityprecautions.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Sergeant Wallen (V)",
+	"id": "sergeantwallen-v",
+	"imageUrl": "img/Virtual3-Dark/sergeantwallen.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Sim Aloo (V)",
+	"id": "simaloo-v",
+	"imageUrl": "img/Virtual3-Dark/simaloo.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Sneak Attack (V)",
+	"id": "sneakattack-v",
+	"imageUrl": "img/Virtual3-Dark/sneakattack.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Something Special Planned For Them (V)",
+	"id": "somethingspecialplannedforthem-v",
+	"imageUrl": "img/Virtual3-Dark/somethingspecialplannedforthem.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "The Emperor (V)",
+	"id": "theemperor-v",
+	"imageUrl": "img/Virtual3-Dark/theemperor.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Twi'lek Advisor (V)",
+	"id": "twilekadvisor-v",
+	"imageUrl": "img/Virtual3-Dark/twilekadvisor.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Vizam (V)",
+	"id": "vizam-v",
+	"imageUrl": "img/Virtual3-Dark/vizam.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Well-earned Command (V)",
+	"id": "wellearnedcommand-v",
+	"imageUrl": "img/Virtual3-Dark/wellearnedcommand.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Wooof (V)",
+	"id": "wooof-v",
+	"imageUrl": "img/Virtual3-Dark/wooof.gif",
+	"type": "Character",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "Wounded Wookiee (V)",
+	"id": "woundedwookiee-v",
+	"imageUrl": "img/Virtual3-Dark/woundedwookiee.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 3"
+	},
+	{
+	"name": "You Want This, Don't You? (V)",
+	"id": "youwantthisdontyou-v",
+	"imageUrl": "img/Virtual3-Dark/youwantthisdontyou.gif",
+	"type": "Effect",
+	"set": "Virtual Block 3"
+	}
+}

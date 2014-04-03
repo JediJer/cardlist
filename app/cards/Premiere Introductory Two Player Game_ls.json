@@ -1,0 +1,23 @@
+﻿{
+	{
+	"name": "Death Star: Level 6 Core Shaft Corridor",
+	"id": "deathstarlevel6coreshaftcorridor",
+	"imageUrl": "img/PremiereIntroductoryTwoPlayerGame-Light/deathstarlevel6coreshaftcorridor.gif",
+	"type": "Location",
+	"set": "Premiere Introductory Two Player Game"
+	},
+	{
+	"name": "Luke",
+	"id": "luke",
+	"imageUrl": "img/PremiereIntroductoryTwoPlayerGame-Light/luke.gif",
+	"type": "Character",
+	"set": "Premiere Introductory Two Player Game"
+	},
+	{
+	"name": "Run Luke, Run!",
+	"id": "runlukerun",
+	"imageUrl": "img/PremiereIntroductoryTwoPlayerGame-Light/runlukerun.gif",
+	"type": "Interrupt",
+	"set": "Premiere Introductory Two Player Game"
+	}
+}

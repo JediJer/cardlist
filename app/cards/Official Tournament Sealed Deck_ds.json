@@ -1,0 +1,65 @@
+﻿{
+	{
+	"name": "Black Squadron TIE",
+	"id": "blacksquadrontie",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/blacksquadrontie.gif",
+	"type": "Starship",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Chall Bekan",
+	"id": "challbekan",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/challbekan.gif",
+	"type": "Character",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Corulag",
+	"id": "corulag_(ds)",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/corulag.gif",
+	"type": "Location",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Dreadnaught-Class Heavy Cruiser",
+	"id": "dreadnaughtclassheavycruiser",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/dreadnaughtclassheavycruiser.gif",
+	"type": "Starship",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Forced Servitude",
+	"id": "forcedservitude",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/forcedservitude.gif",
+	"type": "Effect",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Obsidian Squadron TIE",
+	"id": "obsidiansquadrontie",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/obsidiansquadrontie.gif",
+	"type": "Starship",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Stormtrooper Cadet",
+	"id": "stormtroopercadet",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/stormtroopercadet.gif",
+	"type": "Character",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Tarkin's Orders",
+	"id": "tarkinsorders",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/tarkinsorders.gif",
+	"type": "Interrupt",
+	"set": "Official Tournament Sealed Deck"
+	},
+	{
+	"name": "Tatooine: Tusken Canyon",
+	"id": "tatooinetuskencanyon",
+	"imageUrl": "img/OfficialTournamentSealedDeck-Dark/tatooinetuskencanyon.gif",
+	"type": "Location",
+	"set": "Official Tournament Sealed Deck"
+	}
+}

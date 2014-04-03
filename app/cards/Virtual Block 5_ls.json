@@ -1,0 +1,429 @@
+﻿{
+	{
+	"name": "A Jedi's Cunning",
+	"id": "ajediscunning",
+	"imageUrl": "img/Virtual5-Light/ajediscunning.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "A Jedi's Plans",
+	"id": "ajedisplans",
+	"imageUrl": "img/Virtual5-Light/ajedisplans.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Alderaan Consular Ship",
+	"id": "alderaanconsularship",
+	"imageUrl": "img/Virtual5-Light/alderaanconsularship.gif",
+	"type": "Starship",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Ambush (V)",
+	"id": "ambush-v",
+	"imageUrl": "img/Virtual5-Light/ambush.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "An Unusual Amount Of Fear (V)",
+	"id": "anunusualamountoffear-v",
+	"imageUrl": "img/Virtual5-Light/anunusualamountoffear.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Artoo, Brave Little Droid (V)",
+	"id": "artoobravelittledroid-v",
+	"imageUrl": "img/Virtual5-Light/artoobravelittledroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Artoo, Brave Little Droid (V) (AI)",
+	"id": "artoobravelittledroidai-v",
+	"imageUrl": "img/Virtual5-Light/artoobravelittledroidai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Bail Organa",
+	"id": "bailorgana",
+	"imageUrl": "img/Virtual5-Light/bailorgana.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Blockade Flagship: Prison",
+	"id": "blockadeflagshipprison",
+	"imageUrl": "img/Virtual5-Light/blockadeflagshipprison.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Bowcaster (V)",
+	"id": "bowcaster-v",
+	"imageUrl": "img/Virtual5-Light/bowcaster.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Bravo Fighter (V)",
+	"id": "bravofighter-v",
+	"imageUrl": "img/Virtual5-Light/bravofighter.gif",
+	"type": "Starship",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Changing The Odds (V)",
+	"id": "changingtheodds-v",
+	"imageUrl": "img/Virtual5-Light/changingtheodds.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Chewbacca Of Kashyyyk (V)",
+	"id": "chewbaccaofkashyyyk-v",
+	"imageUrl": "img/Virtual5-Light/chewbaccaofkashyyyk.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Clone Pilot",
+	"id": "clonepilot",
+	"imageUrl": "img/Virtual5-Light/clonepilot.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Clone Trooper",
+	"id": "clonetrooper",
+	"imageUrl": "img/Virtual5-Light/clonetrooper.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Coruscant: Jedi Archives",
+	"id": "coruscantjediarchives",
+	"imageUrl": "img/Virtual5-Light/coruscantjediarchives.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Coruscant: Jedi Council Chamber (V)",
+	"id": "coruscantjedicouncilchamber-v",
+	"imageUrl": "img/Virtual5-Light/coruscantjedicouncilchamber.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Coruscant: Night Club",
+	"id": "coruscantnightclub",
+	"imageUrl": "img/Virtual5-Light/coruscantnightclub.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Coruscant: Senate Landing Platform",
+	"id": "coruscantsenatelandingplatform",
+	"imageUrl": "img/Virtual5-Light/coruscantsenatelandingplatform.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Elegant Lightsaber",
+	"id": "elegantlightsaber",
+	"imageUrl": "img/Virtual5-Light/elegantlightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Grrrghrrrgh!",
+	"id": "grrrghrrrgh",
+	"imageUrl": "img/Virtual5-Light/grrrghrrrgh.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Jedi Advisor",
+	"id": "jediadvisor",
+	"imageUrl": "img/Virtual5-Light/jediadvisor.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Jedi Guardian",
+	"id": "jediguardian",
+	"imageUrl": "img/Virtual5-Light/jediguardian.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Jedi Lightsaber (V)",
+	"id": "jedilightsaber-v",
+	"imageUrl": "img/Virtual5-Light/jedilightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Jedi Starfighter",
+	"id": "jedistarfighter",
+	"imageUrl": "img/Virtual5-Light/jedistarfighter.gif",
+	"type": "Starship",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Jedi Survivor",
+	"id": "jedisurvivor",
+	"imageUrl": "img/Virtual5-Light/jedisurvivor.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Kashyyyk (V)",
+	"id": "kashyyyk-v",
+	"imageUrl": "img/Virtual5-Light/kashyyyk.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Kashyyyk: Sacred Forest",
+	"id": "kashyyyksacredforest",
+	"imageUrl": "img/Virtual5-Light/kashyyyksacredforest.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Kashyyyk: Wookiee Haven (Forest)",
+	"id": "kashyyykwookieehavenforest",
+	"imageUrl": "img/Virtual5-Light/kashyyykwookieehavenforest.gif",
+	"type": "Location",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Ki-Adi-Mundi (V)",
+	"id": "kiadimundi-v",
+	"imageUrl": "img/Virtual5-Light/kiadimundi.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Krayt Dragon Howl (V)",
+	"id": "kraytdragonhowl-v",
+	"imageUrl": "img/Virtual5-Light/kraytdragonhowl.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Let's Go Left (V)",
+	"id": "letsgoleft-v",
+	"imageUrl": "img/Virtual5-Light/letsgoleft.gif",
+	"type": "Admiral's Order",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Lieutenant Williams (V)",
+	"id": "lieutenantwilliams-v",
+	"imageUrl": "img/Virtual5-Light/lieutenantwilliams.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Mace Windu (V)",
+	"id": "macewindu-v",
+	"imageUrl": "img/Virtual5-Light/macewindu.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Mace Windu (V) (AI)",
+	"id": "macewinduai-v",
+	"imageUrl": "img/Virtual5-Light/macewinduai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Master Qui-Gon (V)",
+	"id": "masterquigon-v",
+	"imageUrl": "img/Virtual5-Light/masterquigon.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Master Qui-Gon (V) (AI)",
+	"id": "masterquigonai-v",
+	"imageUrl": "img/Virtual5-Light/masterquigonai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Obi-Wan in Radiant VII",
+	"id": "obiwaninradiantvii",
+	"imageUrl": "img/Virtual5-Light/obiwaninradiantvii.gif",
+	"type": "Starship",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Obi-Wan Kenobi, Jedi Knight (V)",
+	"id": "obiwankenobijediknight-v",
+	"imageUrl": "img/Virtual5-Light/obiwankenobijediknight.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Padme Naberrie (V)",
+	"id": "padmenaberrie-v",
+	"imageUrl": "img/Virtual5-Light/padmenaberrie.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Padme Naberrie (V) (AI)",
+	"id": "padmenaberrieai-v",
+	"imageUrl": "img/Virtual5-Light/padmenaberrieai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Plo Koon (V)",
+	"id": "plokoon-v",
+	"imageUrl": "img/Virtual5-Light/plokoon.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Republic Corvette",
+	"id": "republiccorvette",
+	"imageUrl": "img/Virtual5-Light/republiccorvette.gif",
+	"type": "Starship",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Republic Trooper With Blaster Rifle",
+	"id": "republictrooperwithblasterrifle",
+	"imageUrl": "img/Virtual5-Light/republictrooperwithblasterrifle.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Senator Jar Jar Binks",
+	"id": "senatorjarjarbinks",
+	"imageUrl": "img/Virtual5-Light/senatorjarjarbinks.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Senator Jar Jar Binks (AI)",
+	"id": "senatorjarjarbinksai",
+	"imageUrl": "img/Virtual5-Light/senatorjarjarbinksai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Senator Mon Mothma",
+	"id": "senatormonmothma",
+	"imageUrl": "img/Virtual5-Light/senatormonmothma.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Senator Padme Amidala",
+	"id": "senatorpadmeamidala",
+	"imageUrl": "img/Virtual5-Light/senatorpadmeamidala.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "So This Is How Liberty Dies",
+	"id": "sothisishowlibertydies",
+	"imageUrl": "img/Virtual5-Light/sothisishowlibertydies.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Supreme Chancellor Palpatine",
+	"id": "supremechancellorpalpatine",
+	"imageUrl": "img/Virtual5-Light/supremechancellorpalpatine.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "We Have A Plan / They Will Be Lost And Confused (V)",
+	"id": "wehaveaplan-v",
+	"imageUrl": "img/starwars/Virtual5-Light/wehaveaplan/theywillbelostandconfused.gif",
+	"type": "Objective",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "We'll Handle This / Duel Of The Fates (V)",
+	"id": "wellhandlethis-v",
+	"imageUrl": "img/starwars/Virtual5-Light/wellhandlethis/duelofthefates.gif",
+	"type": "Objective",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "We'll Take The Long Way",
+	"id": "welltakethelongway",
+	"imageUrl": "img/Virtual5-Light/welltakethelongway.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Wesa Ready To Do Our-sa Part (V)",
+	"id": "wesareadytodooursapart-v",
+	"imageUrl": "img/Virtual5-Light/wesareadytodooursapart.gif",
+	"type": "Effect",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Wookiee (V)",
+	"id": "wookiee-v",
+	"imageUrl": "img/Virtual5-Light/wookiee.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Wookiee Guide (V)",
+	"id": "wookieeguide-v",
+	"imageUrl": "img/Virtual5-Light/wookieeguide.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Wookiee Roar (V)",
+	"id": "wookieeroar-v",
+	"imageUrl": "img/Virtual5-Light/wookieeroar.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Yarua (V)",
+	"id": "yarua-v",
+	"imageUrl": "img/Virtual5-Light/yarua.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Yoda, Great Warrior",
+	"id": "yodagreatwarrior",
+	"imageUrl": "img/Virtual5-Light/yodagreatwarrior.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Yoda, Senior Council Member (V)",
+	"id": "yodaseniorcouncilmember-v",
+	"imageUrl": "img/Virtual5-Light/yodaseniorcouncilmember.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	},
+	{
+	"name": "Yoda, Senior Council Member (V) (AI)",
+	"id": "yodaseniorcouncilmemberai-v",
+	"imageUrl": "img/Virtual5-Light/yodaseniorcouncilmemberai.gif",
+	"type": "Character",
+	"set": "Virtual Block 5"
+	}
+}

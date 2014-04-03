@@ -1,0 +1,345 @@
+﻿{
+	{
+	"name": "Anger, Fear, Aggression (V)",
+	"id": "angerfearaggression-v",
+	"imageUrl": "img/Virtual4-Light/angerfearaggression.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Booster In Pulsar Skate",
+	"id": "boosterinpulsarskate",
+	"imageUrl": "img/Virtual4-Light/boosterinpulsarskate.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Careful Planning (V)",
+	"id": "carefulplanning-v",
+	"imageUrl": "img/Virtual4-Light/carefulplanning.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Chewbacca, Protector (V)",
+	"id": "chewbaccaprotector-v",
+	"imageUrl": "img/Virtual4-Light/chewbaccaprotector.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Corellia (V)",
+	"id": "corellia-v",
+	"imageUrl": "img/Virtual4-Light/corellia.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Corellian Engineering Corporation (V)",
+	"id": "corellianengineeringcorporation-v",
+	"imageUrl": "img/Virtual4-Light/corellianengineeringcorporation.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Dantooine Engineering Corps",
+	"id": "dantooineengineeringcorps",
+	"imageUrl": "img/Virtual4-Light/dantooineengineeringcorps.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Dantooine: Base - Docking Bay",
+	"id": "dantooinebasedockingbay",
+	"imageUrl": "img/Virtual4-Light/dantooinebasedockingbay.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Dantooine: Base - Operations Center",
+	"id": "dantooinebaseoperationscenter",
+	"imageUrl": "img/Virtual4-Light/dantooinebaseoperationscenter.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Dash Rendar (V)",
+	"id": "dashrendar-v",
+	"imageUrl": "img/Virtual4-Light/dashrendar.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Disarming Creature (V)",
+	"id": "disarmingcreature-v",
+	"imageUrl": "img/Virtual4-Light/disarmingcreature.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Down With The Emperor! (V)",
+	"id": "downwiththeemperor-v",
+	"imageUrl": "img/Virtual4-Light/downwiththeemperor.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Eject! Eject! (V)",
+	"id": "ejecteject-v",
+	"imageUrl": "img/Virtual4-Light/ejecteject.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Ellorrs Madak (V)",
+	"id": "ellorrsmadak-v",
+	"imageUrl": "img/Virtual4-Light/ellorrsmadak.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Eyes In The Dark (V)",
+	"id": "eyesinthedark-v",
+	"imageUrl": "img/Virtual4-Light/eyesinthedark.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Fixer",
+	"id": "fixer",
+	"imageUrl": "img/Virtual4-Light/fixer.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Hear Me Baby, Hold Together (V)",
+	"id": "hearmebabyholdtogether-v",
+	"imageUrl": "img/Virtual4-Light/hearmebabyholdtogether.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Hidden Base / Systems Will Slip Through Your Fingers (V)",
+	"id": "hiddenbase-v",
+	"imageUrl": "img/starwars/Virtual4-Light/hiddenbase/systemswillslipthroughyourfingers.gif",
+	"type": "Objective",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Imperial Atrocity (V)",
+	"id": "imperialatrocity-v",
+	"imageUrl": "img/Virtual4-Light/imperialatrocity.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Infinity",
+	"id": "infinity",
+	"imageUrl": "img/Virtual4-Light/infinity.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Insurrection (V)",
+	"id": "insurrection-v",
+	"imageUrl": "img/Virtual4-Light/insurrection.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Lars' Protocol Droid",
+	"id": "larsprotocoldroid",
+	"imageUrl": "img/Virtual4-Light/larsprotocoldroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "LE-BO2D9 (Leebo) (V)",
+	"id": "lebo2d9leebo-v",
+	"imageUrl": "img/Virtual4-Light/lebo2d9leebo.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Maris Brood, Fallen Jedi",
+	"id": "marisbroodfallenjedi",
+	"imageUrl": "img/Virtual4-Light/marisbroodfallenjedi.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Maris Brood, Fallen Jedi (AI)",
+	"id": "marisbroodfallenjediai",
+	"imageUrl": "img/Virtual4-Light/marisbroodfallenjediai.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Mercenary Armor (V)",
+	"id": "mercenaryarmor-v",
+	"imageUrl": "img/Virtual4-Light/mercenaryarmor.gif",
+	"type": "Device",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "No Questions Asked (V)",
+	"id": "noquestionsasked-v",
+	"imageUrl": "img/Virtual4-Light/noquestionsasked.gif",
+	"type": "Admiral's Order",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Outpost",
+	"id": "outpost",
+	"imageUrl": "img/Virtual4-Light/outpost.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Quick Draw (V)",
+	"id": "quickdraw-v",
+	"imageUrl": "img/Virtual4-Light/quickdraw.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Rayc Ryjerd (V)",
+	"id": "raycryjerd-v",
+	"imageUrl": "img/Virtual4-Light/raycryjerd.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Rebel Cell - Hidden Landing Site",
+	"id": "rebelcellhiddenlandingsite",
+	"imageUrl": "img/Virtual4-Light/rebelcellhiddenlandingsite.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Rebel Cell - Monitoring Station",
+	"id": "rebelcellmonitoringstation",
+	"imageUrl": "img/Virtual4-Light/rebelcellmonitoringstation.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Rebel Cell - Perimeter",
+	"id": "rebelcellperimeter",
+	"imageUrl": "img/Virtual4-Light/rebelcellperimeter.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Rebel Cell - Situation Room",
+	"id": "rebelcellsituationroom",
+	"imageUrl": "img/Virtual4-Light/rebelcellsituationroom.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Red 8 (V)",
+	"id": "red8-v",
+	"imageUrl": "img/Virtual4-Light/red8.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Scrambled Transmission (V)",
+	"id": "scrambledtransmission-v",
+	"imageUrl": "img/Virtual4-Light/scrambledtransmission.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Senator Leia Organa",
+	"id": "senatorleiaorgana",
+	"imageUrl": "img/Virtual4-Light/senatorleiaorgana.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Sergeant Doallyn (V)",
+	"id": "sergeantdoallyn-v",
+	"imageUrl": "img/Virtual4-Light/sergeantdoallyn.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Shoo! Shoo! (V)",
+	"id": "shooshoo-v",
+	"imageUrl": "img/Virtual4-Light/shooshoo.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Skull (V)",
+	"id": "skull-v",
+	"imageUrl": "img/Virtual4-Light/skull.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Talon Karrde (V)",
+	"id": "talonkarrde-v",
+	"imageUrl": "img/Virtual4-Light/talonkarrde.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Tauntaun Bones (V)",
+	"id": "tauntaunbones-v",
+	"imageUrl": "img/Virtual4-Light/tauntaunbones.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Tusken Breath Mask (V)",
+	"id": "tuskenbreathmask-v",
+	"imageUrl": "img/Virtual4-Light/tuskenbreathmask.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Uncharted Settlements",
+	"id": "unchartedsettlements",
+	"imageUrl": "img/Virtual4-Light/unchartedsettlements.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Watch Your Step / This Place Can Be A Little Rough (V)",
+	"id": "watchyourstep-v",
+	"imageUrl": "img/starwars/Virtual4-Light/watchyourstep/thisplacecanbealittlerough.gif",
+	"type": "Objective",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Wes Janson (V)",
+	"id": "wesjanson-v",
+	"imageUrl": "img/Virtual4-Light/wesjanson.gif",
+	"type": "Character",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Wokling (V)",
+	"id": "wokling-v",
+	"imageUrl": "img/Virtual4-Light/wokling.gif",
+	"type": "Effect",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "Yavin 4: Jedi Academy",
+	"id": "yavin4jediacademy",
+	"imageUrl": "img/Virtual4-Light/yavin4jediacademy.gif",
+	"type": "Location",
+	"set": "Virtual Block 4"
+	},
+	{
+	"name": "YT-1300 Transport (V)",
+	"id": "yt1300transport-v",
+	"imageUrl": "img/Virtual4-Light/yt1300transport.gif",
+	"type": "Starship",
+	"set": "Virtual Block 4"
+	}
+}

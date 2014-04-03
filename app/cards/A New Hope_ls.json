@@ -1,0 +1,569 @@
+﻿{
+	{
+	"name": "Advance Preparation",
+	"id": "advancepreparation",
+	"imageUrl": "img/ANewHope-Light/advancepreparation.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Alternatives To Fighting",
+	"id": "alternativestofighting",
+	"imageUrl": "img/ANewHope-Light/alternativestofighting.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Arcona",
+	"id": "arcona",
+	"imageUrl": "img/ANewHope-Light/arcona.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Attack Run",
+	"id": "attackrun",
+	"imageUrl": "img/ANewHope-Light/attackrun.gif",
+	"type": "Epic Event",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Blast The Door, Kid!",
+	"id": "blastthedoorkid",
+	"imageUrl": "img/ANewHope-Light/blastthedoorkid.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Blue Milk",
+	"id": "bluemilk",
+	"imageUrl": "img/ANewHope-Light/bluemilk.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Bowcaster",
+	"id": "bowcaster",
+	"imageUrl": "img/ANewHope-Light/bowcaster.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Brainiac",
+	"id": "brainiac",
+	"imageUrl": "img/ANewHope-Light/brainiac.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Cell 2187",
+	"id": "cell2187",
+	"imageUrl": "img/ANewHope-Light/cell2187.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Chewbacca",
+	"id": "chewbacca",
+	"imageUrl": "img/ANewHope-Light/chewbacca.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Clak'dor VII",
+	"id": "clakdorvii",
+	"imageUrl": "img/ANewHope-Light/clakdorvii.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Commander Evram Lajaie",
+	"id": "commanderevramlajaie",
+	"imageUrl": "img/ANewHope-Light/commanderevramlajaie.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Commander Vanden Willard",
+	"id": "commandervandenwillard",
+	"imageUrl": "img/ANewHope-Light/commandervandenwillard.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Commence Recharging",
+	"id": "commencerecharging",
+	"imageUrl": "img/ANewHope-Light/commencerecharging.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Corellia",
+	"id": "corellia",
+	"imageUrl": "img/ANewHope-Light/corellia.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Corellian",
+	"id": "corellian",
+	"imageUrl": "img/ANewHope-Light/corellian.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Corellian Slip",
+	"id": "corellianslip",
+	"imageUrl": "img/ANewHope-Light/corellianslip.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Death Star: Trench",
+	"id": "deathstartrench",
+	"imageUrl": "img/ANewHope-Light/deathstartrench.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Dejarik Hologameboard",
+	"id": "dejarikhologameboard",
+	"imageUrl": "img/ANewHope-Light/dejarikhologameboard.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Doikk Na'ts",
+	"id": "doikknats",
+	"imageUrl": "img/ANewHope-Light/doikknats.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Double Agent",
+	"id": "doubleagent",
+	"imageUrl": "img/ANewHope-Light/doubleagent.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Eject! Eject!",
+	"id": "ejecteject",
+	"imageUrl": "img/ANewHope-Light/ejecteject.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Fire Extinguisher",
+	"id": "fireextinguisher",
+	"imageUrl": "img/ANewHope-Light/fireextinguisher.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Garouf Lafoe",
+	"id": "garouflafoe",
+	"imageUrl": "img/ANewHope-Light/garouflafoe.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Gold 2",
+	"id": "gold2",
+	"imageUrl": "img/ANewHope-Light/gold2.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Grappling Hook",
+	"id": "grapplinghook",
+	"imageUrl": "img/ANewHope-Light/grapplinghook.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Grimtaash",
+	"id": "grimtaash",
+	"imageUrl": "img/ANewHope-Light/grimtaash.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Het Nkik",
+	"id": "hetnkik",
+	"imageUrl": "img/ANewHope-Light/hetnkik.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Houjix",
+	"id": "houjix",
+	"imageUrl": "img/ANewHope-Light/houjix.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Hunchback",
+	"id": "hunchback",
+	"imageUrl": "img/ANewHope-Light/hunchback.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "I Have A Very Bad Feeling About This",
+	"id": "ihaveaverybadfeelingaboutthis",
+	"imageUrl": "img/ANewHope-Light/ihaveaverybadfeelingaboutthis.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Ickabel G'ont",
+	"id": "ickabelgont",
+	"imageUrl": "img/ANewHope-Light/ickabelgont.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "I'm Here To Rescue You",
+	"id": "imheretorescueyou",
+	"imageUrl": "img/ANewHope-Light/imheretorescueyou.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Incom T-16 Skyhopper",
+	"id": "incomt16skyhopper",
+	"imageUrl": "img/ANewHope-Light/incomt16skyhopper.gif",
+	"type": "Vehicle",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Jawa Ion Gun",
+	"id": "jawaiongun",
+	"imageUrl": "img/ANewHope-Light/jawaiongun.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Kashyyyk",
+	"id": "kashyyyk_(ls)",
+	"imageUrl": "img/ANewHope-Light/kashyyyk.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Let The Wookiee Win",
+	"id": "letthewookieewin",
+	"imageUrl": "img/ANewHope-Light/letthewookieewin.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Logistical Delay",
+	"id": "logisticaldelay",
+	"imageUrl": "img/ANewHope-Light/logisticaldelay.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Luke's Cape",
+	"id": "lukescape",
+	"imageUrl": "img/ANewHope-Light/lukescape.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Luke's Hunting Rifle",
+	"id": "lukeshuntingrifle",
+	"imageUrl": "img/ANewHope-Light/lukeshuntingrifle.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Magnetic Suction Tube",
+	"id": "magneticsuctiontube_(ls)",
+	"imageUrl": "img/ANewHope-Light/magneticsuctiontube.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Merc Sunlet",
+	"id": "mercsunlet",
+	"imageUrl": "img/ANewHope-Light/mercsunlet.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "M-HYD 'Binary' Droid",
+	"id": "mhydbinarydroid",
+	"imageUrl": "img/ANewHope-Light/mhydbinarydroid.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Motti Seeker",
+	"id": "mottiseeker",
+	"imageUrl": "img/ANewHope-Light/mottiseeker.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Nalan Cheel",
+	"id": "nalancheel",
+	"imageUrl": "img/ANewHope-Light/nalancheel.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Out Of Commission",
+	"id": "outofcommission",
+	"imageUrl": "img/ANewHope-Light/outofcommission.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Quite A Mercenary",
+	"id": "quiteamercenary",
+	"imageUrl": "img/ANewHope-Light/quiteamercenary.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "R2-D2 (Artoo-Detoo)",
+	"id": "r2d2",
+	"imageUrl": "img/ANewHope-Light/r2d2.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "R5-D4 (Arfive-Defour)",
+	"id": "r5d4",
+	"imageUrl": "img/ANewHope-Light/r5d4.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "RA-7 (Aray-Seven)",
+	"id": "ra7",
+	"imageUrl": "img/ANewHope-Light/ra7.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Ralltiir",
+	"id": "ralltiir_(ls)",
+	"imageUrl": "img/ANewHope-Light/ralltiir.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Rebel Commander",
+	"id": "rebelcommander",
+	"imageUrl": "img/ANewHope-Light/rebelcommander.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Rebel Squad Leader",
+	"id": "rebelsquadleader",
+	"imageUrl": "img/ANewHope-Light/rebelsquadleader.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Rebel Tech",
+	"id": "rebeltech",
+	"imageUrl": "img/ANewHope-Light/rebeltech.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Rectenna",
+	"id": "rectenna",
+	"imageUrl": "img/ANewHope-Light/rectenna.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Red 2",
+	"id": "red2",
+	"imageUrl": "img/ANewHope-Light/red2.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Red 5",
+	"id": "red5",
+	"imageUrl": "img/ANewHope-Light/red5.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Red 6",
+	"id": "red6",
+	"imageUrl": "img/ANewHope-Light/red6.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Remote",
+	"id": "remote",
+	"imageUrl": "img/ANewHope-Light/remote.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Rogue Bantha",
+	"id": "roguebantha",
+	"imageUrl": "img/ANewHope-Light/roguebantha.gif",
+	"type": "Vehicle",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Sabotage",
+	"id": "sabotage",
+	"imageUrl": "img/ANewHope-Light/sabotage.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Sandcrawler: Loading Bay",
+	"id": "sandcrawlerloadingbay",
+	"imageUrl": "img/ANewHope-Light/sandcrawlerloadingbay.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Saurin",
+	"id": "saurin",
+	"imageUrl": "img/ANewHope-Light/saurin.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Scanner Techs",
+	"id": "scannertechs",
+	"imageUrl": "img/ANewHope-Light/scannertechs.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Sensor Panel",
+	"id": "sensorpanel",
+	"imageUrl": "img/ANewHope-Light/sensorpanel.gif",
+	"type": "Device",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Solomahal",
+	"id": "solomahal",
+	"imageUrl": "img/ANewHope-Light/solomahal.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Sorry About The Mess",
+	"id": "sorryaboutthemess",
+	"imageUrl": "img/ANewHope-Light/sorryaboutthemess.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "SW-4 Ion Cannon",
+	"id": "sw4ioncannon",
+	"imageUrl": "img/ANewHope-Light/sw4ioncannon.gif",
+	"type": "Weapon",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tantive IV",
+	"id": "tantiveiv",
+	"imageUrl": "img/ANewHope-Light/tantiveiv.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "They're On Dantooine",
+	"id": "theyreondantooine",
+	"imageUrl": "img/ANewHope-Light/theyreondantooine.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tiree",
+	"id": "tiree",
+	"imageUrl": "img/ANewHope-Light/tiree.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Tzizvvt",
+	"id": "tzizvvt",
+	"imageUrl": "img/ANewHope-Light/tzizvvt.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Undercover",
+	"id": "undercover_(ls)",
+	"imageUrl": "img/ANewHope-Light/undercover.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Wedge Antilles",
+	"id": "wedgeantilles",
+	"imageUrl": "img/ANewHope-Light/wedgeantilles.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	},
+	{
+	"name": "What're You Tryin' To Push On Us?",
+	"id": "whatreyoutryintopushonus",
+	"imageUrl": "img/ANewHope-Light/whatreyoutryintopushonus.gif",
+	"type": "Effect",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Wookiee Roar",
+	"id": "wookieeroar",
+	"imageUrl": "img/ANewHope-Light/wookieeroar.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Yavin 4: Briefing Room",
+	"id": "yavin4briefingroom",
+	"imageUrl": "img/ANewHope-Light/yavin4briefingroom.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Yavin 4: Massassi Ruins",
+	"id": "yavin4massassiruins",
+	"imageUrl": "img/ANewHope-Light/yavin4massassiruins.gif",
+	"type": "Location",
+	"set": "A New Hope"
+	},
+	{
+	"name": "You're All Clear Kid!",
+	"id": "youreallclearkid",
+	"imageUrl": "img/ANewHope-Light/youreallclearkid.gif",
+	"type": "Interrupt",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Y-wing Assault Squadron",
+	"id": "ywingassaultsquadron",
+	"imageUrl": "img/ANewHope-Light/ywingassaultsquadron.gif",
+	"type": "Starship",
+	"set": "A New Hope"
+	},
+	{
+	"name": "Zutton",
+	"id": "zutton",
+	"imageUrl": "img/ANewHope-Light/zutton.gif",
+	"type": "Character",
+	"set": "A New Hope"
+	}
+}

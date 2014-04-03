@@ -1,0 +1,296 @@
+﻿{
+	{
+	"name": "A Grand Army Of The Republic",
+	"id": "agrandarmyoftherepublic",
+	"imageUrl": "img/Virtual9-Light/agrandarmyoftherepublic.gif",
+	"type": "Effect",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Acclamator-Class Assault Ship",
+	"id": "acclamatorclassassaultship",
+	"imageUrl": "img/Virtual9-Light/acclamatorclassassaultship.gif",
+	"type": "Starship",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Anakin Skywalker, Padawan Learner",
+	"id": "anakinskywalkerpadawanlearner",
+	"imageUrl": "img/Virtual9-Light/anakinskywalkerpadawanlearner.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Assault on Muunilinst",
+	"id": "assaultonmuunilinst",
+	"imageUrl": "img/Virtual9-Light/assaultonmuunilinst.gif",
+	"type": "Mission",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "AT-RT",
+	"id": "atrt",
+	"imageUrl": "img/Virtual9-Light/atrt.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "AT-TE",
+	"id": "atte",
+	"imageUrl": "img/Virtual9-Light/atte.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Azure Angel",
+	"id": "azureangel",
+	"imageUrl": "img/Virtual9-Light/azureangel.gif",
+	"type": "Starship",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Begun, The Clone War Has",
+	"id": "beguntheclonewarhas",
+	"imageUrl": "img/Virtual9-Light/beguntheclonewarhas.gif",
+	"type": "Effect",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Blaster Rifle (V)",
+	"id": "blasterrifle_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/blasterrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Captain Rex, 501st Legion",
+	"id": "captainrex501stlegion",
+	"imageUrl": "img/Virtual9-Light/captainrex501stlegion.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Clone Infantry Squad",
+	"id": "cloneinfantrysquad",
+	"imageUrl": "img/Virtual9-Light/cloneinfantrysquad.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Clone Sniper",
+	"id": "clonesniper",
+	"imageUrl": "img/Virtual9-Light/clonesniper.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Clone Specialist",
+	"id": "clonespecialist",
+	"imageUrl": "img/Virtual9-Light/clonespecialist.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Cloning Cylinders",
+	"id": "cloningcylinders",
+	"imageUrl": "img/Virtual9-Light/cloningcylinders.gif",
+	"type": "Effect",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Commander Adar Tallon",
+	"id": "commanderadartallon",
+	"imageUrl": "img/Virtual9-Light/commanderadartallon.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Dorme'",
+	"id": "dorme",
+	"imageUrl": "img/Virtual9-Light/dorme.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Foul Moudama",
+	"id": "foulmoudama",
+	"imageUrl": "img/Virtual9-Light/foulmoudama.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "General Airen Cracken",
+	"id": "generalairencracken",
+	"imageUrl": "img/Virtual9-Light/generalairencracken.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "General Bel Iblis",
+	"id": "generalbeliblis",
+	"imageUrl": "img/Virtual9-Light/generalbeliblis.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Geonosis: Docking Bay",
+	"id": "geonosisdockingbay_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/geonosisdockingbay.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Geonosis: Forward Command Center",
+	"id": "geonosisforwardcommandcenter",
+	"imageUrl": "img/Virtual9-Light/geonosisforwardcommandcenter.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Geonosis: Petranaki Arena",
+	"id": "geonosispetranakiarena_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/geonosispetranakiarena.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Geonosis: Rocky Plains",
+	"id": "geonosisrockyplains_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/geonosisrockyplains.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Hunt Down The Dark Acolyte",
+	"id": "huntdownthedarkacolyte",
+	"imageUrl": "img/Virtual9-Light/huntdownthedarkacolyte.gif",
+	"type": "Mission",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Jaina Solo",
+	"id": "jainasolo",
+	"imageUrl": "img/Virtual9-Light/jainasolo.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Leebo",
+	"id": "leebo",
+	"imageUrl": "img/Virtual9-Light/leebo.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Low-Altitude Assault Transport",
+	"id": "lowaltitudeassaulttransport",
+	"imageUrl": "img/Virtual9-Light/lowaltitudeassaulttransport.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Max Rebo (V)",
+	"id": "maxrebo-v",
+	"imageUrl": "img/Virtual9-Light/maxrebo.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Much to Learn, You Still Have",
+	"id": "muchtolearnyoustillhave",
+	"imageUrl": "img/Virtual9-Light/muchtolearnyoustillhave.gif",
+	"type": "Effect",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Muunilinst",
+	"id": "muunilinst_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/muunilinst.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Muunilinst: City of Harnaidan",
+	"id": "muunilinstcityofharnaidan_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/muunilinstcityofharnaidan.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Muunilinst: Docking Bay",
+	"id": "muunilinstdockingbay_(ls)-v",
+	"imageUrl": "img/Virtual9-Light/muunilinstdockingbay.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Muunilinst: Harnaidan Plains",
+	"id": "muunilinstharnaidanplains",
+	"imageUrl": "img/Virtual9-Light/muunilinstharnaidanplains.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Muunilinst: Republic Landing Site",
+	"id": "muunilinstrepubliclandingsite",
+	"imageUrl": "img/Virtual9-Light/muunilinstrepubliclandingsite.gif",
+	"type": "Location",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Nien Nunb, Sullustan Smuggler",
+	"id": "niennunbsullustansmuggler",
+	"imageUrl": "img/Virtual9-Light/niennunbsullustansmuggler.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Republic At War / Aggressive Negotiations",
+	"id": "republicatwar",
+	"imageUrl": "img/starwars/Virtual9-Light/republicatwar/aggressivenegotiations.gif",
+	"type": "Objective",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Republic Gunship Wing",
+	"id": "republicgunshipwing",
+	"imageUrl": "img/Virtual9-Light/republicgunshipwing.gif",
+	"type": "Vehicle",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Rescue On Geonosis",
+	"id": "rescueongeonosis",
+	"imageUrl": "img/Virtual9-Light/rescueongeonosis.gif",
+	"type": "Mission",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "The Dark Side is Growing",
+	"id": "thedarksideisgrowing",
+	"imageUrl": "img/Virtual9-Light/thedarksideisgrowing.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "This Is More Like It (V)",
+	"id": "thisismorelikeit-v",
+	"imageUrl": "img/Virtual9-Light/thisismorelikeit.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "Voolvif Monn",
+	"id": "voolvifmonn",
+	"imageUrl": "img/Virtual9-Light/voolvifmonn.gif",
+	"type": "Character",
+	"set": "Virtual Block 9"
+	},
+	{
+	"name": "What About That Blue One?",
+	"id": "whataboutthatblueone",
+	"imageUrl": "img/Virtual9-Light/whataboutthatblueone.gif",
+	"type": "Effect",
+	"set": "Virtual Block 9"
+	}
+}

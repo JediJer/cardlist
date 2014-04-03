@@ -1,0 +1,359 @@
+﻿{
+	{
+	"name": "Abyssin Ornament (V)",
+	"id": "abyssinornament-v",
+	"imageUrl": "img/Virtual8-Dark/abyssinornament.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Assassin's Blaster Rifle",
+	"id": "assassinsblasterrifle",
+	"imageUrl": "img/Virtual8-Dark/assassinsblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "AT-AT Commander",
+	"id": "atatcommander",
+	"imageUrl": "img/Virtual8-Dark/atatcommander.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Aurra Sing, Deadly Assassin",
+	"id": "aurrasingdeadlyassassin",
+	"imageUrl": "img/Virtual8-Dark/aurrasingdeadlyassassin.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Bane Malar, Spice Addict",
+	"id": "banemalarspiceaddict",
+	"imageUrl": "img/Virtual8-Dark/banemalarspiceaddict.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Bespin (V)",
+	"id": "bespin-v",
+	"imageUrl": "img/Virtual8-Dark/bespin.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Boba Fett, Prepared Hunter",
+	"id": "bobafettpreparedhunter",
+	"imageUrl": "img/Virtual8-Dark/bobafettpreparedhunter.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Bossk with Mortar Gun (V)",
+	"id": "bosskwithmortargun-v",
+	"imageUrl": "img/Virtual8-Dark/bosskwithmortargun.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Carbonite Chamber Console (V)",
+	"id": "carbonitechamberconsole-v",
+	"imageUrl": "img/Virtual8-Dark/carbonitechamberconsole.gif",
+	"type": "Device",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Chevin (V)",
+	"id": "chevin-v",
+	"imageUrl": "img/Virtual8-Dark/chevin.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Cloud City: Security Tower (V)",
+	"id": "cloudcitysecuritytower-v",
+	"imageUrl": "img/Virtual8-Dark/cloudcitysecuritytower.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Contract Killers / Feared Throughout The Galaxy",
+	"id": "contractkillers",
+	"imageUrl": "img/starwars/Virtual8-Dark/contractkillers/fearedthroughoutthegalaxy.gif",
+	"type": "Objective",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Coruscant: Casino",
+	"id": "coruscantcasino",
+	"imageUrl": "img/Virtual8-Dark/coruscantcasino.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Coruscant: Sub City Lair",
+	"id": "coruscantsubcitylair",
+	"imageUrl": "img/Virtual8-Dark/coruscantsubcitylair.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Death Mark & Hutt Bounty",
+	"id": "deathmarkandhuttbounty",
+	"imageUrl": "img/Virtual8-Dark/deathmarkandhuttbounty.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Den Of Thieves & Special Delivery",
+	"id": "denofthieves&specialdelivery",
+	"imageUrl": "img/Virtual8-Dark/denofthieves&specialdelivery.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Give Yourself to the Dark Side",
+	"id": "giveyourselftothedarkside",
+	"imageUrl": "img/Virtual8-Dark/giveyourselftothedarkside.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Greedo with Blaster Pistol",
+	"id": "greedowithblasterpistol",
+	"imageUrl": "img/Virtual8-Dark/greedowithblasterpistol.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "He Always Wins!",
+	"id": "healwayswins",
+	"imageUrl": "img/Virtual8-Dark/healwayswins.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Hoth: Main Power Generators (1st Marker) (V)",
+	"id": "hothmainpowergenerators_(ds)-v",
+	"imageUrl": "img/Virtual8-Dark/hothmainpowergenerators.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "IG-2000 (V)",
+	"id": "ig2000-v",
+	"imageUrl": "img/Virtual8-Dark/ig2000.gif",
+	"type": "Starship",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Jango Fett, The Assassin",
+	"id": "jangofetttheassassin",
+	"imageUrl": "img/Virtual8-Dark/jangofetttheassassin.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Jango Fett, The Assassin (AI)",
+	"id": "jangofetttheassassinai",
+	"imageUrl": "img/Virtual8-Dark/jangofetttheassassinai.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Jet Pack (V)",
+	"id": "jetpack-v",
+	"imageUrl": "img/Virtual8-Dark/jetpack.gif",
+	"type": "Device",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Join Us Or Die",
+	"id": "joinusordie",
+	"imageUrl": "img/Virtual8-Dark/joinusordie.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Kashyyyk: Skyhook Platform",
+	"id": "kashyyykskyhookplatform",
+	"imageUrl": "img/Virtual8-Dark/kashyyykskyhookplatform.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Ket Maliss, Shadow Killer",
+	"id": "ketmalissshadowkiller",
+	"imageUrl": "img/Virtual8-Dark/ketmalissshadowkiller.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Lady Valarian",
+	"id": "ladyvalarian",
+	"imageUrl": "img/Virtual8-Dark/ladyvalarian.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Luuke",
+	"id": "luuke",
+	"imageUrl": "img/Virtual8-Dark/luuke.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Mara Jade's Lightsaber (V)",
+	"id": "marajadeslightsaber-v",
+	"imageUrl": "img/Virtual8-Dark/marajadeslightsaber.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Mercenary Pilot (V)",
+	"id": "mercenarypilot-v",
+	"imageUrl": "img/Virtual8-Dark/mercenarypilot.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "On The Hunt",
+	"id": "onthehunt",
+	"imageUrl": "img/Virtual8-Dark/onthehunt.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "OOM-9 (V)",
+	"id": "oom9-v",
+	"imageUrl": "img/Virtual8-Dark/oom9.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "R'tic H'weei",
+	"id": "rtichweei",
+	"imageUrl": "img/Virtual8-Dark/rtichweei.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Salacious Crumb (V)",
+	"id": "salaciouscrumb-v",
+	"imageUrl": "img/Virtual8-Dark/salaciouscrumb.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Sarlacc (V)",
+	"id": "sarlacc-v",
+	"imageUrl": "img/Virtual8-Dark/sarlacc.gif",
+	"type": "Creature",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Sith Fury & End This Destructive Conflict",
+	"id": "sithfury&endthisdestructiveconflict",
+	"imageUrl": "img/Virtual8-Dark/sithfury&endthisdestructiveconflict.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Slave I, Symbol Of Fear",
+	"id": "slaveisymboloffear",
+	"imageUrl": "img/Virtual8-Dark/slaveisymboloffear.gif",
+	"type": "Starship",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Sonic Bombardment (V)",
+	"id": "sonicbombardment-v",
+	"imageUrl": "img/Virtual8-Dark/sonicbombardment.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Spaceport Docking Bay (V)",
+	"id": "spaceportdockingbay-v",
+	"imageUrl": "img/Virtual8-Dark/spaceportdockingbay.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Tatooine: Imperial Vanguard Camp",
+	"id": "tatooineimperialvanguardcamp",
+	"imageUrl": "img/Virtual8-Dark/tatooineimperialvanguardcamp.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Tatooine: Watto's Junkyard (V)",
+	"id": "tatooinewattosjunkyard-v",
+	"imageUrl": "img/Virtual8-Dark/tatooinewattosjunkyard.gif",
+	"type": "Location",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "The Inner Circle",
+	"id": "theinnercircle",
+	"imageUrl": "img/Virtual8-Dark/theinnercircle.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "The Modal Nodes' Ommni Box",
+	"id": "themodalnodesommnibox",
+	"imageUrl": "img/Virtual8-Dark/themodalnodesommnibox.gif",
+	"type": "Device",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Vigo  (V)",
+	"id": "vigo-v",
+	"imageUrl": "img/Virtual8-Dark/vigo.gif",
+	"type": "Character",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Well Guarded (V)",
+	"id": "wellguarded-v",
+	"imageUrl": "img/Virtual8-Dark/wellguarded.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Wookiee Slaving Operation / Indentured To The Empire",
+	"id": "wookieeslavingoperation",
+	"imageUrl": "img/starwars/Virtual8-Dark/wookieeslavingoperation/indenturedtotheempire.gif",
+	"type": "Objective",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "Wookiee Subjugation",
+	"id": "wookieesubjugation",
+	"imageUrl": "img/Virtual8-Dark/wookieesubjugation.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "You May Start Your Landing (V)",
+	"id": "youmaystartyourlanding-v",
+	"imageUrl": "img/Virtual8-Dark/youmaystartyourlanding.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "You Swindled Me! (V)",
+	"id": "youswindledme-v",
+	"imageUrl": "img/Virtual8-Dark/youswindledme.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 8"
+	},
+	{
+	"name": "You'll Be Dead!",
+	"id": "youllbedead",
+	"imageUrl": "img/Virtual8-Dark/youllbedead!.gif",
+	"type": "Effect",
+	"set": "Virtual Block 8"
+	}
+}

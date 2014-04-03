@@ -1,0 +1,72 @@
+﻿{
+	{
+	"name": "Agents In The Court / No Love For The Empire",
+	"id": "agentsinthecourt",
+	"imageUrl": "img/starwars/JabbasPalaceSealedDeck-Light/agentsinthecourt/nolovefortheempire.gif",
+	"type": "Objective",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Jabba's Palace: Antechamber",
+	"id": "jabbaspalaceantechamber",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/jabbaspalaceantechamber.gif",
+	"type": "Location",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Lando With Vibro-Ax",
+	"id": "landowithvibroax",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/landowithvibroax.gif",
+	"type": "Character",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Ounee Ta",
+	"id": "ouneeta",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/ouneeta.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Palace Raider",
+	"id": "palaceraider",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/palaceraider.gif",
+	"type": "Character",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Racing Skiff",
+	"id": "racingskiff_(ls)",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/racingskiff.gif",
+	"type": "Vehicle",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Seeking An Audience",
+	"id": "seekinganaudience",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/seekinganaudience.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Stun Blaster",
+	"id": "stunblaster_(ls)",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/stunblaster.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Tatooine: Hutt Trade Route (Desert)",
+	"id": "tatooinehutttraderoutedesert",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/tatooinehutttraderoutedesert.gif",
+	"type": "Location",
+	"set": "Jabba's Palace Sealed Deck"
+	},
+	{
+	"name": "Underworld Contacts",
+	"id": "underworldcontacts",
+	"imageUrl": "img/JabbasPalaceSealedDeck-Light/underworldcontacts.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace Sealed Deck"
+	}
+}

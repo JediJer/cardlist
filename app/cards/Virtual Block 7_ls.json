@@ -1,0 +1,457 @@
+﻿{
+	{
+	"name": "Alter (Coruscant) (V)",
+	"id": "altercoruscant_(ls)-v",
+	"imageUrl": "img/Virtual7-Light/altercoruscant.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Alter (Premiere) (V)",
+	"id": "alterpremiere_(ls)-v",
+	"imageUrl": "img/Virtual7-Light/alterpremiere.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Artoo & Threepio (V)",
+	"id": "artoo&threepio-v",
+	"imageUrl": "img/Virtual7-Light/artoo&threepio.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Bacta Infirmary",
+	"id": "bactainfirmary",
+	"imageUrl": "img/Virtual7-Light/bactainfirmary.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Bail Organa, Father Of Rebellion",
+	"id": "bailorganafatherofrebellion",
+	"imageUrl": "img/Virtual7-Light/bailorganafatherofrebellion.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Biggs, Rogue Legend",
+	"id": "biggsroguelegend",
+	"imageUrl": "img/Virtual7-Light/biggsroguelegend.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Booster Terrik",
+	"id": "boosterterrik",
+	"imageUrl": "img/Virtual7-Light/boosterterrik.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Captain Antilles",
+	"id": "captainantilles",
+	"imageUrl": "img/Virtual7-Light/captainantilles.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Captain Yutani With Blaster Cannon",
+	"id": "captainyutaniwithblastercannon",
+	"imageUrl": "img/Virtual7-Light/captainyutaniwithblastercannon.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Center Of Tyranny / A Liberated World",
+	"id": "centeroftyranny",
+	"imageUrl": "img/starwars/Virtual7-Light/centeroftyranny/aliberatedworld.gif",
+	"type": "Objective",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Clinging To The Edge (V)",
+	"id": "clingingtotheedge-v",
+	"imageUrl": "img/Virtual7-Light/clingingtotheedge.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Combined Fleet Action (V)",
+	"id": "combinedfleetaction-v",
+	"imageUrl": "img/Virtual7-Light/combinedfleetaction.gif",
+	"type": "Admiral's Order",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Commander Narra",
+	"id": "commandernarra",
+	"imageUrl": "img/Virtual7-Light/commandernarra.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Commander Wedge Antilles (V)",
+	"id": "commanderwedgeantilles-v",
+	"imageUrl": "img/Virtual7-Light/commanderwedgeantilles.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Communing",
+	"id": "communing",
+	"imageUrl": "img/Virtual7-Light/communing.gif",
+	"type": "Epic Event",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Corporal Beezer (V)",
+	"id": "corporalbeezer-v",
+	"imageUrl": "img/Virtual7-Light/corporalbeezer.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Coruscant (V)",
+	"id": "coruscant-v",
+	"imageUrl": "img/Virtual7-Light/coruscant.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Coruscant: Lower Levels",
+	"id": "coruscantlowerlevels",
+	"imageUrl": "img/Virtual7-Light/coruscantlowerlevels.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Coruscant: Main Power Plant",
+	"id": "coruscantmainpowerplant",
+	"imageUrl": "img/Virtual7-Light/coruscantmainpowerplant.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Dack Ralter (V)",
+	"id": "dackralter-v",
+	"imageUrl": "img/Virtual7-Light/dackralter.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Declaration Of Rebellion",
+	"id": "declarationofrebellion",
+	"imageUrl": "img/Virtual7-Light/declarationofrebellion.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Derek 'Hobbie' Klivian (V)",
+	"id": "derekhobbieklivian-v",
+	"imageUrl": "img/Virtual7-Light/derekhobbieklivian.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Emperor's Sinister Plans",
+	"id": "emperorssinisterplans",
+	"imageUrl": "img/Virtual7-Light/emperorssinisterplans.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Field Dressing",
+	"id": "fielddressing",
+	"imageUrl": "img/Virtual7-Light/fielddressing.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "General Bob Hudsol",
+	"id": "generalbobhudsol",
+	"imageUrl": "img/Virtual7-Light/generalbobhudsol.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Heading For The Medical Frigate (V)",
+	"id": "headingforthemedicalfrigate-v",
+	"imageUrl": "img/Virtual7-Light/headingforthemedicalfrigate.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Hindsight (V)",
+	"id": "hindsight-v",
+	"imageUrl": "img/Virtual7-Light/hindsight.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "I Hope She's All Right (V)",
+	"id": "ihopeshesallright-v",
+	"imageUrl": "img/Virtual7-Light/ihopeshesallright.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Lucky Shot (V)",
+	"id": "luckyshot-v",
+	"imageUrl": "img/Virtual7-Light/luckyshot.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Luke Skywalker, Rebel Hero",
+	"id": "lukeskywalkerrebelhero",
+	"imageUrl": "img/Virtual7-Light/lukeskywalkerrebelhero.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Luke, Trust Me",
+	"id": "luketrustme",
+	"imageUrl": "img/Virtual7-Light/luketrustme.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Mace Windu, Master of the Order",
+	"id": "macewindumasteroftheorder",
+	"imageUrl": "img/Virtual7-Light/macewindumasteroftheorder.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Mace Windu, Master of the Order (AI)",
+	"id": "macewindumasteroftheorderai",
+	"imageUrl": "img/Virtual7-Light/macewindumasteroftheorderai.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Massassi Base Sentry",
+	"id": "massassibasesentry",
+	"imageUrl": "img/Virtual7-Light/massassibasesentry.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Master Kenobi",
+	"id": "masterkenobi",
+	"imageUrl": "img/Virtual7-Light/masterkenobi.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Motivator",
+	"id": "motivator",
+	"imageUrl": "img/Virtual7-Light/motivator.gif",
+	"type": "Device",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Oh, He's Not Dead, Not Yet",
+	"id": "ohhesnotdeadnotyet",
+	"imageUrl": "img/Virtual7-Light/ohhesnotdeadnotyet.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Planet Defender Ion Cannon (V)",
+	"id": "planetdefenderioncannon-v",
+	"imageUrl": "img/Virtual7-Light/planetdefenderioncannon.gif",
+	"type": "Weapon",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Planetary Shield",
+	"id": "planetaryshield",
+	"imageUrl": "img/Virtual7-Light/planetaryshield.gif",
+	"type": "Device",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Princess Leia, Lost Scion",
+	"id": "princessleialostscion",
+	"imageUrl": "img/Virtual7-Light/princessleialostscion.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "R2-D2, Subversive Droid",
+	"id": "r2d2subversivedroid",
+	"imageUrl": "img/Virtual7-Light/r2d2subversivedroid.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rahm Kota, Blind Jedi",
+	"id": "rahmkotablindjedi",
+	"imageUrl": "img/Virtual7-Light/rahmkotablindjedi.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rebel Aces",
+	"id": "rebelaces",
+	"imageUrl": "img/Virtual7-Light/rebelaces.gif",
+	"type": "Mission",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rebel Gunrunner",
+	"id": "rebelgunrunner",
+	"imageUrl": "img/Virtual7-Light/rebelgunrunner.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rebel Sacrifice",
+	"id": "rebelsacrifice",
+	"imageUrl": "img/Virtual7-Light/rebelsacrifice.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rebel Strike Team / Garrison Destroyed (V)",
+	"id": "rebelstriketeam-v",
+	"imageUrl": "img/starwars/Virtual7-Light/rebelstriketeam/garrisondestroyed.gif",
+	"type": "Objective",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Red 3 (V)",
+	"id": "red3-v",
+	"imageUrl": "img/Virtual7-Light/red3.gif",
+	"type": "Starship",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Restore Freedom To The Galaxy",
+	"id": "restorefreedomtothegalaxy",
+	"imageUrl": "img/Virtual7-Light/restorefreedomtothegalaxy.gif",
+	"type": "Mission",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Roche (V)",
+	"id": "roche-v",
+	"imageUrl": "img/Virtual7-Light/roche.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rogue Insertion",
+	"id": "rogueinsertion",
+	"imageUrl": "img/Virtual7-Light/rogueinsertion.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Rogue Squadron Tactics",
+	"id": "roguesquadrontactics",
+	"imageUrl": "img/Virtual7-Light/roguesquadrontactics.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Run Luke, Run! (V)",
+	"id": "runlukerun-v",
+	"imageUrl": "img/Virtual7-Light/runlukerun.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "S-foils (V)",
+	"id": "sfoils-v",
+	"imageUrl": "img/Virtual7-Light/sfoils.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Tarfful, Wookiee Insurgent",
+	"id": "tarffulwookieeinsurgent",
+	"imageUrl": "img/Virtual7-Light/tarffulwookieeinsurgent.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Tatooine: Obi-Wan's Hut (V)",
+	"id": "tatooineobiwanshut-v",
+	"imageUrl": "img/Virtual7-Light/tatooineobiwanshut.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Temporary Foothold",
+	"id": "temporaryfoothold",
+	"imageUrl": "img/Virtual7-Light/temporaryfoothold.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Ten Numb (V)",
+	"id": "tennumb-v",
+	"imageUrl": "img/Virtual7-Light/tennumb.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "The Camp (V)",
+	"id": "thecamp-v",
+	"imageUrl": "img/Virtual7-Light/thecamp.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "The Shield Is Down! (V)",
+	"id": "theshieldisdown-v",
+	"imageUrl": "img/Virtual7-Light/theshieldisdown.gif",
+	"type": "Effect",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Tycho Celchu (V)",
+	"id": "tychocelchu-v",
+	"imageUrl": "img/Virtual7-Light/tychocelchu.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Use The Force",
+	"id": "usetheforce",
+	"imageUrl": "img/Virtual7-Light/usetheforce.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Wedge Antilles, Legendary Rogue",
+	"id": "wedgeantilleslegendaryrogue",
+	"imageUrl": "img/Virtual7-Light/wedgeantilleslegendaryrogue.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Wes Janson, Rogue Veteran",
+	"id": "wesjansonrogueveteran",
+	"imageUrl": "img/Virtual7-Light/wesjansonrogueveteran.gif",
+	"type": "Character",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Yavin 4 (V)",
+	"id": "yavin4-v",
+	"imageUrl": "img/Virtual7-Light/yavin4.gif",
+	"type": "Location",
+	"set": "Virtual Block 7"
+	},
+	{
+	"name": "Yub Yub, Commander",
+	"id": "yubyubcommander",
+	"imageUrl": "img/Virtual7-Light/yubyubcommander.gif",
+	"type": "Interrupt",
+	"set": "Virtual Block 7"
+	}
+}

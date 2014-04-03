@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "Abyssin",
+	"id": "abyssin",
+	"imageUrl": "img/JabbasPalace-Dark/abyssin.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Abyssin Ornament",
+	"id": "abyssinornament",
+	"imageUrl": "img/JabbasPalace-Dark/abyssinornament.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "All Wrapped Up",
+	"id": "allwrappedup",
+	"imageUrl": "img/JabbasPalace-Dark/allwrappedup.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Amanaman",
+	"id": "amanaman",
+	"imageUrl": "img/JabbasPalace-Dark/amanaman.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Amanin",
+	"id": "amanin",
+	"imageUrl": "img/JabbasPalace-Dark/amanin.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Antipersonnel Laser Cannon",
+	"id": "antipersonnellasercannon",
+	"imageUrl": "img/JabbasPalace-Dark/antipersonnellasercannon.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Aqualish",
+	"id": "aqualish",
+	"imageUrl": "img/JabbasPalace-Dark/aqualish.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Bane Malar",
+	"id": "banemalar",
+	"imageUrl": "img/JabbasPalace-Dark/banemalar.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Bantha Fodder",
+	"id": "banthafodder",
+	"imageUrl": "img/JabbasPalace-Dark/banthafodder.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Barada",
+	"id": "barada",
+	"imageUrl": "img/JabbasPalace-Dark/barada.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Beedo",
+	"id": "beedo",
+	"imageUrl": "img/JabbasPalace-Dark/beedo.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Bib Fortuna",
+	"id": "bibfortuna_(jabba's palace)",
+	"imageUrl": "img/JabbasPalace-Dark/bibfortuna.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Bubo",
+	"id": "bubo",
+	"imageUrl": "img/JabbasPalace-Dark/bubo.gif",
+	"type": "Creature",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Cane Adiss",
+	"id": "caneadiss",
+	"imageUrl": "img/JabbasPalace-Dark/caneadiss.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Chevin",
+	"id": "chevin",
+	"imageUrl": "img/JabbasPalace-Dark/chevin.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "CZ-4",
+	"id": "cz4",
+	"imageUrl": "img/JabbasPalace-Dark/cz4.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Den Of Thieves",
+	"id": "denofthieves",
+	"imageUrl": "img/JabbasPalace-Dark/denofthieves.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Dengar's Modified Riot Gun",
+	"id": "dengarsmodifiedriotgun",
+	"imageUrl": "img/JabbasPalace-Dark/dengarsmodifiedriotgun.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Double Laser Cannon",
+	"id": "doublelasercannon",
+	"imageUrl": "img/JabbasPalace-Dark/doublelasercannon.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Dune Sea Sabacc",
+	"id": "duneseasabacc_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/duneseasabacc.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ephant Mon",
+	"id": "ephantmon",
+	"imageUrl": "img/JabbasPalace-Dark/ephantmon.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "EV-9D9",
+	"id": "ev9d9",
+	"imageUrl": "img/JabbasPalace-Dark/ev9d9.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Fozec",
+	"id": "fozec",
+	"imageUrl": "img/JabbasPalace-Dark/fozec.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Gailid",
+	"id": "gailid",
+	"imageUrl": "img/JabbasPalace-Dark/gailid.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Gamorrean Ax",
+	"id": "gamorreanax",
+	"imageUrl": "img/JabbasPalace-Dark/gamorreanax.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Gamorrean Guard",
+	"id": "gamorreanguard",
+	"imageUrl": "img/JabbasPalace-Dark/gamorreanguard.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Giran",
+	"id": "giran",
+	"imageUrl": "img/JabbasPalace-Dark/giran.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Herat",
+	"id": "herat",
+	"imageUrl": "img/JabbasPalace-Dark/herat.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Hermi Odle",
+	"id": "hermiodle",
+	"imageUrl": "img/JabbasPalace-Dark/hermiodle.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Hidden Weapons",
+	"id": "hiddenweapons",
+	"imageUrl": "img/JabbasPalace-Dark/hiddenweapons.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Hutt Bounty",
+	"id": "huttbounty",
+	"imageUrl": "img/JabbasPalace-Dark/huttbounty.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Hutt Smooch",
+	"id": "huttsmooch",
+	"imageUrl": "img/JabbasPalace-Dark/huttsmooch.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Information Exchange",
+	"id": "informationexchange",
+	"imageUrl": "img/JabbasPalace-Dark/informationexchange.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba The Hutt",
+	"id": "jabbathehutt",
+	"imageUrl": "img/JabbasPalace-Dark/jabbathehutt.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace Sabacc",
+	"id": "jabbaspalacesabacc_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/jabbaspalacesabacc.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Audience Chamber",
+	"id": "jabbaspalaceaudiencechamber_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/jabbaspalaceaudiencechamber.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Droid Workshop",
+	"id": "jabbaspalacedroidworkshop",
+	"imageUrl": "img/JabbasPalace-Dark/jabbaspalacedroidworkshop.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Dungeon",
+	"id": "jabbaspalacedungeon",
+	"imageUrl": "img/JabbasPalace-Dark/jabbaspalacedungeon.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Entrance Cavern",
+	"id": "jabbaspalaceentrancecavern_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/jabbaspalaceentrancecavern.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Rancor Pit",
+	"id": "jabbaspalacerancorpit",
+	"imageUrl": "img/JabbasPalace-Dark/jabbaspalacerancorpit.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Sail Barge",
+	"id": "jabbassailbarge",
+	"imageUrl": "img/JabbasPalace-Dark/jabbassailbarge.gif",
+	"type": "Vehicle",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Sail Barge: Passenger Deck",
+	"id": "jabbassailbargepassengerdeck",
+	"imageUrl": "img/JabbasPalace-Dark/jabbassailbargepassengerdeck.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jet Pack",
+	"id": "jetpack",
+	"imageUrl": "img/JabbasPalace-Dark/jetpack.gif",
+	"type": "Device",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "J'Quille",
+	"id": "jquille",
+	"imageUrl": "img/JabbasPalace-Dark/jquille.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Kithaba",
+	"id": "kithaba",
+	"imageUrl": "img/JabbasPalace-Dark/kithaba.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Klaatu",
+	"id": "klaatu",
+	"imageUrl": "img/JabbasPalace-Dark/klaatu.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Malakili",
+	"id": "malakili",
+	"imageUrl": "img/JabbasPalace-Dark/malakili.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Mos Eisley Blaster",
+	"id": "moseisleyblaster_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/moseisleyblaster.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Murttoc Yine",
+	"id": "murttocyine",
+	"imageUrl": "img/JabbasPalace-Dark/murttocyine.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Nal Hutta",
+	"id": "nalhutta",
+	"imageUrl": "img/JabbasPalace-Dark/nalhutta.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Nikto",
+	"id": "nikto",
+	"imageUrl": "img/JabbasPalace-Dark/nikto.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Nizuc Bek",
+	"id": "nizucbek",
+	"imageUrl": "img/JabbasPalace-Dark/nizucbek.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "None Shall Pass",
+	"id": "noneshallpass",
+	"imageUrl": "img/JabbasPalace-Dark/noneshallpass.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Nysad",
+	"id": "nysad",
+	"imageUrl": "img/JabbasPalace-Dark/nysad.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ortugg",
+	"id": "ortugg",
+	"imageUrl": "img/JabbasPalace-Dark/ortugg.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Pote Snitkin",
+	"id": "potesnitkin",
+	"imageUrl": "img/JabbasPalace-Dark/potesnitkin.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Quarren",
+	"id": "quarren",
+	"imageUrl": "img/JabbasPalace-Dark/quarren.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Quick Reflexes",
+	"id": "quickreflexes",
+	"imageUrl": "img/JabbasPalace-Dark/quickreflexes.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Rancor",
+	"id": "rancor",
+	"imageUrl": "img/JabbasPalace-Dark/rancor.gif",
+	"type": "Creature",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ree-Yees",
+	"id": "reeyees",
+	"imageUrl": "img/JabbasPalace-Dark/reeyees.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Resistance",
+	"id": "resistance",
+	"imageUrl": "img/JabbasPalace-Dark/resistance.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Salacious Crumb",
+	"id": "salaciouscrumb",
+	"imageUrl": "img/JabbasPalace-Dark/salaciouscrumb.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Sandwhirl",
+	"id": "sandwhirl_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/sandwhirl.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Scum And Villainy",
+	"id": "scumandvillainy",
+	"imageUrl": "img/JabbasPalace-Dark/scumandvillainy.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Skiff",
+	"id": "skiff_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/skiff.gif",
+	"type": "Vehicle",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Skrilling",
+	"id": "skrilling",
+	"imageUrl": "img/JabbasPalace-Dark/skrilling.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tatooine: Desert",
+	"id": "tatooinedesert_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/tatooinedesert.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tatooine: Great Pit Of Carkoon",
+	"id": "tatooinegreatpitofcarkoon",
+	"imageUrl": "img/JabbasPalace-Dark/tatooinegreatpitofcarkoon.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tatooine: Jabba's Palace",
+	"id": "tatooinejabbaspalace_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/tatooinejabbaspalace.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Taym Dren-garen",
+	"id": "taymdrengaren",
+	"imageUrl": "img/JabbasPalace-Dark/taymdrengaren.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Thermal Detonator",
+	"id": "thermaldetonator",
+	"imageUrl": "img/JabbasPalace-Dark/thermaldetonator.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Thul Fain",
+	"id": "thulfain",
+	"imageUrl": "img/JabbasPalace-Dark/thulfain.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Torture",
+	"id": "torture",
+	"imageUrl": "img/JabbasPalace-Dark/torture.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Trandoshan",
+	"id": "trandoshan",
+	"imageUrl": "img/JabbasPalace-Dark/trandoshan.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Trap Door",
+	"id": "trapdoor",
+	"imageUrl": "img/JabbasPalace-Dark/trapdoor.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Twi'lek Advisor",
+	"id": "twilekadvisor",
+	"imageUrl": "img/JabbasPalace-Dark/twilekadvisor.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Vedain",
+	"id": "vedain",
+	"imageUrl": "img/JabbasPalace-Dark/vedain.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Velken Tezeri",
+	"id": "velkentezeri",
+	"imageUrl": "img/JabbasPalace-Dark/velkentezeri.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Vibro-Ax",
+	"id": "vibroax_(ds)",
+	"imageUrl": "img/JabbasPalace-Dark/vibroax.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Vizam",
+	"id": "vizam",
+	"imageUrl": "img/JabbasPalace-Dark/vizam.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Weequay Guard",
+	"id": "weequayguard",
+	"imageUrl": "img/JabbasPalace-Dark/weequayguard.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Weequay Hunter",
+	"id": "weequayhunter",
+	"imageUrl": "img/JabbasPalace-Dark/weequayhunter.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Weequay Marksman",
+	"id": "weequaymarksman",
+	"imageUrl": "img/JabbasPalace-Dark/weequaymarksman.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Weequay Skiff Master",
+	"id": "weequayskiffmaster",
+	"imageUrl": "img/JabbasPalace-Dark/weequayskiffmaster.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Well Guarded",
+	"id": "wellguarded",
+	"imageUrl": "img/JabbasPalace-Dark/wellguarded.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Whiphid",
+	"id": "whiphid",
+	"imageUrl": "img/JabbasPalace-Dark/whiphid.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Wittin",
+	"id": "wittin",
+	"imageUrl": "img/JabbasPalace-Dark/wittin.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Wooof",
+	"id": "wooof",
+	"imageUrl": "img/JabbasPalace-Dark/wooof.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Wounded Wookiee",
+	"id": "woundedwookiee",
+	"imageUrl": "img/JabbasPalace-Dark/woundedwookiee.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Yuzzum",
+	"id": "yuzzum",
+	"imageUrl": "img/JabbasPalace-Dark/yuzzum.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	}
+}

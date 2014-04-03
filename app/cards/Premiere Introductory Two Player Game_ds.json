@@ -1,0 +1,23 @@
+﻿{
+	{
+	"name": "Death Star: Docking Control Room 327",
+	"id": "deathstardockingcontrolroom327",
+	"imageUrl": "img/PremiereIntroductoryTwoPlayerGame-Dark/deathstardockingcontrolroom327.gif",
+	"type": "Location",
+	"set": "Premiere Introductory Two Player Game"
+	},
+	{
+	"name": "Vader",
+	"id": "vader",
+	"imageUrl": "img/PremiereIntroductoryTwoPlayerGame-Dark/vader.gif",
+	"type": "Character",
+	"set": "Premiere Introductory Two Player Game"
+	},
+	{
+	"name": "Vader's Obsession",
+	"id": "vadersobsession",
+	"imageUrl": "img/PremiereIntroductoryTwoPlayerGame-Dark/vadersobsession.gif",
+	"type": "Interrupt",
+	"set": "Premiere Introductory Two Player Game"
+	}
+}

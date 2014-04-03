@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "3,720 To 1",
+	"id": "3720to1",
+	"imageUrl": "img/Dagobah-Dark/3720to1.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "4-LOM",
+	"id": "4lom",
+	"imageUrl": "img/Dagobah-Dark/4lom.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "4-LOM's Concussion Rifle",
+	"id": "4lomsconcussionrifle",
+	"imageUrl": "img/Dagobah-Dark/4lomsconcussionrifle.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	},
+	{
+	"name": "A Dangerous Time",
+	"id": "adangeroustime",
+	"imageUrl": "img/Dagobah-Dark/adangeroustime.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Anoat",
+	"id": "anoat_(ds)",
+	"imageUrl": "img/Dagobah-Dark/anoat.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Apology Accepted",
+	"id": "apologyaccepted",
+	"imageUrl": "img/Dagobah-Dark/apologyaccepted.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Asteroid Field",
+	"id": "asteroidfield_(ds)",
+	"imageUrl": "img/Dagobah-Dark/asteroidfield.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Avenger",
+	"id": "avenger",
+	"imageUrl": "img/Dagobah-Dark/avenger.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Awwww, Cannot Get Your Ship Out",
+	"id": "awwwwcannotgetyourshipout",
+	"imageUrl": "img/Dagobah-Dark/awwwwcannotgetyourshipout.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Bad Feeling Have I",
+	"id": "badfeelinghavei",
+	"imageUrl": "img/Dagobah-Dark/badfeelinghavei.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Big One",
+	"id": "bigone_(ds)",
+	"imageUrl": "img/Dagobah-Dark/bigone.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Big One: Asteroid Cave Or Space Slug Belly",
+	"id": "bigoneasteroidcaveorspaceslugbelly_(ds)",
+	"imageUrl": "img/Dagobah-Dark/bigoneasteroidcaveorspaceslugbelly.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Bog-wing",
+	"id": "bogwing_(ds)",
+	"imageUrl": "img/Dagobah-Dark/bogwing.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Bombing Run",
+	"id": "bombingrun",
+	"imageUrl": "img/Dagobah-Dark/bombingrun.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Bossk",
+	"id": "bossk",
+	"imageUrl": "img/Dagobah-Dark/bossk.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Bossk's Mortar Gun",
+	"id": "bossksmortargun",
+	"imageUrl": "img/Dagobah-Dark/bossksmortargun.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Broken Concentration",
+	"id": "brokenconcentration",
+	"imageUrl": "img/Dagobah-Dark/brokenconcentration.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Captain Needa",
+	"id": "captainneeda",
+	"imageUrl": "img/Dagobah-Dark/captainneeda.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Close Call",
+	"id": "closecall",
+	"imageUrl": "img/Dagobah-Dark/closecall.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Comm Chief",
+	"id": "commchief",
+	"imageUrl": "img/Dagobah-Dark/commchief.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Commander Brandei",
+	"id": "commanderbrandei",
+	"imageUrl": "img/Dagobah-Dark/commanderbrandei.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Commander Gherant",
+	"id": "commandergherant",
+	"imageUrl": "img/Dagobah-Dark/commandergherant.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Commander Nemet",
+	"id": "commandernemet",
+	"imageUrl": "img/Dagobah-Dark/commandernemet.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Control",
+	"id": "control_(ds)_(dagobah)",
+	"imageUrl": "img/Dagobah-Dark/control.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Corporal Derdram",
+	"id": "corporalderdram",
+	"imageUrl": "img/Dagobah-Dark/corporalderdram.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Corporal Vandolay",
+	"id": "corporalvandolay",
+	"imageUrl": "img/Dagobah-Dark/corporalvandolay.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Corrosive Damage",
+	"id": "corrosivedamage",
+	"imageUrl": "img/Dagobah-Dark/corrosivedamage.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dagobah: Cave",
+	"id": "dagobahcave",
+	"imageUrl": "img/Dagobah-Dark/dagobahcave.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Defensive Fire",
+	"id": "defensivefire",
+	"imageUrl": "img/Dagobah-Dark/defensivefire.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dengar",
+	"id": "dengar",
+	"imageUrl": "img/Dagobah-Dark/dengar.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dengar's Blaster Carbine",
+	"id": "dengarsblastercarbine",
+	"imageUrl": "img/Dagobah-Dark/dengarsblastercarbine.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Dragonsnake",
+	"id": "dragonsnake",
+	"imageUrl": "img/Dagobah-Dark/dragonsnake.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Executor",
+	"id": "executor",
+	"imageUrl": "img/Dagobah-Dark/executor.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Executor: Comm Station",
+	"id": "executorcommstation",
+	"imageUrl": "img/Dagobah-Dark/executorcommstation.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Executor: Control Station",
+	"id": "executorcontrolstation",
+	"imageUrl": "img/Dagobah-Dark/executorcontrolstation.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Executor: Holotheatre",
+	"id": "executorholotheatre",
+	"imageUrl": "img/Dagobah-Dark/executorholotheatre.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Executor: Main Corridor",
+	"id": "executormaincorridor",
+	"imageUrl": "img/Dagobah-Dark/executormaincorridor.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Executor: Meditation Chamber",
+	"id": "executormeditationchamber",
+	"imageUrl": "img/Dagobah-Dark/executormeditationchamber.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Failure At The Cave",
+	"id": "failureatthecave",
+	"imageUrl": "img/Dagobah-Dark/failureatthecave.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Fear",
+	"id": "fear",
+	"imageUrl": "img/Dagobah-Dark/fear.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Field Promotion",
+	"id": "fieldpromotion",
+	"imageUrl": "img/Dagobah-Dark/fieldpromotion.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Flagship",
+	"id": "flagship",
+	"imageUrl": "img/Dagobah-Dark/flagship.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Frustration",
+	"id": "frustration",
+	"imageUrl": "img/Dagobah-Dark/frustration.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "He Is Not Ready",
+	"id": "heisnotready",
+	"imageUrl": "img/Dagobah-Dark/heisnotready.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "HoloNet Transmission",
+	"id": "holonettransmission",
+	"imageUrl": "img/Dagobah-Dark/holonettransmission.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Hound's Tooth",
+	"id": "houndstooth",
+	"imageUrl": "img/Dagobah-Dark/houndstooth.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "I Want That Ship",
+	"id": "iwantthatship",
+	"imageUrl": "img/Dagobah-Dark/iwantthatship.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "IG-2000",
+	"id": "ig2000",
+	"imageUrl": "img/Dagobah-Dark/ig2000.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "IG-88",
+	"id": "ig88",
+	"imageUrl": "img/Dagobah-Dark/ig88.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "IG-88's Neural Inhibitor",
+	"id": "ig88sneuralinhibitor",
+	"imageUrl": "img/Dagobah-Dark/ig88sneuralinhibitor.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	},
+	{
+	"name": "IG-88's Pulse Cannon",
+	"id": "ig88spulsecannon",
+	"imageUrl": "img/Dagobah-Dark/ig88spulsecannon.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Imbalance",
+	"id": "imbalance",
+	"imageUrl": "img/Dagobah-Dark/imbalance.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Imperial Helmsman",
+	"id": "imperialhelmsman",
+	"imageUrl": "img/Dagobah-Dark/imperialhelmsman.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Knowledge And Defense",
+	"id": "knowledgeanddefense",
+	"imageUrl": "img/Dagobah-Dark/knowledgeanddefense.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Lando System?",
+	"id": "landosystem",
+	"imageUrl": "img/Dagobah-Dark/landosystem.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Lieutenant Commander Ardan",
+	"id": "lieutenantcommanderardan",
+	"imageUrl": "img/Dagobah-Dark/lieutenantcommanderardan.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Lieutenant Suba",
+	"id": "lieutenantsuba",
+	"imageUrl": "img/Dagobah-Dark/lieutenantsuba.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Lieutenant Venka",
+	"id": "lieutenantvenka",
+	"imageUrl": "img/Dagobah-Dark/lieutenantvenka.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Location, Location, Location",
+	"id": "locationlocationlocation",
+	"imageUrl": "img/Dagobah-Dark/locationlocationlocation.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Lost In Space",
+	"id": "lostinspace",
+	"imageUrl": "img/Dagobah-Dark/lostinspace.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Mist Hunter",
+	"id": "misthunter",
+	"imageUrl": "img/Dagobah-Dark/misthunter.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Much Anger In Him",
+	"id": "muchangerinhim",
+	"imageUrl": "img/Dagobah-Dark/muchangerinhim.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Mynock",
+	"id": "mynock_(ds)",
+	"imageUrl": "img/Dagobah-Dark/mynock.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Precision Targeting",
+	"id": "precisiontargeting",
+	"imageUrl": "img/Dagobah-Dark/precisiontargeting.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Proton Bombs",
+	"id": "protonbombs",
+	"imageUrl": "img/Dagobah-Dark/protonbombs.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Punishing One",
+	"id": "punishingone",
+	"imageUrl": "img/Dagobah-Dark/punishingone.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Raithal",
+	"id": "raithal_(ds)",
+	"imageUrl": "img/Dagobah-Dark/raithal.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Res Luk Ra'auf",
+	"id": "reslukraauf",
+	"imageUrl": "img/Dagobah-Dark/reslukraauf.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Rogue Asteroid",
+	"id": "rogueasteroid_(ds)",
+	"imageUrl": "img/Dagobah-Dark/rogueasteroid.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Shot In The Dark",
+	"id": "shotinthedark",
+	"imageUrl": "img/Dagobah-Dark/shotinthedark.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Shut Him Up Or Shut Him Down",
+	"id": "shuthimuporshuthimdown",
+	"imageUrl": "img/Dagobah-Dark/shuthimuporshuthimdown.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Sleen",
+	"id": "sleen",
+	"imageUrl": "img/Dagobah-Dark/sleen.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Something Hit Us!",
+	"id": "somethinghitus",
+	"imageUrl": "img/Dagobah-Dark/somethinghitus.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Space Slug",
+	"id": "spaceslug_(ds)",
+	"imageUrl": "img/Dagobah-Dark/spaceslug.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Star Destroyer: Launch Bay",
+	"id": "stardestroyerlaunchbay",
+	"imageUrl": "img/Dagobah-Dark/stardestroyerlaunchbay.gif",
+	"type": "Location",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Sudden Impact",
+	"id": "suddenimpact",
+	"imageUrl": "img/Dagobah-Dark/suddenimpact.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Take Evasive Action",
+	"id": "takeevasiveaction",
+	"imageUrl": "img/Dagobah-Dark/takeevasiveaction.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "The Dark Path",
+	"id": "thedarkpath",
+	"imageUrl": "img/Dagobah-Dark/thedarkpath.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "There Is No Try",
+	"id": "thereisnotry",
+	"imageUrl": "img/Dagobah-Dark/thereisnotry.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Those Rebels Won't Escape Us",
+	"id": "thoserebelswontescapeus",
+	"imageUrl": "img/Dagobah-Dark/thoserebelswontescapeus.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "TIE Avenger",
+	"id": "tieavenger",
+	"imageUrl": "img/Dagobah-Dark/tieavenger.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "TIE Bomber",
+	"id": "tiebomber",
+	"imageUrl": "img/Dagobah-Dark/tiebomber.gif",
+	"type": "Starship",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Uncertain Is The Future",
+	"id": "uncertainisthefuture",
+	"imageUrl": "img/Dagobah-Dark/uncertainisthefuture.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Unexpected Interruption",
+	"id": "unexpectedinterruption",
+	"imageUrl": "img/Dagobah-Dark/unexpectedinterruption.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Vine Snake",
+	"id": "vinesnake_(ds)",
+	"imageUrl": "img/Dagobah-Dark/vinesnake.gif",
+	"type": "Creature",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Visage Of The Emperor",
+	"id": "visageoftheemperor",
+	"imageUrl": "img/Dagobah-Dark/visageoftheemperor.gif",
+	"type": "Effect",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Voyeur",
+	"id": "voyeur",
+	"imageUrl": "img/Dagobah-Dark/voyeur.gif",
+	"type": "Interrupt",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Warrant Officer M'Kae",
+	"id": "warrantofficermkae",
+	"imageUrl": "img/Dagobah-Dark/warrantofficermkae.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Zuckuss",
+	"id": "zuckuss",
+	"imageUrl": "img/Dagobah-Dark/zuckuss.gif",
+	"type": "Character",
+	"set": "Dagobah"
+	},
+	{
+	"name": "Zuckuss' Snare Rifle",
+	"id": "zuckusssnarerifle",
+	"imageUrl": "img/Dagobah-Dark/zuckusssnarerifle.gif",
+	"type": "Weapon",
+	"set": "Dagobah"
+	}
+}

@@ -1,0 +1,653 @@
+﻿{
+	{
+	"name": "Accepting Trade Federation Control",
+	"id": "acceptingtradefederationcontrol",
+	"imageUrl": "img/Coruscant-Dark/acceptingtradefederationcontrol.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Aks Moe",
+	"id": "aksmoe",
+	"imageUrl": "img/Coruscant-Dark/aksmoe.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Allegations Of Corruption",
+	"id": "allegationsofcorruption",
+	"imageUrl": "img/Coruscant-Dark/allegationsofcorruption.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Alter",
+	"id": "alter_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/alter.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Baskol Yeesrim",
+	"id": "baskolyeesrim",
+	"imageUrl": "img/Coruscant-Dark/baskolyeesrim.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Battle Droid Blaster Rifle",
+	"id": "battledroidblasterrifle",
+	"imageUrl": "img/Coruscant-Dark/battledroidblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Battle Order & First Strike",
+	"id": "battleorder&firststrike",
+	"imageUrl": "img/Coruscant-Dark/battleorder&firststrike.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Begin Landing Your Troops",
+	"id": "beginlandingyourtroops",
+	"imageUrl": "img/Coruscant-Dark/beginlandingyourtroops.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Blockade Flagship: Bridge",
+	"id": "blockadeflagshipbridge",
+	"imageUrl": "img/Coruscant-Dark/blockadeflagshipbridge.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Chokk",
+	"id": "chokk",
+	"imageUrl": "img/Coruscant-Dark/chokk.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Control",
+	"id": "control_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/control.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant",
+	"id": "coruscant_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/coruscant.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant Guard",
+	"id": "coruscantguard_(ds)",
+	"imageUrl": "img/Coruscant-Dark/coruscantguard.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant: Docking Bay",
+	"id": "coruscantdockingbay_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/coruscantdockingbay.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Coruscant: Galactic Senate",
+	"id": "coruscantgalacticsenate_(ds)",
+	"imageUrl": "img/Coruscant-Dark/coruscantgalacticsenate.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Darth Maul, Young Apprentice",
+	"id": "darthmaulyoungapprentice",
+	"imageUrl": "img/Coruscant-Dark/darthmaulyoungapprentice.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Darth Maul, Young Apprentice (AI)",
+	"id": "darthmaulyoungapprenticeai",
+	"imageUrl": "img/Coruscant-Dark/darthmaulyoungapprenticeai.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Daultay Dofine",
+	"id": "daultaydofine",
+	"imageUrl": "img/Coruscant-Dark/daultaydofine.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Destroyer Droid",
+	"id": "destroyerdroid",
+	"imageUrl": "img/Coruscant-Dark/destroyerdroid.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Dioxis",
+	"id": "dioxis",
+	"imageUrl": "img/Coruscant-Dark/dioxis.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Do They Have A Code Clearance?",
+	"id": "dotheyhaveacodeclearance",
+	"imageUrl": "img/Coruscant-Dark/dotheyhaveacodeclearance.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Droid Starfighter",
+	"id": "droidstarfighter",
+	"imageUrl": "img/Coruscant-Dark/droidstarfighter.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Drop!",
+	"id": "drop",
+	"imageUrl": "img/Coruscant-Dark/drop.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Edcel Bar Gane",
+	"id": "edcelbargane",
+	"imageUrl": "img/Coruscant-Dark/edcelbargane.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Enter The Bureaucrat",
+	"id": "enterthebureaucrat",
+	"imageUrl": "img/Coruscant-Dark/enterthebureaucrat.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Establish Control",
+	"id": "establishcontrol",
+	"imageUrl": "img/Coruscant-Dark/establishcontrol.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Gardulla The Hutt",
+	"id": "gardullathehutt",
+	"imageUrl": "img/Coruscant-Dark/gardullathehutt.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Grotto Werribee",
+	"id": "grottowerribee",
+	"imageUrl": "img/Coruscant-Dark/grottowerribee.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Imperial Arrest Order & Secret Plans",
+	"id": "imperialarrestorder&secretplans",
+	"imageUrl": "img/Coruscant-Dark/imperialarrestorder&secretplans.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Imperial Artillery",
+	"id": "imperialartillery",
+	"imageUrl": "img/Coruscant-Dark/imperialartillery.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Jawa",
+	"id": "jawa_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/jawa.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Keder The Black",
+	"id": "kedertheblack",
+	"imageUrl": "img/Coruscant-Dark/kedertheblack.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Kill Them Immediately",
+	"id": "killthemimmediately",
+	"imageUrl": "img/Coruscant-Dark/killthemimmediately.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Lana Dobreed",
+	"id": "lanadobreed",
+	"imageUrl": "img/Coruscant-Dark/lanadobreed.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Laser Cannon Battery",
+	"id": "lasercannonbattery",
+	"imageUrl": "img/Coruscant-Dark/lasercannonbattery.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Little Real Power",
+	"id": "littlerealpower",
+	"imageUrl": "img/Coruscant-Dark/littlerealpower.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Lott Dod",
+	"id": "lottdod",
+	"imageUrl": "img/Coruscant-Dark/lottdod.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Malastare",
+	"id": "malastare_(ds)",
+	"imageUrl": "img/Coruscant-Dark/malastare.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Masterful Move & Endor Occupation",
+	"id": "masterfulmove&endoroccupation",
+	"imageUrl": "img/Coruscant-Dark/masterfulmove&endoroccupation.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Maul Strikes",
+	"id": "maulstrikes",
+	"imageUrl": "img/Coruscant-Dark/maulstrikes.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Maul's Sith Infiltrator",
+	"id": "maulssithinfiltrator",
+	"imageUrl": "img/Coruscant-Dark/maulssithinfiltrator.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Maul's Sith Infiltrator (AI)",
+	"id": "maulssithinfiltratorai",
+	"imageUrl": "img/Coruscant-Dark/maulssithinfiltratorai.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Mind Tricks Don't Work On Me",
+	"id": "mindtricksdontworkonme",
+	"imageUrl": "img/Coruscant-Dark/mindtricksdontworkonme.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Motion Supported",
+	"id": "motionsupported",
+	"imageUrl": "img/Coruscant-Dark/motionsupported.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "My Lord, Is That Legal? / I Will Make It Legal",
+	"id": "mylordisthatlegal",
+	"imageUrl": "img/starwars/Coruscant-Dark/mylordisthatlegal/iwillmakeitlegal.gif",
+	"type": "Objective",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo",
+	"id": "naboo_(ds)",
+	"imageUrl": "img/Coruscant-Dark/naboo.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo Blaster",
+	"id": "nabooblaster",
+	"imageUrl": "img/Coruscant-Dark/nabooblaster.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo Blaster Rifle",
+	"id": "nabooblasterrifle_(ds)",
+	"imageUrl": "img/Coruscant-Dark/nabooblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Battle Plains",
+	"id": "naboobattleplains_(ds)",
+	"imageUrl": "img/Coruscant-Dark/naboobattleplains.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Swamp",
+	"id": "nabooswamp_(ds)",
+	"imageUrl": "img/Coruscant-Dark/nabooswamp.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Theed Palace Courtyard",
+	"id": "nabootheedpalacecourtyard_(ds)",
+	"imageUrl": "img/Coruscant-Dark/nabootheedpalacecourtyard.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Theed Palace Docking Bay",
+	"id": "nabootheedpalacedockingbay_(ds)",
+	"imageUrl": "img/Coruscant-Dark/nabootheedpalacedockingbay.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Naboo: Theed Palace Throne Room",
+	"id": "nabootheedpalacethroneroom_(ds)",
+	"imageUrl": "img/Coruscant-Dark/nabootheedpalacethroneroom.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Neimoidian Advisor",
+	"id": "neimoidianadvisor",
+	"imageUrl": "img/Coruscant-Dark/neimoidianadvisor.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Neimoidian Pilot",
+	"id": "neimoidianpilot",
+	"imageUrl": "img/Coruscant-Dark/neimoidianpilot.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "No Civility, Only Politics",
+	"id": "nocivilityonlypolitics",
+	"imageUrl": "img/Coruscant-Dark/nocivilityonlypolitics.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "No Money, No Parts, No Deal! / You're A Slave?",
+	"id": "nomoneynopartsnodeal",
+	"imageUrl": "img/starwars/Coruscant-Dark/nomoneynopartsnodeal/youreaslave.gif",
+	"type": "Objective",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Nute Gunray",
+	"id": "nutegunray",
+	"imageUrl": "img/Coruscant-Dark/nutegunray.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "On The Payroll Of The Trade Federation",
+	"id": "onthepayrollofthetradefederation",
+	"imageUrl": "img/Coruscant-Dark/onthepayrollofthetradefederation.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Orn Free Taa",
+	"id": "ornfreetaa",
+	"imageUrl": "img/Coruscant-Dark/ornfreetaa.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Our Blockade Is Perfectly Legal",
+	"id": "ourblockadeisperfectlylegal",
+	"imageUrl": "img/Coruscant-Dark/ourblockadeisperfectlylegal.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "P-59",
+	"id": "p59",
+	"imageUrl": "img/Coruscant-Dark/p59.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "P-60",
+	"id": "p60",
+	"imageUrl": "img/Coruscant-Dark/p60.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Passel Argente",
+	"id": "passelargente",
+	"imageUrl": "img/Coruscant-Dark/passelargente.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Rune Haako",
+	"id": "runehaako",
+	"imageUrl": "img/Coruscant-Dark/runehaako.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Security Battle Droid",
+	"id": "securitybattledroid",
+	"imageUrl": "img/Coruscant-Dark/securitybattledroid.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Sense",
+	"id": "sense_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/sense.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Short Range Fighters & Watch Your Back!",
+	"id": "shortrangefighters&watchyourback",
+	"imageUrl": "img/Coruscant-Dark/shortrangefighters&watchyourback.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Squabbling Delegates",
+	"id": "squabblingdelegates",
+	"imageUrl": "img/Coruscant-Dark/squabblingdelegates.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine",
+	"id": "tatooine_(ds)_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/tatooine.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine: Marketplace",
+	"id": "tatooinemarketplace_(ds)",
+	"imageUrl": "img/Coruscant-Dark/tatooinemarketplace.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine: Mos Espa Docking Bay",
+	"id": "tatooinemosespadockingbay_(ds)",
+	"imageUrl": "img/Coruscant-Dark/tatooinemosespadockingbay.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tatooine: Watto's Junkyard",
+	"id": "tatooinewattosjunkyard_(ds)",
+	"imageUrl": "img/Coruscant-Dark/tatooinewattosjunkyard.gif",
+	"type": "Location",
+	"set": "Coruscant"
+	},
+	{
+	"name": "TC-14",
+	"id": "tc14",
+	"imageUrl": "img/Coruscant-Dark/tc14.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Televan Koreyy",
+	"id": "televankoreyy",
+	"imageUrl": "img/Coruscant-Dark/televankoreyy.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tey How",
+	"id": "teyhow",
+	"imageUrl": "img/Coruscant-Dark/teyhow.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "The Phantom Menace",
+	"id": "thephantommenace",
+	"imageUrl": "img/Coruscant-Dark/thephantommenace.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "The Phantom Menace (AI)",
+	"id": "thephantommenaceai",
+	"imageUrl": "img/Coruscant-Dark/thephantommenaceai.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "The Point Is Conceded",
+	"id": "thepointisconceded",
+	"imageUrl": "img/Coruscant-Dark/thepointisconceded.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "They Will Be No Match For You",
+	"id": "theywillbenomatchforyou",
+	"imageUrl": "img/Coruscant-Dark/theywillbenomatchforyou.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "They're Still Coming Through!",
+	"id": "theyrestillcomingthrough",
+	"imageUrl": "img/Coruscant-Dark/theyrestillcomingthrough.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "This Is Outrageous!",
+	"id": "thisisoutrageous",
+	"imageUrl": "img/Coruscant-Dark/thisisoutrageous.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tikkes",
+	"id": "tikkes",
+	"imageUrl": "img/Coruscant-Dark/tikkes.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Toonbuck Toora",
+	"id": "toonbucktoora",
+	"imageUrl": "img/Coruscant-Dark/toonbucktoora.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Trade Federation Battleship",
+	"id": "tradefederationbattleship",
+	"imageUrl": "img/Coruscant-Dark/tradefederationbattleship.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Trade Federation Droid Control Ship",
+	"id": "tradefederationdroidcontrolship",
+	"imageUrl": "img/Coruscant-Dark/tradefederationdroidcontrolship.gif",
+	"type": "Starship",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Tusken Raider",
+	"id": "tuskenraider_(coruscant)",
+	"imageUrl": "img/Coruscant-Dark/tuskenraider.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Vote Now!",
+	"id": "votenow_(ds)",
+	"imageUrl": "img/Coruscant-Dark/votenow.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "We Must Accelerate Our Plans",
+	"id": "wemustaccelerateourplans",
+	"imageUrl": "img/Coruscant-Dark/wemustaccelerateourplans.gif",
+	"type": "Interrupt",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Wipe Them Out, All Of Them",
+	"id": "wipethemoutallofthem",
+	"imageUrl": "img/Coruscant-Dark/wipethemoutallofthem.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Yade M'rak",
+	"id": "yademrak",
+	"imageUrl": "img/Coruscant-Dark/yademrak.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "Yeb Yeb Adem'thorn",
+	"id": "yebyebademthorn",
+	"imageUrl": "img/Coruscant-Dark/yebyebademthorn.gif",
+	"type": "Character",
+	"set": "Coruscant"
+	},
+	{
+	"name": "You Cannot Hide Forever & Mobilization Points",
+	"id": "youcannothideforever&mobilizationpoints",
+	"imageUrl": "img/Coruscant-Dark/youcannothideforever&mobilizationpoints.gif",
+	"type": "Effect",
+	"set": "Coruscant"
+	}
+}

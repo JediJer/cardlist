@@ -1,0 +1,632 @@
+﻿{
+	{
+	"name": "8D8",
+	"id": "8d8",
+	"imageUrl": "img/JabbasPalace-Light/8d8.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "A Gift",
+	"id": "agift",
+	"imageUrl": "img/JabbasPalace-Light/agift.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Arc Welder",
+	"id": "arcwelder",
+	"imageUrl": "img/JabbasPalace-Light/arcwelder.gif",
+	"type": "Device",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ardon 'Vapor' Crell",
+	"id": "ardonvaporcrell",
+	"imageUrl": "img/JabbasPalace-Light/ardonvaporcrell.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Artoo",
+	"id": "artoo",
+	"imageUrl": "img/JabbasPalace-Light/artoo.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Artoo, I Have A Bad Feeling About This",
+	"id": "artooihaveabadfeelingaboutthis",
+	"imageUrl": "img/JabbasPalace-Light/artooihaveabadfeelingaboutthis.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Attark",
+	"id": "attark",
+	"imageUrl": "img/JabbasPalace-Light/attark.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Aved Luun",
+	"id": "avedluun",
+	"imageUrl": "img/JabbasPalace-Light/avedluun.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Baragwin",
+	"id": "baragwin",
+	"imageUrl": "img/JabbasPalace-Light/baragwin.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Bargaining Table",
+	"id": "bargainingtable",
+	"imageUrl": "img/JabbasPalace-Light/bargainingtable.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "BG-J38",
+	"id": "bgj38",
+	"imageUrl": "img/JabbasPalace-Light/bgj38.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Blaster Deflection",
+	"id": "blasterdeflection",
+	"imageUrl": "img/JabbasPalace-Light/blasterdeflection.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Bo Shuda",
+	"id": "boshuda",
+	"imageUrl": "img/JabbasPalace-Light/boshuda.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "B'omarr Monk",
+	"id": "bomarrmonk",
+	"imageUrl": "img/JabbasPalace-Light/bomarrmonk.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Chadra-Fan",
+	"id": "chadrafan",
+	"imageUrl": "img/JabbasPalace-Light/chadrafan.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Choke",
+	"id": "choke",
+	"imageUrl": "img/JabbasPalace-Light/choke.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Corellian Retort",
+	"id": "corellianretort",
+	"imageUrl": "img/JabbasPalace-Light/corellianretort.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Devaronian",
+	"id": "devaronian",
+	"imageUrl": "img/JabbasPalace-Light/devaronian.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Don't Forget The Droids",
+	"id": "dontforgetthedroids",
+	"imageUrl": "img/JabbasPalace-Light/dontforgetthedroids.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Droopy McCool",
+	"id": "droopymccool",
+	"imageUrl": "img/JabbasPalace-Light/droopymccool.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Dune Sea Sabacc",
+	"id": "duneseasabacc_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/duneseasabacc.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Elom",
+	"id": "elom",
+	"imageUrl": "img/JabbasPalace-Light/elom.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Fallen Portal",
+	"id": "fallenportal",
+	"imageUrl": "img/JabbasPalace-Light/fallenportal.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Florn Lamproid",
+	"id": "flornlamproid",
+	"imageUrl": "img/JabbasPalace-Light/flornlamproid.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Garon Nas Tal",
+	"id": "garonnastal",
+	"imageUrl": "img/JabbasPalace-Light/garonnastal.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Geezum",
+	"id": "geezum",
+	"imageUrl": "img/JabbasPalace-Light/geezum.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ghoel",
+	"id": "ghoel",
+	"imageUrl": "img/JabbasPalace-Light/ghoel.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Gran",
+	"id": "gran",
+	"imageUrl": "img/JabbasPalace-Light/gran.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Hidden Compartment",
+	"id": "hiddencompartment",
+	"imageUrl": "img/JabbasPalace-Light/hiddencompartment.gif",
+	"type": "Device",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "H'nemthe",
+	"id": "hnemthe",
+	"imageUrl": "img/JabbasPalace-Light/hnemthe.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Holoprojector",
+	"id": "holoprojector",
+	"imageUrl": "img/JabbasPalace-Light/holoprojector.gif",
+	"type": "Device",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "I Must Be Allowed To Speak",
+	"id": "imustbeallowedtospeak",
+	"imageUrl": "img/JabbasPalace-Light/imustbeallowedtospeak.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ishi Tib",
+	"id": "ishitib",
+	"imageUrl": "img/JabbasPalace-Light/ishitib.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ithorian",
+	"id": "ithorian",
+	"imageUrl": "img/JabbasPalace-Light/ithorian.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace Sabacc",
+	"id": "jabbaspalacesabacc_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/jabbaspalacesabacc.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Audience Chamber",
+	"id": "jabbaspalaceaudiencechamber_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/jabbaspalaceaudiencechamber.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jabba's Palace: Entrance Cavern",
+	"id": "jabbaspalaceentrancecavern_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/jabbaspalaceentrancecavern.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jedi Mind Trick",
+	"id": "jedimindtrick",
+	"imageUrl": "img/JabbasPalace-Light/jedimindtrick.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Jess",
+	"id": "jess",
+	"imageUrl": "img/JabbasPalace-Light/jess.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Kalit",
+	"id": "kalit",
+	"imageUrl": "img/JabbasPalace-Light/kalit.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ke Chu Ke Kukuta?",
+	"id": "kechukekukuta",
+	"imageUrl": "img/JabbasPalace-Light/kechukekukuta.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Kiffex",
+	"id": "kiffex_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/kiffex.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Kirdo III",
+	"id": "kirdoiii",
+	"imageUrl": "img/JabbasPalace-Light/kirdoiii.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Kitonak",
+	"id": "kitonak",
+	"imageUrl": "img/JabbasPalace-Light/kitonak.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Klatooinian Revolutionary",
+	"id": "klatooinianrevolutionary",
+	"imageUrl": "img/JabbasPalace-Light/klatooinianrevolutionary.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Laudica",
+	"id": "laudica",
+	"imageUrl": "img/JabbasPalace-Light/laudica.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Leslomy Tacema",
+	"id": "leslomytacema",
+	"imageUrl": "img/JabbasPalace-Light/leslomytacema.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Life Debt",
+	"id": "lifedebt",
+	"imageUrl": "img/JabbasPalace-Light/lifedebt.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Loje Nella",
+	"id": "lojenella",
+	"imageUrl": "img/JabbasPalace-Light/lojenella.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Mandalorian Mishap",
+	"id": "mandalorianmishap",
+	"imageUrl": "img/JabbasPalace-Light/mandalorianmishap.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Max Rebo",
+	"id": "maxrebo",
+	"imageUrl": "img/JabbasPalace-Light/maxrebo.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Mos Eisley Blaster",
+	"id": "moseisleyblaster_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/moseisleyblaster.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Nar Shaddaa Wind Chimes",
+	"id": "narshaddaawindchimes",
+	"imageUrl": "img/JabbasPalace-Light/narshaddaawindchimes.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Oola",
+	"id": "oola",
+	"imageUrl": "img/JabbasPalace-Light/oola.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ortolan",
+	"id": "ortolan",
+	"imageUrl": "img/JabbasPalace-Light/ortolan.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Palejo Reshad",
+	"id": "palejoreshad",
+	"imageUrl": "img/JabbasPalace-Light/palejoreshad.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Princess Leia Organa",
+	"id": "princessleiaorgana",
+	"imageUrl": "img/JabbasPalace-Light/princessleiaorgana.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Projection Of A Skywalker",
+	"id": "projectionofaskywalker",
+	"imageUrl": "img/JabbasPalace-Light/projectionofaskywalker.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Pucumir Thryss",
+	"id": "pucumirthryss",
+	"imageUrl": "img/JabbasPalace-Light/pucumirthryss.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Rayc Ryjerd",
+	"id": "raycryjerd",
+	"imageUrl": "img/JabbasPalace-Light/raycryjerd.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Rennek",
+	"id": "rennek",
+	"imageUrl": "img/JabbasPalace-Light/rennek.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Revealed",
+	"id": "revealed",
+	"imageUrl": "img/JabbasPalace-Light/revealed.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "R'kik D'nec, Hero Of The Dune Sea",
+	"id": "rkikdnecheroofthedunesea",
+	"imageUrl": "img/JabbasPalace-Light/rkikdnecheroofthedunesea.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Saelt-Marae",
+	"id": "saeltmarae",
+	"imageUrl": "img/JabbasPalace-Light/saeltmarae.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Sandwhirl",
+	"id": "sandwhirl_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/sandwhirl.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Sergeant Doallyn",
+	"id": "sergeantdoallyn",
+	"imageUrl": "img/JabbasPalace-Light/sergeantdoallyn.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Shasa Tiel",
+	"id": "shasatiel",
+	"imageUrl": "img/JabbasPalace-Light/shasatiel.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Sic-Six",
+	"id": "sicsix",
+	"imageUrl": "img/JabbasPalace-Light/sicsix.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Skiff",
+	"id": "skiff_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/skiff.gif",
+	"type": "Vehicle",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Skull",
+	"id": "skull",
+	"imageUrl": "img/JabbasPalace-Light/skull.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Snivvian",
+	"id": "snivvian",
+	"imageUrl": "img/JabbasPalace-Light/snivvian.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Someone Who Loves You",
+	"id": "someonewholovesyou",
+	"imageUrl": "img/JabbasPalace-Light/someonewholovesyou.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Strangle",
+	"id": "strangle",
+	"imageUrl": "img/JabbasPalace-Light/strangle.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tamtel Skreej",
+	"id": "tamtelskreej",
+	"imageUrl": "img/JabbasPalace-Light/tamtelskreej.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tanus Spijek",
+	"id": "tanusspijek",
+	"imageUrl": "img/JabbasPalace-Light/tanusspijek.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tatooine: Desert",
+	"id": "tatooinedesert_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/tatooinedesert.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tatooine: Hutt Canyon",
+	"id": "tatooinehuttcanyon",
+	"imageUrl": "img/JabbasPalace-Light/tatooinehuttcanyon.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tessek",
+	"id": "tessek",
+	"imageUrl": "img/JabbasPalace-Light/tessek.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "The Signal",
+	"id": "thesignal",
+	"imageUrl": "img/JabbasPalace-Light/thesignal.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Tibrin",
+	"id": "tibrin",
+	"imageUrl": "img/JabbasPalace-Light/tibrin.gif",
+	"type": "Location",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Ultimatum",
+	"id": "ultimatum",
+	"imageUrl": "img/JabbasPalace-Light/ultimatum.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Unfriendly Fire",
+	"id": "unfriendlyfire",
+	"imageUrl": "img/JabbasPalace-Light/unfriendlyfire.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Vibro-Ax",
+	"id": "vibroax_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/vibroax.gif",
+	"type": "Weapon",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Vul Tazaene",
+	"id": "vultazaene",
+	"imageUrl": "img/JabbasPalace-Light/vultazaene.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Weapon Levitation",
+	"id": "weaponlevitation_(ls)",
+	"imageUrl": "img/JabbasPalace-Light/weaponlevitation.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Worrt",
+	"id": "worrt",
+	"imageUrl": "img/JabbasPalace-Light/worrt.gif",
+	"type": "Creature",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Yarkora",
+	"id": "yarkora",
+	"imageUrl": "img/JabbasPalace-Light/yarkora.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Yarna d'al' Gargan",
+	"id": "yarnadalgargan",
+	"imageUrl": "img/JabbasPalace-Light/yarnadalgargan.gif",
+	"type": "Effect",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "You Will Take Me To Jabba Now",
+	"id": "youwilltakemetojabbanow",
+	"imageUrl": "img/JabbasPalace-Light/youwilltakemetojabbanow.gif",
+	"type": "Interrupt",
+	"set": "Jabba's Palace"
+	},
+	{
+	"name": "Yoxgit",
+	"id": "yoxgit",
+	"imageUrl": "img/JabbasPalace-Light/yoxgit.gif",
+	"type": "Character",
+	"set": "Jabba's Palace"
+	}
+}
