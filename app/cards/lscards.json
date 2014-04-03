@@ -1,0 +1,44 @@
+[
+	{
+  	"name": "2X-3KPR (Tooex)",
+	"id": "2x3kpr",
+    "imageUrl": "img/Premiere-Light/2x3kpr.gif",
+    "type": "Character",
+    "set": "Premiere"
+  },
+	{
+  	"name": "A Few Maneuvers",
+	"id": "afewmaneuvers",
+    "imageUrl": "img/Premiere-Light/afewmaneuvers.gif",
+    "type": "Interrupt",
+    "set": "Premiere"
+  },
+	{
+  	"name": "A Tremor In The Force",
+	"id": "atremorintheforce",
+    "imageUrl": "img/Premiere-Light/atremorintheforce.gif",
+    "type": "Effect",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Affect Mind",
+	"id": "affectmind",
+    "imageUrl": "img/Premiere-Light/affectmind.gif",
+    "type": "Effect",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Alderaan",
+	"id": "alderaan-ls",
+    "imageUrl": "img/Premiere-Light/alderaan.gif",
+    "type": "Location",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Alter",
+	"id": "alter-ls",
+    "imageUrl": "img/Premiere-Light/alter.gif",
+    "type": "Interrupt",
+    "set": "Premiere"
+  }
+]

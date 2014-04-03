@@ -1,0 +1,44 @@
+[
+	{
+  	"name": "5D6-RA-7",
+	"id": "5d6ra7",
+    "imageUrl": "img/Premiere-Dark/5d6ra7.gif",
+    "type": "Character",
+    "set": "Premiere"
+  },
+	{
+  	"name": "A Disturbance In The Force",
+	"id": "adisturbanceintheforce",
+    "imageUrl": "img/Premiere-Dark/adisturbanceintheforce.gif",
+    "type": "Effect",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Admiral Motti",
+	"id": "admiralmotti",
+    "imageUrl": "img/Premiere-Dark/admiralmotti.gif",
+    "type": "Character",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Alderaan",
+	"id": "alderaan-ds",
+    "imageUrl": "img/Premiere-Dark/alderaan.gif",
+    "type": "Location",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Alter",
+	"id": "alter-ds",
+    "imageUrl": "img/Premiere-Dark/alter.gif",
+    "type": "Effect",
+    "set": "Premiere"
+  },
+	{
+  	"name": "Assault Rifle",
+	"id": "assaultrifle",
+    "imageUrl": "img/Premiere-Dark/assaultrifle.gif",
+    "type": "Weapon",
+    "set": "Premiere"
+  }
+]
