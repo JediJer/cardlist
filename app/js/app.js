@@ -13,7 +13,7 @@ cardlistApp.config(['$routeProvider',
        when('/cards', {
          templateUrl: 'partials/card-list.html'
        }).
-       when('/phones/:phoneId', {
+       when('/cards/:cardId', {
          templateUrl: 'partials/card-detail.html',
          controller: 'CardDetailCtrl'
        }).
