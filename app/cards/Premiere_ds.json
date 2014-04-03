@@ -1,0 +1,1136 @@
+﻿[
+	{
+	"name": "5D6-RA-7 (Fivedesix)",
+	"id": "5d6ra7",
+	"imageUrl": "img/Premiere-Dark/5d6ra7.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "A Disturbance In The Force",
+	"id": "adisturbanceintheforce",
+	"imageUrl": "img/Premiere-Dark/adisturbanceintheforce.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Admiral Motti",
+	"id": "admiralmotti",
+	"imageUrl": "img/Premiere-Dark/admiralmotti.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Alderaan",
+	"id": "alderaan_(ds)",
+	"imageUrl": "img/Premiere-Dark/alderaan.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Alter",
+	"id": "alter_(ds)_(premiere)",
+	"imageUrl": "img/Premiere-Dark/alter.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Assault Rifle",
+	"id": "assaultrifle",
+	"imageUrl": "img/Premiere-Dark/assaultrifle.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Baniss Keeg",
+	"id": "banisskeeg",
+	"imageUrl": "img/Premiere-Dark/banisskeeg.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Bantha",
+	"id": "bantha",
+	"imageUrl": "img/Premiere-Dark/bantha.gif",
+	"type": "Vehicle",
+	"set": "Premiere"
+	},
+	{
+	"name": "Black 2",
+	"id": "black2",
+	"imageUrl": "img/Premiere-Dark/black2.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "Black 3",
+	"id": "black3",
+	"imageUrl": "img/Premiere-Dark/black3.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "Blast Door Controls",
+	"id": "blastdoorcontrols",
+	"imageUrl": "img/Premiere-Dark/blastdoorcontrols.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Blaster Rack",
+	"id": "blasterrack",
+	"imageUrl": "img/Premiere-Dark/blasterrack.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Blaster Rifle",
+	"id": "blasterrifle_(ds)",
+	"imageUrl": "img/Premiere-Dark/blasterrifle.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Blaster Scope",
+	"id": "blasterscope",
+	"imageUrl": "img/Premiere-Dark/blasterscope.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Boosted TIE Cannon",
+	"id": "boostedtiecannon",
+	"imageUrl": "img/Premiere-Dark/boostedtiecannon.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Boring Conversation Anyway",
+	"id": "boringconversationanyway",
+	"imageUrl": "img/Premiere-Dark/boringconversationanyway.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Caller",
+	"id": "caller_(ds)",
+	"imageUrl": "img/Premiere-Dark/caller.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Charming To The Last",
+	"id": "charmingtothelast",
+	"imageUrl": "img/Premiere-Dark/charmingtothelast.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Chief Bast",
+	"id": "chiefbast",
+	"imageUrl": "img/Premiere-Dark/chiefbast.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Collateral Damage",
+	"id": "collateraldamage",
+	"imageUrl": "img/Premiere-Dark/collateraldamage.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Colonel Wullf Yularen",
+	"id": "colonelwullfyularen",
+	"imageUrl": "img/Premiere-Dark/colonelwullfyularen.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Comlink",
+	"id": "comlink",
+	"imageUrl": "img/Premiere-Dark/comlink.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Commander Praji",
+	"id": "commanderpraji",
+	"imageUrl": "img/Premiere-Dark/commanderpraji.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Counter Assault",
+	"id": "counterassault",
+	"imageUrl": "img/Premiere-Dark/counterassault.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dantooine",
+	"id": "dantooine_(ds)",
+	"imageUrl": "img/Premiere-Dark/dantooine.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dark Collaboration",
+	"id": "darkcollaboration",
+	"imageUrl": "img/Premiere-Dark/darkcollaboration.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dark Hours",
+	"id": "darkhours",
+	"imageUrl": "img/Premiere-Dark/darkhours.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dark Jedi Lightsaber",
+	"id": "darkjedilightsaber",
+	"imageUrl": "img/Premiere-Dark/darkjedilightsaber.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dark Jedi Presence",
+	"id": "darkjedipresence",
+	"imageUrl": "img/Premiere-Dark/darkjedipresence.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dark Maneuvers",
+	"id": "darkmaneuvers",
+	"imageUrl": "img/Premiere-Dark/darkmaneuvers.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Darth Vader",
+	"id": "darthvader",
+	"imageUrl": "img/Premiere-Dark/darthvader.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dathcha",
+	"id": "dathcha",
+	"imageUrl": "img/Premiere-Dark/dathcha.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dead Jawa",
+	"id": "deadjawa",
+	"imageUrl": "img/Premiere-Dark/deadjawa.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star Sentry",
+	"id": "deathstarsentry",
+	"imageUrl": "img/Premiere-Dark/deathstarsentry.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star Trooper",
+	"id": "deathstartrooper",
+	"imageUrl": "img/Premiere-Dark/deathstartrooper.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star: Central Core",
+	"id": "deathstarcentralcore",
+	"imageUrl": "img/Premiere-Dark/deathstarcentralcore.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star: Detention Block Corridor",
+	"id": "deathstardetentionblockcorridor_(ds)",
+	"imageUrl": "img/Premiere-Dark/deathstardetentionblockcorridor.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star: Docking Bay 327",
+	"id": "deathstardockingbay327_(ds)",
+	"imageUrl": "img/Premiere-Dark/deathstardockingbay327.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star: Level 4 Military Corridor",
+	"id": "deathstarlevel4militarycorridor",
+	"imageUrl": "img/Premiere-Dark/deathstarlevel4militarycorridor.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Death Star: War Room",
+	"id": "deathstarwarroom",
+	"imageUrl": "img/Premiere-Dark/deathstarwarroom.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Devastator",
+	"id": "devastator",
+	"imageUrl": "img/Premiere-Dark/devastator.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "Disarmed",
+	"id": "disarmed_(ds)",
+	"imageUrl": "img/Premiere-Dark/disarmed.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Djas Puhr",
+	"id": "djaspuhr",
+	"imageUrl": "img/Premiere-Dark/djaspuhr.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Dr. Evazan",
+	"id": "drevazan",
+	"imageUrl": "img/Premiere-Dark/drevazan.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Droid Detector",
+	"id": "droiddetector",
+	"imageUrl": "img/Premiere-Dark/droiddetector.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "DS-61-2",
+	"id": "ds612",
+	"imageUrl": "img/Premiere-Dark/ds612.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "DS-61-3",
+	"id": "ds613",
+	"imageUrl": "img/Premiere-Dark/ds613.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "EG-6 (Eegee-Six)",
+	"id": "eg6",
+	"imageUrl": "img/Premiere-Dark/eg6.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Elis Helrot",
+	"id": "elishelrot",
+	"imageUrl": "img/Premiere-Dark/elishelrot.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Emergency Deployment",
+	"id": "emergencydeployment",
+	"imageUrl": "img/Premiere-Dark/emergencydeployment.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Evacuate?",
+	"id": "evacuate",
+	"imageUrl": "img/Premiere-Dark/evacuate.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Expand The Empire",
+	"id": "expandtheempire",
+	"imageUrl": "img/Premiere-Dark/expandtheempire.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Fear Will Keep Them In Line",
+	"id": "fearwillkeeptheminline",
+	"imageUrl": "img/Premiere-Dark/fearwillkeeptheminline.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Feltipern Trevagg",
+	"id": "feltiperntrevagg",
+	"imageUrl": "img/Premiere-Dark/feltiperntrevagg.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Full Scale Alert",
+	"id": "fullscalealert",
+	"imageUrl": "img/Premiere-Dark/fullscalealert.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Fusion Generator Supply Tanks",
+	"id": "fusiongeneratorsupplytanks_(ds)",
+	"imageUrl": "img/Premiere-Dark/fusiongeneratorsupplytanks.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Gaderffii Stick",
+	"id": "gaderffiistick",
+	"imageUrl": "img/Premiere-Dark/gaderffiistick.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Garindan",
+	"id": "garindan",
+	"imageUrl": "img/Premiere-Dark/garindan.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "General Tagge",
+	"id": "generaltagge",
+	"imageUrl": "img/Premiere-Dark/generaltagge.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Grand Moff Tarkin",
+	"id": "grandmofftarkin",
+	"imageUrl": "img/Premiere-Dark/grandmofftarkin.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Gravel Storm",
+	"id": "gravelstorm",
+	"imageUrl": "img/Premiere-Dark/gravelstorm.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Han Seeker",
+	"id": "hanseeker",
+	"imageUrl": "img/Premiere-Dark/hanseeker.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "I Find Your Lack Of Faith Disturbing",
+	"id": "ifindyourlackoffaithdisturbing",
+	"imageUrl": "img/Premiere-Dark/ifindyourlackoffaithdisturbing.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "I Have You Now",
+	"id": "ihaveyounow",
+	"imageUrl": "img/Premiere-Dark/ihaveyounow.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial Barrier",
+	"id": "imperialbarrier",
+	"imageUrl": "img/Premiere-Dark/imperialbarrier.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial Blaster",
+	"id": "imperialblaster",
+	"imageUrl": "img/Premiere-Dark/imperialblaster.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial Code Cylinder",
+	"id": "imperialcodecylinder",
+	"imageUrl": "img/Premiere-Dark/imperialcodecylinder.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial Pilot",
+	"id": "imperialpilot",
+	"imageUrl": "img/Premiere-Dark/imperialpilot.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial Reinforcements",
+	"id": "imperialreinforcements",
+	"imageUrl": "img/Premiere-Dark/imperialreinforcements.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial Trooper Guard",
+	"id": "imperialtrooperguard",
+	"imageUrl": "img/Premiere-Dark/imperialtrooperguard.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Imperial-Class Star Destroyer",
+	"id": "imperialclassstardestroyer",
+	"imageUrl": "img/Premiere-Dark/imperialclassstardestroyer.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "Ion Cannon",
+	"id": "ioncannon",
+	"imageUrl": "img/Premiere-Dark/ioncannon.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "It's Worse",
+	"id": "itsworse",
+	"imageUrl": "img/Premiere-Dark/itsworse.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "I've Got A Problem Here",
+	"id": "ivegotaproblemhere",
+	"imageUrl": "img/Premiere-Dark/ivegotaproblemhere.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "I've Lost Artoo!",
+	"id": "ivelostartoo",
+	"imageUrl": "img/Premiere-Dark/ivelostartoo.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Jawa",
+	"id": "jawa_(ds)_(premiere)",
+	"imageUrl": "img/Premiere-Dark/jawa.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Jawa Pack",
+	"id": "jawapack",
+	"imageUrl": "img/Premiere-Dark/jawapack.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Juri Juice",
+	"id": "jurijuice",
+	"imageUrl": "img/Premiere-Dark/jurijuice.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Kessel",
+	"id": "kessel_(ds)",
+	"imageUrl": "img/Premiere-Dark/kessel.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Ket Maliss",
+	"id": "ketmaliss",
+	"imageUrl": "img/Premiere-Dark/ketmaliss.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Kintan Strider",
+	"id": "kintanstrider",
+	"imageUrl": "img/Premiere-Dark/kintanstrider.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Kitik Keed'kak",
+	"id": "kitikkeedkak",
+	"imageUrl": "img/Premiere-Dark/kitikkeedkak.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Labria",
+	"id": "labria",
+	"imageUrl": "img/Premiere-Dark/labria.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Laser Projector",
+	"id": "laserprojector",
+	"imageUrl": "img/Premiere-Dark/laserprojector.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Lateral Damage",
+	"id": "lateraldamage",
+	"imageUrl": "img/Premiere-Dark/lateraldamage.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Lieutenant Tanbris",
+	"id": "lieutenanttanbris",
+	"imageUrl": "img/Premiere-Dark/lieutenanttanbris.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Lift Tube",
+	"id": "lifttube_(ds)",
+	"imageUrl": "img/Premiere-Dark/lifttube.gif",
+	"type": "Vehicle",
+	"set": "Premiere"
+	},
+	{
+	"name": "Light Repeating Blaster Rifle",
+	"id": "lightrepeatingblasterrifle",
+	"imageUrl": "img/Premiere-Dark/lightrepeatingblasterrifle.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Limited Resources",
+	"id": "limitedresources",
+	"imageUrl": "img/Premiere-Dark/limitedresources.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "LIN-V8M (Elleyein-Veeateemm)",
+	"id": "linv8m",
+	"imageUrl": "img/Premiere-Dark/linv8m.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Local Trouble",
+	"id": "localtrouble",
+	"imageUrl": "img/Premiere-Dark/localtrouble.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Lone Pilot",
+	"id": "lonepilot",
+	"imageUrl": "img/Premiere-Dark/lonepilot.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Lone Warrior",
+	"id": "lonewarrior",
+	"imageUrl": "img/Premiere-Dark/lonewarrior.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Look Sir, Droids",
+	"id": "looksirdroids",
+	"imageUrl": "img/Premiere-Dark/looksirdroids.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Luke Seeker",
+	"id": "lukeseeker",
+	"imageUrl": "img/Premiere-Dark/lukeseeker.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Luke? Luuuuke!",
+	"id": "lukeluuuuke",
+	"imageUrl": "img/Premiere-Dark/lukeluuuuke.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Macroscan",
+	"id": "macroscan",
+	"imageUrl": "img/Premiere-Dark/macroscan.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "M'iiyoom Onith",
+	"id": "miiyoomonith",
+	"imageUrl": "img/Premiere-Dark/miiyoomonith.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Molator",
+	"id": "molator",
+	"imageUrl": "img/Premiere-Dark/molator.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Moment Of Triumph",
+	"id": "momentoftriumph",
+	"imageUrl": "img/Premiere-Dark/momentoftriumph.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "MSE-6 'Mouse' Droid",
+	"id": "mse6mousedroid",
+	"imageUrl": "img/Premiere-Dark/mse6mousedroid.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Myo",
+	"id": "myo",
+	"imageUrl": "img/Premiere-Dark/myo.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Nevar Yalnal",
+	"id": "nevaryalnal",
+	"imageUrl": "img/Premiere-Dark/nevaryalnal.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Observation Holocam",
+	"id": "observationholocam",
+	"imageUrl": "img/Premiere-Dark/observationholocam.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Ommni Box",
+	"id": "ommnibox",
+	"imageUrl": "img/Premiere-Dark/ommnibox.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Organa's Ceremonial Necklace",
+	"id": "organasceremonialnecklace",
+	"imageUrl": "img/Premiere-Dark/organasceremonialnecklace.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Overload",
+	"id": "overload",
+	"imageUrl": "img/Premiere-Dark/overload.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Physical Choke",
+	"id": "physicalchoke",
+	"imageUrl": "img/Premiere-Dark/physicalchoke.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Ponda Baba",
+	"id": "pondababa",
+	"imageUrl": "img/Premiere-Dark/pondababa.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Precise Attack",
+	"id": "preciseattack",
+	"imageUrl": "img/Premiere-Dark/preciseattack.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Presence Of The Force",
+	"id": "presenceoftheforce",
+	"imageUrl": "img/Premiere-Dark/presenceoftheforce.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Prophetess",
+	"id": "prophetess",
+	"imageUrl": "img/Premiere-Dark/prophetess.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "R1-G4 (Arone-Geefour)",
+	"id": "r1g4",
+	"imageUrl": "img/Premiere-Dark/r1g4.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "R4-M9 (Arfour-Emmnine)",
+	"id": "r4m9",
+	"imageUrl": "img/Premiere-Dark/r4m9.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Reactor Terminal",
+	"id": "reactorterminal",
+	"imageUrl": "img/Premiere-Dark/reactorterminal.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Restraining Bolt",
+	"id": "restrainingbolt_(ds)",
+	"imageUrl": "img/Premiere-Dark/restrainingbolt.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Sandcrawler",
+	"id": "sandcrawler_(ds)",
+	"imageUrl": "img/Premiere-Dark/sandcrawler.gif",
+	"type": "Vehicle",
+	"set": "Premiere"
+	},
+	{
+	"name": "Scanning Crew",
+	"id": "scanningcrew",
+	"imageUrl": "img/Premiere-Dark/scanningcrew.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Send A Detachment Down",
+	"id": "sendadetachmentdown",
+	"imageUrl": "img/Premiere-Dark/sendadetachmentdown.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Sense",
+	"id": "sense_(ds)_(premiere)",
+	"imageUrl": "img/Premiere-Dark/sense.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Set For Stun",
+	"id": "setforstun",
+	"imageUrl": "img/Premiere-Dark/setforstun.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Stormtrooper",
+	"id": "stormtrooper",
+	"imageUrl": "img/Premiere-Dark/stormtrooper.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Stormtrooper Backpack",
+	"id": "stormtrooperbackpack",
+	"imageUrl": "img/Premiere-Dark/stormtrooperbackpack.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Stormtrooper Utility Belt",
+	"id": "stormtrooperutilitybelt",
+	"imageUrl": "img/Premiere-Dark/stormtrooperutilitybelt.gif",
+	"type": "Device",
+	"set": "Premiere"
+	},
+	{
+	"name": "Sunsdown",
+	"id": "sunsdown",
+	"imageUrl": "img/Premiere-Dark/sunsdown.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tactical Re-Call",
+	"id": "tacticalrecall",
+	"imageUrl": "img/Premiere-Dark/tacticalrecall.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Takeel",
+	"id": "takeel",
+	"imageUrl": "img/Premiere-Dark/takeel.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tallon Roll",
+	"id": "tallonroll",
+	"imageUrl": "img/Premiere-Dark/tallonroll.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine",
+	"id": "tatooine_(ds)_(premiere)",
+	"imageUrl": "img/Premiere-Dark/tatooine.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine: Cantina",
+	"id": "tatooinecantina_(ds)",
+	"imageUrl": "img/Premiere-Dark/tatooinecantina.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine: Docking Bay 94",
+	"id": "tatooinedockingbay94_(ds)",
+	"imageUrl": "img/Premiere-Dark/tatooinedockingbay94.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine: Jawa Camp",
+	"id": "tatooinejawacamp_(ds)",
+	"imageUrl": "img/Premiere-Dark/tatooinejawacamp.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine: Jundland Wastes",
+	"id": "tatooinejundlandwastes_(ds)",
+	"imageUrl": "img/Premiere-Dark/tatooinejundlandwastes.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine: Lars' Moisture Farm",
+	"id": "tatooinelarsmoisturefarm_(ds)",
+	"imageUrl": "img/Premiere-Dark/tatooinelarsmoisturefarm.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tatooine: Mos Eisley",
+	"id": "tatooinemoseisley_(ds)",
+	"imageUrl": "img/Premiere-Dark/tatooinemoseisley.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "The Circle Is Now Complete",
+	"id": "thecircleisnowcomplete",
+	"imageUrl": "img/Premiere-Dark/thecircleisnowcomplete.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "The Empire's Back",
+	"id": "theempiresback",
+	"imageUrl": "img/Premiere-Dark/theempiresback.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "TIE Advanced x1",
+	"id": "tieadvancedx1",
+	"imageUrl": "img/Premiere-Dark/tieadvancedx1.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "TIE Fighter",
+	"id": "tiefighter",
+	"imageUrl": "img/Premiere-Dark/tiefighter.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "TIE Scout",
+	"id": "tiescout",
+	"imageUrl": "img/Premiere-Dark/tiescout.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "Timer Mine",
+	"id": "timermine_(ds)",
+	"imageUrl": "img/Premiere-Dark/timermine.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tonnika Sisters",
+	"id": "tonnikasisters",
+	"imageUrl": "img/Premiere-Dark/tonnikasisters.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Trinto Duaba",
+	"id": "trintoduaba",
+	"imageUrl": "img/Premiere-Dark/trintoduaba.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Trooper Charge",
+	"id": "troopercharge",
+	"imageUrl": "img/Premiere-Dark/troopercharge.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Turbolaser Battery",
+	"id": "turbolaserbattery",
+	"imageUrl": "img/Premiere-Dark/turbolaserbattery.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tusken Raider",
+	"id": "tuskenraider_(premiere)",
+	"imageUrl": "img/Premiere-Dark/tuskenraider.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Tusken Scavengers",
+	"id": "tuskenscavengers",
+	"imageUrl": "img/Premiere-Dark/tuskenscavengers.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Ubrikkian 9000 Z001",
+	"id": "ubrikkian9000z001",
+	"imageUrl": "img/Premiere-Dark/ubrikkian9000z001.gif",
+	"type": "Vehicle",
+	"set": "Premiere"
+	},
+	{
+	"name": "Utinni!",
+	"id": "utinni_(ds)",
+	"imageUrl": "img/Premiere-Dark/utinni.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Vader's Custom TIE",
+	"id": "vaderscustomtie",
+	"imageUrl": "img/Premiere-Dark/vaderscustomtie.gif",
+	"type": "Starship",
+	"set": "Premiere"
+	},
+	{
+	"name": "Vader's Eye",
+	"id": "vaderseye",
+	"imageUrl": "img/Premiere-Dark/vaderseye.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Vader's Lightsaber",
+	"id": "vaderslightsaber",
+	"imageUrl": "img/Premiere-Dark/vaderslightsaber.gif",
+	"type": "Weapon",
+	"set": "Premiere"
+	},
+	{
+	"name": "WED15-I662 'Treadwell' Droid",
+	"id": "wed151662treadwelldroid",
+	"imageUrl": "img/Premiere-Dark/wed151662treadwelldroid.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "We're All Gonna Be A Lot Thinner!",
+	"id": "wereallgonnabealotthinner",
+	"imageUrl": "img/Premiere-Dark/wereallgonnabealotthinner.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Wrong Turn",
+	"id": "wrongturn",
+	"imageUrl": "img/Premiere-Dark/wrongturn.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Wuher",
+	"id": "wuher",
+	"imageUrl": "img/Premiere-Dark/wuher.gif",
+	"type": "Character",
+	"set": "Premiere"
+	},
+	{
+	"name": "Yavin 4",
+	"id": "yavin4_(ds)",
+	"imageUrl": "img/Premiere-Dark/yavin4.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Yavin 4: Docking Bay",
+	"id": "yavin4dockingbay_(ds)",
+	"imageUrl": "img/Premiere-Dark/yavin4dockingbay.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "Yavin 4: Jungle",
+	"id": "yavin4jungle_(ds)",
+	"imageUrl": "img/Premiere-Dark/yavin4jungle.gif",
+	"type": "Location",
+	"set": "Premiere"
+	},
+	{
+	"name": "You Overestimate Their Chances",
+	"id": "youoverestimatetheirchances",
+	"imageUrl": "img/Premiere-Dark/youoverestimatetheirchances.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	},
+	{
+	"name": "Your Eyes Can Deceive You",
+	"id": "youreyescandeceiveyou",
+	"imageUrl": "img/Premiere-Dark/youreyescandeceiveyou.gif",
+	"type": "Effect",
+	"set": "Premiere"
+	},
+	{
+	"name": "Your Powers Are Weak, Old Man",
+	"id": "yourpowersareweakoldman",
+	"imageUrl": "img/Premiere-Dark/yourpowersareweakoldman.gif",
+	"type": "Interrupt",
+	"set": "Premiere"
+	}
+]
